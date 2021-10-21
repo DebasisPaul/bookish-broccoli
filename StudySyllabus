@@ -1,7 +1,5 @@
-1YearSyllabus(.NetCoreDevelopment)
+.Net Development Learning Path
 
-
-1st 3Monthsyllabus
 
     1 C#
     2 Asp.Net Core (Mvc, Razor Pages, Blazor)
@@ -17,10 +15,6 @@
     12 Agile Methods Scrum (Agile and Scrum development methodologies (SAFe)
     13 Algorithm & Data Structure
     14 Visual Studio Community, Visual Studio Code
-
-
-2nd 3MonthSyllabus
-
     1 Docker, Kubernetics, Container
     2 React, Vue
     3 Web Forms
@@ -36,11 +30,6 @@
     13 Software Documentation
     14 Solid Design Principle
     15 SaaS Or Paas
-
-
-
-3rd 3MonthSyllabus
-
     16 Node.js, Typescript
     17 D3. Js
     18 Api Integration
@@ -69,8 +58,6 @@
     41 Mcsd Certification
 
 
-4th 3MonthSyllabus
-
 
 Robust Large-Scale Projects
 (Minimum 3 Projects)
@@ -93,20 +80,21 @@ Basic IIoT Concepts and Glossary of Terms
 There are hundreds of concepts and terms that relate to IIoT and Industry 4.0, but here are 12 foundational words and phrases to know before you decide whether you want to invest in Industry 4.0 solutions for your business:
 
     • Enterprise Resource Planning (ERP): Business process management tools that can be used to manage information across an organization.
-    • 
+    
     • Big data: Big data refers to large sets of structured or unstructured data that can be compiled, stored, organized, and analyzed to reveal patterns, trends, associations, and opportunities.
-    • 
+    
     • Cloud computing: Cloud computing refers to the practice of using interconnected remote servers hosted on the Internet to store, manage, and process information.
-    • 
+    
     • Cyber-physical systems (CPS): Cyber-physical systems, also sometimes known as cyber manufacturing, refers to an Industry 4.0-enabled manufacturing environment that offers real-time data collection, analysis, and transparency across every aspect of a manufacturing operation.
-    • 
+    
     • Artificial intelligence (AI): Artificial intelligence is a concept that refers to a computer’s ability to perform tasks and make decisions that would historically require some level of human intelligence.
-    • 
+    
     • Machine learning: Machine learning refers to the ability that computers have to learn and improve on their own through artificial intelligence—without being explicitly told or programmed to do so.
-    • 
+    
     • Real-time data processing: Real-time data processing refers to the abilities of computer systems and machines to continuously and automatically process data and provide real-time or near-time outputs and insights.
-    • 
+    
 Now that you have a better understanding of some of the core concepts related to Industry 4.0, you’re ready to dig deeper into how smart manufacturing can revolutionize the way you run and grow your business.
+
  Great Websites To Help You Learn Web Development Online
     1 Pluralsight
     2 MDN Web Docs
