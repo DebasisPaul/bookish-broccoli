@@ -10,13 +10,13 @@ This table covers daily Learning & Problem solving Trac Record:
 ||
 || 
 ||
-|[Building Middleware](Labs\4.5%20Building%20Middleware.md) | Create a middleware pipline to set the current [culture](https://docs.microsoft.com/en-us/dotnet/api/system.globalization.cultureinfo) of a ASP.NET Core App. |[MVC Applications](Labs\2.%20MVC%20Applications%20with%20ASP.NET%20Core.md) (optional)
-|[Logging and Diagnostics](Labs\5.%20Logging%20and%20Diagnostics.md) | Create logs, then filter them. Explore diagnostics middleware. | [MVC Applications](Labs\2.%20MVC%20Applications%20with%20ASP.NET%20Core.md)
-|[Razor Tag Helpers](Labs\6.%20Working%20with%20Razor%20Tag%20Helpers.md) | Create a custom Tag Helper. |
 |||
 |||
-| | |
-|| |
+|||
+|||
+|||
+|||
+|||
 
 
 
