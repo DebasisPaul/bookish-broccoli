@@ -5,7 +5,7 @@ This table covers daily Learning & Problem solving Trac Record:
 (Reason to Keep this record more focus to better study after one week study then do things again the previous week you done)
 
 |day|subject|time|topics|Source|
---|--|--|
+--|--|--|--|--|
 |20 October 2021| ASP.NET LEARN | 6.41 PM (Seattle Time) |
 |[MVC Applications](Labs\2.%20MVC%20Applications%20with%20ASP.NET%20Core.md) | Create an .NET Core MVC App and explore routing.
 |[Startup, Hosting, and Middleware](Labs\3.%20Startup,%20Hosting%20and%20Middleware.md) | Explore the different configuration options available for a ASP.NET Core application.
