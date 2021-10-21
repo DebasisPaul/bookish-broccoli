@@ -7,16 +7,7 @@ This table covers daily Learning & Problem solving Trac Record:
 | #DAY | #SUBJECTS | #TIME | #TOPICS | #SOURCE |
 |---|---|---|---|---|
 |20 October 2021| ASP.NET LEARN | 10.01 PM (Seattle Time) | ASP TUTORIAL | [w3School](https://www.w3schools.com/asp/default.asp) |
-||
-|| 
-||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
+|21 October 2021 (Seattle Time)| ASP.NET LEARN | 4.11 PM  | ASP TUTORIAL | [w3School](https://www.w3schools.com/asp/default.asp) |
 
 
 
