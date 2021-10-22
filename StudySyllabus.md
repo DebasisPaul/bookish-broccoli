@@ -4,10 +4,10 @@
 This table covers daily Learning & Problem solving Trac Record:
 (Reason to Keep this record more focus to better study after one week study then do things again the previous week you done)
 
-| #DAY | #SUBJECTS | #TIME | #TOPICS | #SOURCE |
-|---|---|---|---|---|
+| #DAY | #SUBJECTS | #TIME | #Module | #SOURCE | #Units |
+|---|---|---|---|---|---|
 |20 October 2021| ASP.NET LEARN | 10.01 PM (Seattle Time) | ASP TUTORIAL | [w3School](https://www.w3schools.com/asp/default.asp) |
-|21 October 2021 (Seattle Time)| ASP.NET LEARN | 4.11 PM  | ASP TUTORIAL | [w3School](https://www.w3schools.com/asp/default.asp) |
+|21 October 2021 (Seattle Time)| ASP.NET LEARN | 4.11 PM  | ASP TUTORIAL | [w3School](https://www.w3schools.com/asp/default.asp) | `wpRazor` `wpLayout` `wpFolders`|
 
 
 
