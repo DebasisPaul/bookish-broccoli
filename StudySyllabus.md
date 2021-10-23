@@ -8,6 +8,7 @@ This table covers daily Learning & Problem solving Trac Record:
 |---|---|---|---|---|---|
 |20 October 2021| ASP.NET LEARN | 10.01 PM (Seattle Time) | ASP TUTORIAL | [w3School](https://www.w3schools.com/asp/default.asp) |
 |21 October 2021 (Seattle Time)| ASP.NET LEARN | 4.11 PM  | ASP TUTORIAL | [w3School](https://www.w3schools.com/asp/default.asp) | `wpRazor` `wpLayout` `wpFolders`|
+|23 October 2021 (Seattle Time)| ASP.NET LEARN | 12.02 AM  | ASP TUTORIAL | [w3School](https://www.w3schools.com/asp/default.asp) | `WebPages Layout` `WebPages Folders` `WebPages Global` `WebPages Forms` `WebPages Objects` `WebPages Files` `WebPages Databases` `WebPages Helpers` `WebPages WebGrid` `WebPages Charts` `WebPages Email` `WebPages Security` `WebPages Publish` `WebPages Examples` `WebPages Classes`|
 
 
 
