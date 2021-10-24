@@ -11,7 +11,7 @@ This table covers daily Learning & Problem solving Trac Record:
 |23 October 2021 (Seattle Time)| ASP.NET LEARN | 12.02 AM  | ASP TUTORIAL | [w3School](https://www.w3schools.com/asp/default.asp) | `WebPages Layout` `WebPages Folders` `WebPages Global` `WebPages Forms` `WebPages Objects` `WebPages Files` `WebPages Databases` `WebPages Helpers` `WebPages WebGrid` `WebPages Charts` `WebPages Email` `WebPages Security` `WebPages Publish` `WebPages Examples` `WebPages Classes`|
 |23 October 2021 (Seattle Time)| ASP.NET LEARN | 08.28 PM  | ASP TUTORIAL | [w3School](https://www.w3schools.com/asp/default.asp) | `WebPages Layout` `WebPages Folders` `WebPages Global` `WebPages Forms` `WebPages Objects` `WebPages Files` `WebPages Databases` `WebPages Helpers` `WebPages WebGrid` `WebPages Charts` `WebPages Email` `WebPages Security` `WebPages Publish` `WebPages Examples` `WebPages Classes`|
 |24 October 2021 (Seattle Time)| ASP.NET LEARN | 12.06 AM  | ASP TUTORIAL | [w3School](https://www.w3schools.com/asp/default.asp) | `WebPages Layout` `WebPages Folders` `WebPages Global` `WebPages Forms` `WebPages Objects` `WebPages Files` `WebPages Databases` `WebPages Helpers` `WebPages WebGrid` `WebPages Charts` `WebPages Email` `WebPages Security` `WebPages Publish` `WebPages Examples` `WebPages Classes`|
-
+|24 October 2021 (Seattle Time)| ASP.NET LEARN | 12.06 AM  | ASP TUTORIAL | [w3School](https://www.w3schools.com/asp/default.asp) |`home` `Intro` `Razor` `WebPages Layout` `WebPages Folders` `WebPages Global` `WebPages Forms` `WebPages Objects` `WebPages Files` `WebPages Databases` `WebPages Helpers` `WebPages WebGrid` `WebPages Charts` `WebPages Email` `WebPages Security` `WebPages Publish` `WebPages Examples` `WebPages Classes`|
 
 
 
