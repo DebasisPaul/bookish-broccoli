@@ -20,6 +20,7 @@ This table covers daily Learning & Problem solving Trac Record:
 `* https://subscription.packtpub.com/`
 `* https://www.manning.com/`
 `* https://www.murach.com/`
+`* https://www.microsoftpressstore.com/`
 
 ---
 # .Net Development Learning Path
