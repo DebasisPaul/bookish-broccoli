@@ -15,13 +15,6 @@ This table covers daily Learning & Problem solving Trac Record:
 |24 October 2021 (Seattle Time)| ASP.NET LEARN | 03.42 PM | ASP TUTORIAL | [w3School](https://www.w3schools.com/asp/default.asp) |`home` `Intro` `Razor` `WebPages Layout` `WebPages Folders` `WebPages Global` `WebPages Forms` `WebPages Objects` `WebPages Files` `WebPages Databases` `WebPages Helpers` `WebPages WebGrid` `WebPages Charts` `WebPages Email` `WebPages Security` |
 |25 October 2021 (Seattle Time)| ASP.NET LEARN | 04.22 PM | ASP TUTORIAL | [w3School](https://www.w3schools.com/asp/default.asp) |`home` `Intro` `Razor` `WebPages Layout` `WebPages Folders` `WebPages Global` `WebPages Forms` `WebPages Objects` `WebPages Files` `WebPages Databases` `WebPages Helpers` `WebPages WebGrid` `WebPages Charts` `WebPages Email` `WebPages Security` `WebPages Publish` `WebPages Examples` `WebPages Classes`|
 
-# Best Book Publications For Computer Science & Engineering
-` https://www.oreilly.com/`
-` https://subscription.packtpub.com/`
-` https://www.manning.com/`
-` https://www.murach.com/`
-` https://www.microsoftpressstore.com/`
-
 ---
 # .Net Development Learning Path
 
