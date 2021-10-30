@@ -25,7 +25,7 @@ This table covers daily Learning & Problem solving Trac Record:
 
 ---
 #MyGoalNov21
-* Completed Asp.net core in action 2e books before 20th November 2021
+* Completed Asp.net core in action 2e & [Head First C#](https://amzn.to/3br9n6U), [SQL: Learn SQL (using MySQL) in One Day](https://amzn.to/2Zwh8pA) books before 20th November 2021 After [Head First Design Patterns](https://amzn.to/314dlAv), [JavaScript: The Definitive Guide](https://amzn.to/3mqNIlG), [Agile Practice Guide](https://amzn.to/3BsUjjV), [Scrum: The Art of Doing Twice the Work in Half the Time](https://amzn.to/3nAZdpW)
 * Buying This Month [Murach’s ASP.NET Core MVC](https://bit.ly/3jPZeFL)
 * Next Month [ASP.NET Core 5 and Angular](https://amzn.to/3mupSp2), [C# 10 and .NET 6 – Modern Cross-Platform Development](https://amzn.to/2ZyTzwv), [ASP.NET Core 5 for Beginners](https://amzn.to/3bpXrm2), [Pro ASP.NET Core 3](https://amzn.to/3mtgqCx)
 * Next Buy ITAM - C# 9.0 Pocket Reference: Instant Help for C# 9.0 Programmers 1st Edition, C# 9.0 in a Nutshell: The Definitive Reference 1st Edition, C# in Depth: Fourth Edition 4th Edition
@@ -170,15 +170,12 @@ WEB DEVELOPMENT COURSES 2021
 9. Modern HTML + CSS for Beginners
 10. HTML, CSS, Javascript for the Web Developers
 
-
 Future Study
 
     1 Big Data, Data Ware House, Data Architecture
     2 DEVOPS
     3 MOBILE APPLICATION DEVELOPMENT
     4 Analysis, Machine Learning & Bi Applications.
-
-
 
 Soft Skills
 
