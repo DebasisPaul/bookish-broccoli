@@ -28,6 +28,7 @@ This table covers daily Learning & Problem solving Trac Record:
 * Completed Asp.net core in action 2e books before 20th November 2021
 * Buying This Month [Murach’s ASP.NET Core MVC](https://bit.ly/3jPZeFL)
 * Next Month [ASP.NET Core 5 and Angular](https://amzn.to/3mupSp2), [C# 10 and .NET 6 – Modern Cross-Platform Development](https://amzn.to/2ZyTzwv), [ASP.NET Core 5 for Beginners](https://amzn.to/3bpXrm2), [Pro ASP.NET Core 3](https://amzn.to/3mtgqCx)
+* Next Buy ITAM - C# 9.0 Pocket Reference: Instant Help for C# 9.0 Programmers 1st Edition, C# 9.0 in a Nutshell: The Definitive Reference 1st Edition, C# in Depth: Fourth Edition 4th Edition
 * Make a Real ASP.NET Core Project for Customer Ready Serve.
 
 ---
