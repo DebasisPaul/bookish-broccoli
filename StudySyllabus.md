@@ -14,14 +14,14 @@ This table covers daily Learning & Problem solving Trac Record:
 |24 October 2021 (Seattle Time)| ASP.NET LEARN | 05.16 AM  | ASP TUTORIAL | [w3School](https://www.w3schools.com/asp/default.asp) |`home` `Intro` `Razor` `WebPages Layout` `WebPages Folders` `WebPages Global` `WebPages Forms` |
 |24 October 2021 (Seattle Time)| ASP.NET LEARN | 03.42 PM | ASP TUTORIAL | [w3School](https://www.w3schools.com/asp/default.asp) |`home` `Intro` `Razor` `WebPages Layout` `WebPages Folders` `WebPages Global` `WebPages Forms` `WebPages Objects` `WebPages Files` `WebPages Databases` `WebPages Helpers` `WebPages WebGrid` `WebPages Charts` `WebPages Email` `WebPages Security` |
 |25 October 2021 (Seattle Time)| ASP.NET LEARN | 04.22 PM | ASP TUTORIAL | [w3School](https://www.w3schools.com/asp/default.asp) |`home` `Intro` `Razor` `WebPages Layout` `WebPages Folders` `WebPages Global` `WebPages Forms` `WebPages Objects` `WebPages Files` `WebPages Databases` `WebPages Helpers` `WebPages WebGrid` `WebPages Charts` `WebPages Email` `WebPages Security` `WebPages Publish` `WebPages Examples` `WebPages Classes`|
-|26 October 2021 (Seattle Time)| ASP.NET LEARN | 04.22 PM | ASP TUTORIAL | ||
-|27 October 2021 (Seattle Time)| ASP.NET LEARN | 04.22 PM | ASP TUTORIAL | ||
-|28 October 2021 (Seattle Time)| ASP.NET LEARN | 04.22 PM | ASP TUTORIAL | ||
-|29 October 2021 (Seattle Time)| ASP.NET LEARN | 04.22 PM | ASP TUTORIAL | ||
-|30 October 2021 (Seattle Time)| ASP.NET LEARN | 04.22 PM | ASP TUTORIAL | ||
-|31 October 2021 (Seattle Time)| ASP.NET LEARN | 04.22 PM | ASP TUTORIAL | ||
-|01 Nov 2021 (Seattle Time)| ASP.NET LEARN | 04.22 PM | ASP TUTORIAL | ||
-|02 Nov 2021 (Seattle Time)| ASP.NET LEARN | 04.22 PM | ASP TUTORIAL | ||
+|26 October 2021 (Seattle Time)| Buying Book Asp.Net Core in Action & Recharged Prepaid Meter Last Balance 1140 Taka | 2.00 AM | | ||
+|27 October 2021 (Seattle Time)| Reading ASP.NET Core in Action | 04.22 PM | ASP TUTORIAL | ||
+|28 October 2021 (Seattle Time)| Reading ASP.NET Core in Action| 04.22 PM | ASP TUTORIAL | ||
+|29 October 2021 (Seattle Time)| Downloading ALL Fun Videos From Microsoft Youtube Channels| | | ||
+|30 October 2021 (Seattle Time)| Reading ASP.NET Core in Action |  |  | ||
+|31 October 2021 (Seattle Time)|  |  |  | ||
+|01 Nov 2021 (Seattle Time)|  |  |  | ||
+|02 Nov 2021 (Seattle Time)|  |  |  | ||
 
 ---
 # .Net Development Learning Path
