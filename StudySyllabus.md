@@ -33,16 +33,7 @@ This table covers daily Learning & Problem solving Trac Record:
 
 # BookReadingClub
 `November Reading List`
-* [Head First C#: A Learner's Guide to Real-World Programming with C# and .NET Core 4th Edition](https://amzn.to/3br9n6U)
-* [C# 10 and .NET 6 – Modern Cross-Platform Development - Sixth Edition: Build apps, websites, and services with ASP.NET Core 6, Blazor, and EF Core 6 using Visual Studio 2022 and Visual Studio Code](https://amzn.to/3bmOE47)
-* [Pro C# 9 with .NET 5: Foundational Principles and Practices in Programming 10th ed. Edition](https://amzn.to/3w0gKfl)
-* [ASP.NET Core 5 and Angular: Full-stack web development with .NET 5 and Angular 11, 4th Edition 4th ed. Edition](https://amzn.to/3CvMzii)
-* [Software Architecture with C# 9 and .NET 5: Architecting software solutions using microservices, DevOps, and design patterns for Azure, 2nd Edition 2nd ed. Edition](https://amzn.to/3pWcSLn)
-* [ASP.NET Core in Action Andrew Lock](https://bit.ly/3bENJfT)
-* [Introduction to Algorithms, Third Edition](https://bit.ly/31h5wHW)
-* [Discrete Mathematics and Its Applications 8th Edition](https://bit.ly/2ZDL7M8)
-* [Teach Yourself C++ (Teach Yourself (McGraw-Hill)) 3rd Edition](https://amzn.to/2XXnhus)
-* [Java How to Program, 11/e, Early Objects](https://bit.ly/3jSKLsm)
+* [Head First C#](https://amzn.to/3br9n6U), [C# 10 and .NET 6](https://amzn.to/3bmOE47), [Pro C# 9 with .NET 5](https://amzn.to/3w0gKfl), [ASP.NET Core 5 and Angular](https://amzn.to/3CvMzii), [Software Architecture with C# 9 and .NET 5](https://amzn.to/3pWcSLn), [ASP.NET Core in Action](https://bit.ly/3bENJfT), [Introduction to Algorithms, Third Edition](https://bit.ly/31h5wHW), [Discrete Mathematics and Its Applications 8th Edition](https://bit.ly/2ZDL7M8), [Teach Yourself C++(Teach Yourself](https://amzn.to/2XXnhus), [Java How to Program, 11/e, Early Objects](https://bit.ly/3jSKLsm)
 
 # Best Book Publications For Computer Science & Engineering
 ` https://www.oreilly.com/`
