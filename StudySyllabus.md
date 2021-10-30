@@ -24,9 +24,11 @@ This table covers daily Learning & Problem solving Trac Record:
 |02 Nov 2021 (Seattle Time)|  |  |  | ||
 
 ---
-#MyGoal
+#MyGoalNov21
 * Completed Asp.net core in action 2e books before 20th November 2021
-* Buying [Murach’s ASP.NET Core MVC](https://bit.ly/3jPZeFL), [ASP.NET Core 5 and Angular](https://amzn.to/3mupSp2), [C# 10 and .NET 6 – Modern Cross-Platform Development](https://amzn.to/2ZyTzwv), [ASP.NET Core 5 for Beginners](https://amzn.to/3bpXrm2), [Pro ASP.NET Core 3](https://amzn.to/3mtgqCx)
+* Buying This Month [Murach’s ASP.NET Core MVC](https://bit.ly/3jPZeFL)
+* Next Month [ASP.NET Core 5 and Angular](https://amzn.to/3mupSp2), [C# 10 and .NET 6 – Modern Cross-Platform Development](https://amzn.to/2ZyTzwv), [ASP.NET Core 5 for Beginners](https://amzn.to/3bpXrm2), [Pro ASP.NET Core 3](https://amzn.to/3mtgqCx)
+* Make a Real ASP.NET Core Project for Customer Ready Serve.
 
 ---
 # .Net Development Learning Path
