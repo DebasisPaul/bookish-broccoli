@@ -18,7 +18,7 @@ This table covers daily Learning & Problem solving Trac Record:
 |27 October 2021 (Seattle Time)| [Reading ASP.NET Core in Action](https://www.manning.com/books/asp-net-core-in-action-second-edition) |  | | ||
 |28 October 2021 (Seattle Time)| [Reading ASP.NET Core in Action](https://www.manning.com/books/asp-net-core-in-action-second-edition)|  | | ||
 |29 October 2021 (Seattle Time)| Downloading ALL Fun Videos From Microsoft Youtube Channels| | | ||
-|30 October 2021 (Seattle Time)|  [Reading ASP.NET Core in Action](https://www.manning.com/books/asp-net-core-in-action-second-edition) |  |  | ||
+|30 October 2021 (Seattle Time)|  [Reading ASP.NET Core in Action](https://www.manning.com/books/asp-net-core-in-action-second-edition) | 1.55 AM |  | ||
 |31 October 2021 (Seattle Time)|  |  |  | ||
 |01 Nov 2021 (Seattle Time)|  |  |  | ||
 |02 Nov 2021 (Seattle Time)|  |  |  | ||
