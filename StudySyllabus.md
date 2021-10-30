@@ -15,13 +15,18 @@ This table covers daily Learning & Problem solving Trac Record:
 |24 October 2021 (Seattle Time)| ASP.NET LEARN | 03.42 PM | ASP TUTORIAL | [w3School](https://www.w3schools.com/asp/default.asp) |`home` `Intro` `Razor` `WebPages Layout` `WebPages Folders` `WebPages Global` `WebPages Forms` `WebPages Objects` `WebPages Files` `WebPages Databases` `WebPages Helpers` `WebPages WebGrid` `WebPages Charts` `WebPages Email` `WebPages Security` |
 |25 October 2021 (Seattle Time)| ASP.NET LEARN | 04.22 PM | ASP TUTORIAL | [w3School](https://www.w3schools.com/asp/default.asp) |`home` `Intro` `Razor` `WebPages Layout` `WebPages Folders` `WebPages Global` `WebPages Forms` `WebPages Objects` `WebPages Files` `WebPages Databases` `WebPages Helpers` `WebPages WebGrid` `WebPages Charts` `WebPages Email` `WebPages Security` `WebPages Publish` `WebPages Examples` `WebPages Classes`|
 |26 October 2021 (Seattle Time)| Buying Book Asp.Net Core in Action & Recharged Prepaid Meter Last Balance 1140 Taka | 2.00 AM | | ||
-|27 October 2021 (Seattle Time)| Reading ASP.NET Core in Action | 04.22 PM | ASP TUTORIAL | ||
-|28 October 2021 (Seattle Time)| Reading ASP.NET Core in Action| 04.22 PM | ASP TUTORIAL | ||
+|27 October 2021 (Seattle Time)| [Reading ASP.NET Core in Action](https://www.manning.com/books/asp-net-core-in-action-second-edition) |  | | ||
+|28 October 2021 (Seattle Time)| [Reading ASP.NET Core in Action](https://www.manning.com/books/asp-net-core-in-action-second-edition)|  | | ||
 |29 October 2021 (Seattle Time)| Downloading ALL Fun Videos From Microsoft Youtube Channels| | | ||
-|30 October 2021 (Seattle Time)| Reading ASP.NET Core in Action |  |  | ||
+|30 October 2021 (Seattle Time)|  [Reading ASP.NET Core in Action](https://www.manning.com/books/asp-net-core-in-action-second-edition) |  |  | ||
 |31 October 2021 (Seattle Time)|  |  |  | ||
 |01 Nov 2021 (Seattle Time)|  |  |  | ||
 |02 Nov 2021 (Seattle Time)|  |  |  | ||
+
+---
+#MyGoal
+* Completed Asp.net core in action 2e books before 20th November 2021
+* Buying [Murach’s ASP.NET Core MVC](https://bit.ly/3jPZeFL), [ASP.NET Core 5 and Angular](https://amzn.to/3mupSp2), [C# 10 and .NET 6 – Modern Cross-Platform Development](https://amzn.to/2ZyTzwv), [ASP.NET Core 5 for Beginners](https://amzn.to/3bpXrm2), [Pro ASP.NET Core 3](https://amzn.to/3mtgqCx)
 
 ---
 # .Net Development Learning Path
