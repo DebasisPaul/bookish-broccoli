@@ -30,6 +30,7 @@ This table covers daily Learning & Problem solving Trac Record:
 * Next Month [ASP.NET Core 5 and Angular](https://amzn.to/3mupSp2), [C# 10 and .NET 6 – Modern Cross-Platform Development](https://amzn.to/2ZyTzwv), [ASP.NET Core 5 for Beginners](https://amzn.to/3bpXrm2), [Pro ASP.NET Core 3](https://amzn.to/3mtgqCx)
 * Next Buy ITAM - C# 9.0 Pocket Reference: Instant Help for C# 9.0 Programmers 1st Edition, C# 9.0 in a Nutshell: The Definitive Reference 1st Edition, C# in Depth: Fourth Edition 4th Edition
 * Make a Real ASP.NET Core Project for Customer Ready Serve.
+* Tutorial site by .NET Community standup Recomendation [      Wake Up And Code!  ](https://wakeupandcode.com/aspnetcore/)
 
 # BookReadingClub
 `November Reading List`
