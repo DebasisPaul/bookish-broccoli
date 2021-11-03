@@ -6,6 +6,9 @@ Category $Time Management
 * [The 5 AM Club: Own Your Morning. Elevate Your Life.](https://amzn.to/3EKNYm1)
 
 Category $Productivity
+* [Essentialism: The Disciplined Pursuit of Less](https://amzn.to/2YagnlE)(Editor choice)
+* [Deep Work: Rules for Focused Success in a Distracted World](https://amzn.to/3bzkZFf)(Editor choice)
+* [Getting Things Done: The Art of Stress-Free Productivity ](https://amzn.to/31t9FbS)(Editor choice)
 * [The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change](https://amzn.to/3mHPM9i)
 * [How to Win Friends & Influence People ](https://amzn.to/3mFb7jt)(Editor choice)
 * [Thinking, Fast and Slow](https://amzn.to/3nSiGCS)
@@ -44,7 +47,8 @@ Category $MentalHealth
 
 
 
-Category $Education
+Category $Education &  Study & Test-Taking Skills
+* [Make It Stick: The Science of Successful Learning](https://amzn.to/3EDCgte)(Editor choice)
 
 Category $Self-Help
 * [You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life](https://amzn.to/3GJSJxZ)
