@@ -28,7 +28,7 @@ Whiscas Cat food 480 gm 295 Taka
 Sensodyne Deep Clean Tooth Paste 70g 1 ITEM 180 taka
 Sensodyne Tooth Brush Sensitive* 1 pcs 80 taka
 Bashundhara Toilet Tissue (Gold) 4 PCS 25/Pcs 100 Taka
-Dettol Handwash Re-Energize Bottle, 200ml PH-Balanced Liquid Soap Formula 89 Taka
+Dettol Handwash Re-Energize Refill, 750ml PH-Balanced Liquid Soap Formula 225 Taka
 Radhuni Turmeric Regular 100g 2 Packet 50/Packet 100 Taka
 Radhuni Cumin 100 Gm 2 packet 80/Packet 160 Taka
 Nescafe Classic Coffee 200gm(Pouch) 350 Taka
@@ -43,6 +43,9 @@ Gillette Blue II Razor 2 PCS 30/Pc 60 Taka
 Scotch Tape-3 1 PCs 60/Pcs
 Bashundhara Kitchen Towel Single Pack White 60Taka
 White Bath Towel 1 Pcs 99 Taka
+Vaseline Intensive Care Aloe Fresh Lotion 200 Ml 152 Taka
+Kool After Shaving Gel 50 Gm 65 Taka
+Dove Hair Fall Rescue Shampoo 180±10ml 220 Taka
 
 Extra 200 Taka
 
