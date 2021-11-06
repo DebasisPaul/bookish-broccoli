@@ -4,24 +4,10 @@
 This table covers daily Learning & Problem solving Trac Record:
 (Reason to Keep this record more focus to better study after one week study then do things again the previous week you done)
 
-| #DAY | #SUBJECTS | #TIME | #Module | #SOURCE | #Units |
-|---|---|---|---|---|---|
-|20 October 2021| ASP.NET LEARN | 10.01 PM (Seattle Time) | ASP TUTORIAL | [w3School](https://www.w3schools.com/asp/default.asp) |
-|21 October 2021 (Seattle Time)| ASP.NET LEARN | 4.11 PM  | ASP TUTORIAL | [w3School](https://www.w3schools.com/asp/default.asp) | `wpRazor` `wpLayout` `wpFolders`|
-|23 October 2021 (Seattle Time)| ASP.NET LEARN | 12.02 AM  | ASP TUTORIAL | [w3School](https://www.w3schools.com/asp/default.asp) | `WebPages Layout` `WebPages Folders` `WebPages Global`|
-|23 October 2021 (Seattle Time)| ASP.NET LEARN | 08.28 PM  | ASP TUTORIAL | [w3School](https://www.w3schools.com/asp/default.asp) | `WebPages Layout` `WebPages Folders` `WebPages Global`|
-|24 October 2021 (Seattle Time)| ASP.NET LEARN | 12.06 AM  | ASP TUTORIAL | [w3School](https://www.w3schools.com/asp/default.asp) | `WebPages Layout` `WebPages Folders` `WebPages Global` `WebPages Forms` `WebPages Objects` |
-|24 October 2021 (Seattle Time)| ASP.NET LEARN | 05.16 AM  | ASP TUTORIAL | [w3School](https://www.w3schools.com/asp/default.asp) |`home` `Intro` `Razor` `WebPages Layout` `WebPages Folders` `WebPages Global` `WebPages Forms` |
-|24 October 2021 (Seattle Time)| ASP.NET LEARN | 03.42 PM | ASP TUTORIAL | [w3School](https://www.w3schools.com/asp/default.asp) |`home` `Intro` `Razor` `WebPages Layout` `WebPages Folders` `WebPages Global` `WebPages Forms` `WebPages Objects` `WebPages Files` `WebPages Databases` `WebPages Helpers` `WebPages WebGrid` `WebPages Charts` `WebPages Email` `WebPages Security` |
-|25 October 2021 (Seattle Time)| ASP.NET LEARN | 04.22 PM | ASP TUTORIAL | [w3School](https://www.w3schools.com/asp/default.asp) |`home` `Intro` `Razor` `WebPages Layout` `WebPages Folders` `WebPages Global` `WebPages Forms` `WebPages Objects` `WebPages Files` `WebPages Databases` `WebPages Helpers` `WebPages WebGrid` `WebPages Charts` `WebPages Email` `WebPages Security` `WebPages Publish` `WebPages Examples` `WebPages Classes`|
-|26 October 2021 (Seattle Time)| Buying Book Asp.Net Core in Action & Recharged Prepaid Meter Last Balance 1140 Taka | 2.00 AM | | ||
-|27 October 2021 (Seattle Time)| [Reading ASP.NET Core in Action](https://www.manning.com/books/asp-net-core-in-action-second-edition) |  | | ||
-|28 October 2021 (Seattle Time)| [Reading ASP.NET Core in Action](https://www.manning.com/books/asp-net-core-in-action-second-edition)|  | | ||
-|29 October 2021 (Seattle Time)| Downloading ALL Fun Videos From Microsoft Youtube Channels| | | ||
-|30 October 2021 (Seattle Time)|  [Reading ASP.NET Core in Action](https://www.manning.com/books/asp-net-core-in-action-second-edition) | 1.55 AM |  | ||
-|31 October 2021 (Seattle Time)|  |  |  | ||
-|01 Nov 2021 (Seattle Time)|  [Reading Chapter 2 ASP.NET Core in Action](https://www.manning.com/books/asp-net-core-in-action-second-edition) | 11.05 PM |  | ||
-|02 Nov 2021 (Seattle Time)|  |  |  | ||
+`28 October To 25 October "W3Schools ASP.NET Reading"`
+`26 Th October To 30 Th October Book Reading ASP.NET Core In Action 2e`
+`1st November Reading ASP.NET Core In Action 2e`
+`5th November Reading ASP.NET Core In Action 2e`
 
 ---
 #MyGoalNov21
