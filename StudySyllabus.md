@@ -8,6 +8,7 @@ This table covers daily Learning & Problem solving Trac Record:
 `26 Th October To 30 Th October Book Reading ASP.NET Core In Action 2e`
 `1st November Reading ASP.NET Core In Action 2e`
 `5th November Reading ASP.NET Core In Action 2e`
+`8th November 10.40PM Reading ASP.NET Core In Action 2e `
 
 ---
 #MyGoalNov21
