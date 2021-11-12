@@ -9,6 +9,9 @@ This table covers daily Learning & Problem solving Trac Record:
 `1st November Reading ASP.NET Core In Action 2e`
 `5th November Reading ASP.NET Core In Action 2e`
 `8th November 10.40PM Reading ASP.NET Core In Action 2e `
+`9th Nov LunchvisualStudio22Event`
+`10th Nov .NetConf21`
+`11th Nov Laptop Problem`
 `12th November 12.27 AM .NetConf21`
 
 ---
