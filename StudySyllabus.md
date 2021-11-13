@@ -13,6 +13,7 @@ This table covers daily Learning & Problem solving Trac Record:
 `10th Nov .NetConf21`
 `11th Nov Laptop Problem`
 `12th November 12.27 AM .NetConf21`
+`12th November 11.21 PM .NetConf21, Reading ASP.NET Core In Action 2e, Coding `
 
 ---
 #MyGoalNov21
