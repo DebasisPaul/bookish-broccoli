@@ -29,7 +29,7 @@ This table covers daily Learning & Problem solving Trac Record:
 #CodeMag
 * [2021 - Vol. 18 - Issue 1 - .NET 6.0](https://www.codemag.com/Magazine/Issue/DotNet6)
 * [2021 - November/December](https://www.codemag.com/Magazine/Issue/NovD)
-* Azure DevOps, Docker, and Angular, https://www.codemag.com/Article/1901021/Azure-DevOps-Docker-and-Angular https://www.codemag.com/Article/2109051/Deploying-an-ASP.NET-5-App-to-Azure-Kubernetes-Service-with-Azure-DevOps-Starterhttps://www.codemag.com/Article/2103061/Introduction-to-Containerization-Using-Dockerhttps://www.codemag.com/Article/2010012/The-Journey-to-One-.NET
+* Azure DevOps, Docker, and Angular, https://www.codemag.com/Article/1901021/Azure-DevOps-Docker-and-Angular https://www.codemag.com/Article/2109051/Deploying-an-ASP.NET-5-App-to-Azure-Kubernetes-Service-with-Azure-DevOps-Starter https://www.codemag.com/Article/2103061/Introduction-to-Containerization-Using-Docker https://www.codemag.com/Article/2010012/The-Journey-to-One-.NET
 
 
 # BookReadingClub
