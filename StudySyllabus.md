@@ -24,7 +24,12 @@ This table covers daily Learning & Problem solving Trac Record:
 * Make a Real ASP.NET Core Project for Customer Ready Serve.
 
 #DotNetConf21LearningPath
-* C#10, Blazor, Blazor WebAssembly, MAUI, Visual Studio 2022, .Net Testing Tools Playwright, Minimal APIs, ASP.NET Core MVC & Razor Pages, EF Core 6, Secure minimal APIs with .NET 6 and Microsoft Identity, Azure Functions to Azure Static Web Apps, Azure Communication Services, Power Platform, Microsoft Teams app development, Azure Functions, Visual Studio Code, GraphQL, gRPC, Microservices, .NET Interactive notebooks, microservices with Dapr, Benchmarking ASP.NET Applications with .NET Crank, Power Automate, Azure DevOps, web APIs, Restful APIs, Blazor Azure B2C Authentication and Authorization, github Actions, Azure, UX and accessibility, Blazor WASM App, bUnit, SAFE Stack, JavaScript applications using popular front-end frameworks like Angular and React with ASP.NET Core, OpenTelemetry, Sonarqube, MassTransit, GitHub CodeSpaces, Clean Architecture, Azure Container Registry, ASP.NET Core Blazor Server, Orleans, 
+* C#10, Blazor, Blazor WebAssembly, MAUI, Visual Studio 2022, .Net Testing Tools Playwright, Minimal APIs, ASP.NET Core MVC & Razor Pages, EF Core 6, Secure minimal APIs with .NET 6 and Microsoft Identity, Azure Functions to Azure Static Web Apps, Azure Communication Services, Power Platform, Microsoft Teams app development, Azure Functions, Visual Studio Code, GraphQL, gRPC, Microservices, .NET Interactive notebooks, microservices with Dapr, Benchmarking ASP.NET Applications with .NET Crank, Power Automate, Azure DevOps, web APIs, Restful APIs, Blazor Azure B2C Authentication and Authorization, github Actions, Azure, UX and accessibility, Blazor WASM App, bUnit, SAFE Stack, JavaScript applications using popular front-end frameworks like Angular and React with ASP.NET Core, OpenTelemetry, Sonarqube, MassTransit, GitHub CodeSpaces, Clean Architecture, Azure Container Registry, ASP.NET Core Blazor Server, Orleans
+
+#CodeMag
+* [2021 - Vol. 18 - Issue 1 - .NET 6.0](https://www.codemag.com/Magazine/Issue/DotNet6)
+* [2021 - November/December](https://www.codemag.com/Magazine/Issue/NovD)
+* Azure DevOps, Docker, and Angular, https://www.codemag.com/Article/1901021/Azure-DevOps-Docker-and-Angular https://www.codemag.com/Article/2109051/Deploying-an-ASP.NET-5-App-to-Azure-Kubernetes-Service-with-Azure-DevOps-Starterhttps://www.codemag.com/Article/2103061/Introduction-to-Containerization-Using-Dockerhttps://www.codemag.com/Article/2010012/The-Journey-to-One-.NET
 
 
 # BookReadingClub
