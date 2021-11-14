@@ -23,6 +23,9 @@ This table covers daily Learning & Problem solving Trac Record:
 * Next Buy ITAM - C# 9.0 Pocket Reference: Instant Help for C# 9.0 Programmers 1st Edition, C# 9.0 in a Nutshell: The Definitive Reference 1st Edition, C# in Depth: Fourth Edition 4th Edition
 * Make a Real ASP.NET Core Project for Customer Ready Serve.
 
+#DotNetConf21LearningPath
+* C#10, Blazor, Blazor WebAssembly, MAUI, Visual Studio 2022, .Net Testing Tools Playwright, Minimal APIs, ASP.NET Core MVC & Razor Pages, EF Core 6, Secure minimal APIs with .NET 6 and Microsoft Identity, Azure Functions to Azure Static Web Apps, Azure Communication Services, Power Platform, Microsoft Teams app development, Azure Functions, Visual Studio Code, GraphQL, gRPC, Microservices, .NET Interactive notebooks, microservices with Dapr, Benchmarking ASP.NET Applications with .NET Crank, Power Automate, Azure DevOps, web APIs, Restful APIs, Blazor Azure B2C Authentication and Authorization, github Actions, Azure, UX and accessibility, Blazor WASM App, bUnit 
+
 
 # BookReadingClub
 `November Reading List`
