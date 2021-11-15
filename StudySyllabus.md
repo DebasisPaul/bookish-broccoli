@@ -4,16 +4,8 @@
 This table covers daily Learning & Problem solving Trac Record:
 (Reason to Keep this record more focus to better study after one week study then do things again the previous week you done)
 
-`28 October To 25 October "W3Schools ASP.NET Reading"`
-`26 Th October To 30 Th October Book Reading ASP.NET Core In Action 2e`
-`1st November Reading ASP.NET Core In Action 2e`
-`5th November Reading ASP.NET Core In Action 2e`
-`8th November 10.40PM Reading ASP.NET Core In Action 2e `
-`9th Nov LunchvisualStudio22Event`
-`10th Nov .NetConf21`
-`11th Nov Laptop Problem`
-`12th November 12.27 AM .NetConf21`
-`12th November 11.21 PM .NetConf21, Reading ASP.NET Core In Action 2e, Coding `
+`28 October To 25 October "W3Schools ASP.NET Reading"``26 Th October To 30 Th October Book Reading ASP.NET Core In Action 2e``1st November Reading ASP.NET Core In Action 2e`
+`5th November Reading ASP.NET Core In Action 2e``8th November 10.40PM Reading ASP.NET Core In Action 2e ``9th Nov LunchvisualStudio22Event``10th Nov .NetConf21``11th Nov Laptop Problem``12th November 12.27 AM .NetConf21``12th November 11.21 PM .NetConf21, Reading ASP.NET Core In Action 2e, Coding``14th Nov .NetConf, Learning Path .NET WEB, Book(AndrewLock)`
 
 ---
 #MyGoalNov21
