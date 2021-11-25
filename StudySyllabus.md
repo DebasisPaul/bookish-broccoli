@@ -10,11 +10,29 @@ This table covers daily Learning & Problem solving Trac Record:
 
 ---
 #MyGoalNov21
-* Completed [Asp.net core in action 2e](https://www.manning.com/books/asp-net-core-in-action-second-edition) & [Head First C#](https://amzn.to/3br9n6U), [SQL: Learn SQL (using MySQL) in One Day](https://amzn.to/2Zwh8pA) books before 20th November 2021 After [Head First Design Patterns](https://amzn.to/314dlAv), [JavaScript: The Definitive Guide](https://amzn.to/3mqNIlG), [Agile Practice Guide](https://amzn.to/3BsUjjV), [Scrum: The Art of Doing Twice the Work in Half the Time](https://amzn.to/3nAZdpW), [Head First Design Patterns: A Brain-Friendly Guide](https://amzn.to/3Epj3v6), [Design Patterns: Elements of Reusable Object-Oriented Software](https://amzn.to/3w759uY)
-* Buying This Month [Murach’s ASP.NET Core MVC](https://bit.ly/3jPZeFL)
-* Next Month [ASP.NET Core 5 and Angular](https://amzn.to/3mupSp2), [C# 10 and .NET 6 – Modern Cross-Platform Development](https://amzn.to/2ZyTzwv), [ASP.NET Core 5 for Beginners](https://amzn.to/3bpXrm2), [Pro ASP.NET Core 3](https://amzn.to/3mtgqCx)
-* Next Buy ITAM - C# 9.0 Pocket Reference: Instant Help for C# 9.0 Programmers 1st Edition, C# 9.0 in a Nutshell: The Definitive Reference 1st Edition, C# in Depth: Fourth Edition 4th Edition
-* Make a Real ASP.NET Core Project for Customer Ready Serve.
+* [Asp.net core in action 2e](https://www.manning.com/books/asp-net-core-in-action-second-edition)
+* [Head First C#](https://amzn.to/3br9n6U)
+* [C#: Learn C# in One Day](https://amzn.to/30ZPuCc)
+* [SQL: Learn SQL (using MySQL) in One Day](https://amzn.to/2Zwh8pA)
+* [Head First Design Patterns](https://amzn.to/314dlAv)
+* [JavaScript: The Definitive Guide](https://amzn.to/3mqNIlG)
+* [Web Development with Blazor](https://amzn.to/3CKmT0M) ; [Blazor WebAssembly by Example](https://amzn.to/3r8haQ9)
+* [Code like a Pro in C#](https://bit.ly/30Xezxs)
+* [ASP.NET Core 5 and React](https://amzn.to/3oVOZRX)
+
+#MyGoalDec21
+* [Agile Practice Guide](https://amzn.to/3BsUjjV)
+* [Scrum: The Art of Doing Twice the Work in Half the Time](https://amzn.to/3nAZdpW)
+* [Head First Design Patterns: A Brain-Friendly Guide](https://amzn.to/3Epj3v6)
+* [Design Patterns: Elements of Reusable Object-Oriented Software](https://amzn.to/3w759uY)
+* [Murach’s ASP.NET Core MVC](https://bit.ly/3jPZeFL)
+* [ASP.NET Core 5 and Angular](https://amzn.to/3mupSp2)
+* [C# 10 and .NET 6 – Modern Cross-Platform Development](https://amzn.to/2ZyTzwv)
+* [ASP.NET Core 5 for Beginners](https://amzn.to/3bpXrm2)
+* [Pro ASP.NET Core 3](https://amzn.to/3mtgqCx)
+* C# 9.0 Pocket Reference: Instant Help for C# 9.0 Programmers 1st Edition
+* C# 9.0 in a Nutshell: The Definitive Reference 1st Edition
+* C# in Depth: Fourth Edition 4th Edition
 
 #DotNetConf21LearningPath
 * C#10, Blazor, Blazor WebAssembly, MAUI, Visual Studio 2022, .Net Testing Tools Playwright, Minimal APIs, ASP.NET Core MVC & Razor Pages, EF Core 6, Secure minimal APIs with .NET 6 and Microsoft Identity, Azure Functions to Azure Static Web Apps, Azure Communication Services, Power Platform, Microsoft Teams app development, Azure Functions, Visual Studio Code, GraphQL, gRPC, Microservices, .NET Interactive notebooks, microservices with Dapr, Benchmarking ASP.NET Applications with .NET Crank, Power Automate, Azure DevOps, web APIs, Restful APIs, Blazor Azure B2C Authentication and Authorization, github Actions, Azure, UX and accessibility, Blazor WASM App, bUnit, SAFE Stack, JavaScript applications using popular front-end frameworks like Angular and React with ASP.NET Core, OpenTelemetry, Sonarqube, MassTransit, GitHub CodeSpaces, Clean Architecture, Azure Container Registry, ASP.NET Core Blazor Server, Orleans
