@@ -54,6 +54,7 @@ This table covers daily Learning & Problem solving Trac Record:
 ` https://www.murach.com/`
 ` https://www.microsoftpressstore.com/`
 ` https://www.apress.com/gp`
+` https://www.pearson.com/`
 
 ---
 #BestBlogForDotNetCommunity
