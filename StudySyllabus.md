@@ -53,6 +53,7 @@ This table covers daily Learning & Problem solving Trac Record:
 ` https://www.manning.com/`
 ` https://www.murach.com/`
 ` https://www.microsoftpressstore.com/`
+` https://www.apress.com/gp`
 
 ---
 #BestBlogForDotNetCommunity
