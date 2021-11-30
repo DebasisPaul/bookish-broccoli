@@ -67,3 +67,49 @@ Category $Career
 
 Category #Love & Romance
 * [The 5 Love Languages: The Secret to Love that Lasts](https://amzn.to/3EHsJBr)(Editor choice)
+
+
+Category $Microsoft & .Net
+* [Asp.net core in action 2e](https://www.manning.com/books/asp-net-core-in-action-second-edition)
+* [Head First C#](https://amzn.to/3br9n6U)
+* [C#: Learn C# in One Day](https://amzn.to/30ZPuCc)
+* [SQL: Learn SQL (using MySQL) in One Day](https://amzn.to/2Zwh8pA)
+* [Head First Design Patterns](https://amzn.to/314dlAv)
+* [JavaScript: The Definitive Guide](https://amzn.to/3mqNIlG)
+* [Web Development with Blazor](https://amzn.to/3CKmT0M) ; [Blazor WebAssembly by Example](https://amzn.to/3r8haQ9)
+* [Code like a Pro in C#](https://bit.ly/30Xezxs)
+* [ASP.NET Core 5 and React](https://amzn.to/3oVOZRX)
+* [Agile Practice Guide](https://amzn.to/3BsUjjV)
+* [Scrum: The Art of Doing Twice the Work in Half the Time](https://amzn.to/3nAZdpW)
+* [Head First Design Patterns: A Brain-Friendly Guide](https://amzn.to/3Epj3v6)
+* [Design Patterns: Elements of Reusable Object-Oriented Software](https://amzn.to/3w759uY)
+* [Murach’s ASP.NET Core MVC](https://bit.ly/3jPZeFL)
+* [ASP.NET Core 5 and Angular](https://amzn.to/3mupSp2)
+* [C# 10 and .NET 6 – Modern Cross-Platform Development](https://amzn.to/2ZyTzwv)
+* [ASP.NET Core 5 for Beginners](https://amzn.to/3bpXrm2)
+* [Pro ASP.NET Core 3](https://amzn.to/3mtgqCx)
+* C# 9.0 Pocket Reference: Instant Help for C# 9.0 Programmers 1st Edition
+* C# 9.0 in a Nutshell: The Definitive Reference 1st Edition
+* C# in Depth: Fourth Edition 4th Edition
+** [Head First C#](https://amzn.to/3br9n6U), [C# 10 and .NET 6](https://amzn.to/3bmOE47), [Pro C# 9 with .NET 5](https://amzn.to/3w0gKfl), [ASP.NET Core 5 and Angular](https://amzn.to/3CvMzii), [Software Architecture with C# 9 and .NET 5](https://amzn.to/3pWcSLn), [ASP.NET Core in Action](https://bit.ly/3bENJfT), [Introduction to Algorithms, Third Edition](https://bit.ly/31h5wHW), [Discrete Mathematics and Its Applications 8th Edition](https://bit.ly/2ZDL7M8), [Teach Yourself C++(Teach Yourself](https://amzn.to/2XXnhus), [Java How to Program, 11/e, Early Objects](https://bit.ly/3jSKLsm)
+
+#DotNetConf21LearningPath
+* C#10, Blazor, Blazor WebAssembly, MAUI, Visual Studio 2022, .Net Testing Tools Playwright, Minimal APIs, ASP.NET Core MVC & Razor Pages, EF Core 6, Secure minimal APIs with .NET 6 and Microsoft Identity, Azure Functions to Azure Static Web Apps, Azure Communication Services, Power Platform, Microsoft Teams app development, Azure Functions, Visual Studio Code, GraphQL, gRPC, Microservices, .NET Interactive notebooks, microservices with Dapr, Benchmarking ASP.NET Applications with .NET Crank, Power Automate, Azure DevOps, web APIs, Restful APIs, Blazor Azure B2C Authentication and Authorization, github Actions, Azure, UX and accessibility, Blazor WASM App, bUnit, SAFE Stack, JavaScript applications using popular front-end frameworks like Angular and React with ASP.NET Core, OpenTelemetry, Sonarqube, MassTransit, GitHub CodeSpaces, Clean Architecture, Azure Container Registry, ASP.NET Core Blazor Server, Orleans
+
+Category Magazine #CodeMag
+* [2021 - Vol. 18 - Issue 1 - .NET 6.0](https://www.codemag.com/Magazine/Issue/DotNet6)
+* [2021 - November/December](https://www.codemag.com/Magazine/Issue/NovD)
+* Azure DevOps, Docker, and Angular, https://www.codemag.com/Article/1901021/Azure-DevOps-Docker-and-Angular https://www.codemag.com/Article/2109051/Deploying-an-ASP.NET-5-App-to-Azure-Kubernetes-Service-with-Azure-DevOps-Starter https://www.codemag.com/Article/2103061/Introduction-to-Containerization-Using-Docker https://www.codemag.com/Article/2010012/The-Journey-to-One-.NET
+
+Category #Top Microsoft.Net Book Publication House
+` https://www.oreilly.com/`
+` https://subscription.packtpub.com/`
+` https://www.manning.com/`
+` https://www.murach.com/`
+` https://www.microsoftpressstore.com/`
+` https://www.apress.com/gp`
+` https://www.pearson.com/`
+
+#BestBlogForDotNetCommunity
+* [Jon skeet's Coding Blog](https://codeblog.jonskeet.uk/)
+* Tutorial site by .NET Community standup Recomendation [      Wake Up And Code!  ](https://wakeupandcode.com/aspnetcore/)
