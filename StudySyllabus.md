@@ -184,6 +184,7 @@ Now that you have a better understanding of some of the core concepts related to
 - [Get started with ASP.NET Core MVC](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-5.0&tabs=visual-studio)
 - [Migrating ASP.NET MVC Applications to Windows Containers](https://docs.microsoft.com/en-us/aspnet/mvc/overview/deployment/docker-aspnetmvc)
 - [ASP.NET Core Blazor supported platforms](https://docs.microsoft.com/en-us/aspnet/core/blazor/supported-platforms?view=aspnetcore-5.0)
+- [The Little ASP.NET Core Book](https://recaffeinate.co/book/)
 
 # entity framework
 - [Entity Framework documentation](https://docs.microsoft.com/en-us/ef/)
