@@ -70,24 +70,42 @@ Category #Love & Romance
 
 
 Category $Microsoft & .Net
+
+* C# in Depth: Fourth Edition 4th Edition
+* C# 9.0 Pocket Reference: Instant Help for C# 9.0 Programmers 1st Edition
+* C# 9.0 in a Nutshell: The Definitive Reference 1st Edition
+* [Head First C#](https://amzn.to/3br9n6U)
+* [C#: Learn C# in One Day](https://amzn.to/30ZPuCc)
+* [Code like a Pro in C#](https://bit.ly/30Xezxs)
+
 * [Asp.net core in action 2e](https://www.manning.com/books/asp-net-core-in-action-second-edition)
 * [Murach’s ASP.NET Core MVC](https://bit.ly/3jPZeFL)
-* C# in Depth: Fourth Edition 4th Edition
-* [Web Development with Blazor](https://amzn.to/3CKmT0M)
-* [Blazor WebAssembly by Example](https://amzn.to/3r8haQ9)
-* [Code like a Pro in C#](https://bit.ly/30Xezxs)
-* [ASP.NET Core 5 and Angular](https://amzn.to/3mupSp2)
-* [Head First Design Patterns: A Brain-Friendly Guide](https://amzn.to/3Epj3v6)
+* [ASP.NET Core 5 for Beginners](https://amzn.to/3bpXrm2)
+
+* [SQL: Learn SQL (using MySQL) in One Day](https://amzn.to/2Zwh8pA)
 * sql quickstart guide
 * Azure for developers
 * Murach's sql server 2019 for developers
 * sql server 2019 revealed
+
+* [JavaScript: The Definitive Guide](https://amzn.to/3mqNIlG)
+
+* [Web Development with Blazor](https://amzn.to/3CKmT0M)
+* [Blazor WebAssembly by Example](https://amzn.to/3r8haQ9)
+
+* Unit Testing By Manning
+* Clean Architecture
+* 
+* [Agile Practice Guide](https://amzn.to/3BsUjjV)
+* [Scrum: The Art of Doing Twice the Work in Half the Time](https://amzn.to/3nAZdpW)
+
+
+* [ASP.NET Core 5 and Angular](https://amzn.to/3mupSp2)
+* [Head First Design Patterns: A Brain-Friendly Guide](https://amzn.to/3Epj3v6)
 * Entity framework Core IN ACTION
 * [Software Architecture with C# 9 and .NET 5](https://amzn.to/3pWcSLn)
 * Kubernetes IN ACTION
 * Microservices in .NET Core
-* Unit Testing By Manning
-* Clean Architecture
 * Dependency Injection By Manning
 * Docker IN ACTION
 * O'REILLY Web Application Security
@@ -97,22 +115,13 @@ Category $Microsoft & .Net
 * ASP.NET Core 5 Secure Coding Cookbook by Packt>
 * ASP.NET Core Security by manning
 * O'Reilly Concurrency in C# Cookbook 2nd ED.
-* C# 9.0 Pocket Reference: Instant Help for C# 9.0 Programmers 1st Edition
-* C# 9.0 in a Nutshell: The Definitive Reference 1st Edition
 * Packt> Enterprise Application Development With C# 9 and .NET 5
 * O'Reilly Regular Expression 2nd ED.
 * [ASP.NET Core 5 and React](https://amzn.to/3oVOZRX)
 * Git for ProgrammersPackt>
-* [ASP.NET Core 5 for Beginners](https://amzn.to/3bpXrm2)
-* [C#: Learn C# in One Day](https://amzn.to/30ZPuCc)
-* [SQL: Learn SQL (using MySQL) in One Day](https://amzn.to/2Zwh8pA)
-* [JavaScript: The Definitive Guide](https://amzn.to/3mqNIlG)
 * [C# 10 and .NET 6 – Modern Cross-Platform Development](https://amzn.to/2ZyTzwv)
-* [Agile Practice Guide](https://amzn.to/3BsUjjV)
-* [Scrum: The Art of Doing Twice the Work in Half the Time](https://amzn.to/3nAZdpW)
 * [Design Patterns: Elements of Reusable Object-Oriented Software](https://amzn.to/3w759uY)
 * [Introduction to Algorithms, Third Edition](https://bit.ly/31h5wHW)
-* [Head First C#](https://amzn.to/3br9n6U)
 * [Discrete Mathematics and Its Applications 8th Edition](https://bit.ly/2ZDL7M8)
 * [Pro C# 9 with .NET 5](https://amzn.to/3w0gKfl)
 
