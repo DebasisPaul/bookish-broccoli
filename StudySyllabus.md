@@ -1,4 +1,31 @@
-
+Robust Large-Scale Projects
+---------------------------
+(Minimum 3 Projects)
+    1 Payment Solution / E Wallet
+    2 ERP
+    3 Financial Applications' (Core Banking Applications/Microfinance Module Of Erp)
+    4 Microfinance/Financial Applications/Core Banking Software/Insurance Software In Mfi/Bank/Insurance Sector
+    5 Enterprise Software Applications (Core Financial Application)
+    6 E-Commerce
+    7 Supply Chain Management
+    8 ERP-Sap: Sd Module
+    9 Projects On (Banking, Finance, E Commerce and Telecommunication)`
+    
+RESEARCH AREA
+---------------
+Basic IIoT Concepts and Glossary of Terms
+There are hundreds of concepts and terms that relate to IIoT and Industry 4.0, but here are 12 foundational words and phrases to know before you decide whether you want to invest in Industry 4.0 solutions for your business:
+    • Enterprise Resource Planning (ERP): Business process management tools that can be used to manage information across an organization.
+    • Big data: Big data refers to large sets of structured or unstructured data that can be compiled, stored, organized, and analyzed to reveal patterns, trends, associations, and opportunities.
+    • Cloud computing: Cloud computing refers to the practice of using interconnected remote servers hosted on the Internet to store, manage, and process information.
+    • Cyber-physical systems (CPS): Cyber-physical systems, also sometimes known as cyber manufacturing, refers to an Industry 4.0-enabled manufacturing environment that offers real-time data collection, analysis, and transparency across every aspect of a manufacturing operation.
+    • Artificial intelligence (AI): Artificial intelligence is a concept that refers to a computer’s ability to perform tasks and make decisions that would historically require some level of human intelligence.
+    • Machine learning: Machine learning refers to the ability that computers have to learn and improve on their own through artificial intelligence—without being explicitly told or programmed to do so.
+    • Real-time data processing: Real-time data processing refers to the abilities of computer systems and machines to continuously and automatically process data and provide real-time or near-time outputs and insights.
+Now that you have a better understanding of some of the core concepts related to Industry 4.0, you’re ready to dig deeper into how smart manufacturing can revolutionize the way you run and grow your business.
+    
+dotNet LeRNING pATH
+--------------------
     1 C#
     2 Asp.Net Core (Mvc, Razor Pages, Blazor)
     3 Angular
@@ -55,19 +82,7 @@
     40 Qms Standard
     41 Mcsd Certification
 
-Robust Large-Scale Projects
-(Minimum 3 Projects)
-    1 Payment Solution / E Wallet
-    2 ERP
-    3 Financial Applications' (Core Banking Applications/Microfinance Module Of Erp)
-    4 Microfinance/Financial Applications/Core Banking Software/Insurance Software In Mfi/Bank/Insurance Sector
-    5 Enterprise Software Applications (Core Financial Application)
-    6 E-Commerce
-    7 Supply Chain Management
-    8 ERP-Sap: Sd Module
-    9 Projects On (Banking, Finance, E Commerce and Telecommunication)
-
- Great Websites To Help You Learn Web Development Online
+ # Great Websites To Help You Learn Web Development Online
     1 Pluralsight
     2 MDN Web Docs
     3 Udemy
@@ -85,7 +100,7 @@ Robust Large-Scale Projects
     15 YouTube.
     16 Google
 
-Soft Skills
+# Soft Skills
 
     1 English Speaking, Good IELTS Score
     2 Documentation and Presentation Skill
@@ -106,7 +121,7 @@ Soft Skills
     17 Project Management and People Management.
 
 # READING
-- .[Microsoft eShopOnWeb ASP.NET Core Reference Application](https://github.com/DebasisPaul/eShopOnWeb)
+- [Microsoft eShopOnWeb ASP.NET Core Reference Application](https://github.com/DebasisPaul/eShopOnWeb)
 - [ASP.NET Core Developer Roadmap](https://github.com/DebasisPaul/AspNetCore-Developer-Roadmap)
 - [Training Tutorial](https://github.com/DebasisPaul/training-tutorials/blob/master/content/asp.net/getting-started/README.md)
 - [Web Camp Training Kit](https://github.com/DebasisPaul/WebCampTrainingKit)
@@ -124,7 +139,6 @@ Soft Skills
 
 # Books
 - ASP.NET Core in 24 Hours, Sams Teach Yourself
-
 - [ASP.NET Core || ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.](https://github.com/DebasisPaul/aspnetcore)
 - [Microsoft ASPNET Core Workshop- Demian Edwards](https://github.com/DebasisPaul/aspnetcore-workshop)
 - [Microsoft Virtual Academy MVA- LadyNaggaga](https://github.com/DebasisPaul/ASP.NETCoreMVA)
@@ -148,8 +162,6 @@ Soft Skills
 - [Tutorial - Enable your Web Apps to sign-in users and call APIs with the Microsoft identity platform for developers](https://github.com/DebasisPaul/active-directory-aspnetcore-webapp-openidconnect-v2)
 - [ASP.NET Core Diagnostic Scenarios](https://github.com/DebasisPaul/AspNetCoreDiagnosticScenarios)
 - [Announcements](https://github.com/DebasisPaul/Announcements)
-<hr>
-
 - [LEARNING PATHS ASP.NET Core || PlurlSight](https://www.pluralsight.com/paths/aspnet-core)
 - [Introduction to ASP.NET Core Framework](https://dotnettutorials.net/lesson/introduction-to-asp-net-core/)
 - [ASP.NET Core Tutorials](https://www.tutorialsteacher.com/core)
@@ -158,9 +170,8 @@ Soft Skills
 - [Top 30+ ASP.NET Interview Questions and Answers](https://www.dotnettricks.com/learn/aspnet/top-20-aspnet-interview-questions-and-answers)
 - [50 ASP.NET Interview Questions and Answers (PDF) in 2021](https://www.guru99.com/asp-net-interview-questions-answers.html)
 - [ASP and ASP.NET Tutorials](https://www.w3schools.com/asp/default.asp)
-<hr>
 
-ASP.NET Resources
+# ASP.NET Resources
 - [Learn ASP.NET](https://dotnet.microsoft.com/learn/aspnet)
 - [Gitter ASP.NET](https://gitter.im/aspnet/Home)
 - [ASP.NET Community Blogs](https://weblogs.asp.net/)
@@ -176,28 +187,19 @@ ASP.NET Resources
 - [Migrating ASP.NET MVC Applications to Windows Containers](https://docs.microsoft.com/en-us/aspnet/mvc/overview/deployment/docker-aspnetmvc)
 - [ASP.NET Core Blazor supported platforms](https://docs.microsoft.com/en-us/aspnet/core/blazor/supported-platforms?view=aspnetcore-5.0)
 
----
-
 - [Entity Framework documentation](https://docs.microsoft.com/en-us/ef/)
 - [Entity Framework || Github](https://github.com/dotnet/efcore)
 
 
-##C Sharp Path
-===========================
-
-
+# C Sharp Path
 - [Show notes, slides, and samples from the CSharp with CSharpFritz show](https://github.com/DebasisPaul/csharp_with_csharpfritz)
 - [Get started learning C# with C# notebooks powered by .NET Interactive and VS Code.](https://github.com/DebasisPaul/csharp-notebooks)
 - [Getting started tutorials for C# and ASP.NET](https://github.com/DebasisPaul/training-tutorials)
 - [Grow your c# skills || PluralSight](https://www.pluralsight.com/browse/software-development/c-sharp?exp=1)
 - [The 2020 State of the OCTO——VERSE || Github Developer Survey](https://octoverse.github.com/)
 
-<hr>
-
 - [Tutorial: Create a simple C# console app in Visual Studio (part 1 of 2)](https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-console?view=vs-2022)
 - [Tutorial: Extend C# console app and debug in Visual Studio (part 2 of 2)](https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-console-part-2?view=vs-2022)
-
-<hr>
 
 - [What is .NET?](https://dotnet.microsoft.com/learn/dotnet/what-is-dotnet)
 - [lets learn dot net with C#](https://www.theurlist.com/letslearndotnet-csharp/?WT.mc_id=dotnet-22477-jasingl)
@@ -270,8 +272,17 @@ ASP.NET Resources
 - [.NET Microservices: Architecture for Containerized .NET Applications](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/)
 - [MICROSOFT LEARN FOR .NET Free. Cross-platform. Open source.](https://docs.microsoft.com/en-us/learn/dotnet/?WT.mc_id=dotnet-35129-website)
 
-<hr>
 
+
+# Microsoft Learn Azure
+- [Web Development for Beginners](https://docs.microsoft.com/en-us/learn/paths/web-development-101/)
+- [Azure Fundamentals part 1: Describe core Azure concepts](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts/)
+- [Azure Fundamentals part 2: Describe core Azure services](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-core-azure-services/)
+- [Azure Fundamentals part 3: Describe core solutions and management tools on Azure](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-core-solutions-management-tools-azure/)
+- [Azure Fundamentals part 4: Describe general security and network security features](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-general-security-network-security-features/)
+- [Azure Fundamentals part 5: Describe identity, governance, privacy, and compliance features](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-identity-governance-privacy-compliance-features/)
+- [Azure Fundamentals part 6: Describe Azure cost management and service level agreements](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-azure-cost-management-service-level-agreements/)
+- [Azure SQL fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-sql-fundamentals/)
 - [Azure](https://azure.microsoft.com/en-us/)
 - [Azure documentation](https://docs.microsoft.com/en-us/azure/?product=featured)
 - [the Microsoft Cloud](https://www.microsoft.com/en-us/microsoft-cloud)
@@ -288,19 +299,7 @@ ASP.NET Resources
 - [Azure SDK for .NET overview](https://docs.microsoft.com/en-us/dotnet/azure/sdk/azure-sdk-for-dotnet)
 
 
-<hr>
-
-Microsoft Learning Path
-- [Web Development for Beginners](https://docs.microsoft.com/en-us/learn/paths/web-development-101/)
-- [Azure Fundamentals part 1: Describe core Azure concepts](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts/)
-- [Azure Fundamentals part 2: Describe core Azure services](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-core-azure-services/)
-- [Azure Fundamentals part 3: Describe core solutions and management tools on Azure](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-core-solutions-management-tools-azure/)
-- [Azure Fundamentals part 4: Describe general security and network security features](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-general-security-network-security-features/)
-- [Azure Fundamentals part 5: Describe identity, governance, privacy, and compliance features](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-identity-governance-privacy-compliance-features/)
-- [Azure Fundamentals part 6: Describe Azure cost management and service level agreements](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-azure-cost-management-service-level-agreements/)
-- [Azure SQL fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-sql-fundamentals/)
-
-Online Tutorials
+# Online C# Tutorials
 - [Alison](https://alison.com/)
 - [The Ultimate C# Series: Part 1](https://codewithmosh.com/p/csharp-basics-for-beginners)
 - [MIT Open Course Ware](https://ocw.mit.edu/courses/most-visited-courses/)
@@ -320,33 +319,3 @@ Online Tutorials
 - [Tutorials Point](https://www.tutorialspoint.com/tutorialslibrary.htm)
 - [C# Programming Language](https://www.geeksforgeeks.org/csharp-programming-language/)
 - [C# Tutorial](https://www.w3schools.com/cs/index.php)
-
-
-## UDEMY C# COURSES
----
-- [C# Basics for Beginners: Learn C# Fundamentals by Coding](https://www.udemy.com/course/csharp-tutorial-for-beginners/)
-- [C# Intermediate: Classes, Interfaces and OOP](https://www.udemy.com/course/csharp-intermediate-classes-interfaces-and-oop/)
-- [C# Advanced Topics: Prepare for Technical Interviews](https://www.udemy.com/course/csharp-advanced/)
-- [C# Developers: Learn the Art of Writing Clean Code](https://www.udemy.com/course/clean-code/)
-
-
-RESEARCH AREA
-
-Basic IIoT Concepts and Glossary of Terms
-There are hundreds of concepts and terms that relate to IIoT and Industry 4.0, but here are 12 foundational words and phrases to know before you decide whether you want to invest in Industry 4.0 solutions for your business:
-
-    • Enterprise Resource Planning (ERP): Business process management tools that can be used to manage information across an organization.
-    
-    • Big data: Big data refers to large sets of structured or unstructured data that can be compiled, stored, organized, and analyzed to reveal patterns, trends, associations, and opportunities.
-    
-    • Cloud computing: Cloud computing refers to the practice of using interconnected remote servers hosted on the Internet to store, manage, and process information.
-    
-    • Cyber-physical systems (CPS): Cyber-physical systems, also sometimes known as cyber manufacturing, refers to an Industry 4.0-enabled manufacturing environment that offers real-time data collection, analysis, and transparency across every aspect of a manufacturing operation.
-    
-    • Artificial intelligence (AI): Artificial intelligence is a concept that refers to a computer’s ability to perform tasks and make decisions that would historically require some level of human intelligence.
-    
-    • Machine learning: Machine learning refers to the ability that computers have to learn and improve on their own through artificial intelligence—without being explicitly told or programmed to do so.
-    
-    • Real-time data processing: Real-time data processing refers to the abilities of computer systems and machines to continuously and automatically process data and provide real-time or near-time outputs and insights.
-    
-Now that you have a better understanding of some of the core concepts related to Industry 4.0, you’re ready to dig deeper into how smart manufacturing can revolutionize the way you run and grow your business.
