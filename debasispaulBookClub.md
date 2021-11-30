@@ -43,9 +43,6 @@ Category $MentalHealth
 * [Overcoming Unwanted Intrusive Thoughts: A CBT-Based Guide to Getting Over Frightening, Obsessive, or Disturbing Thoughts](https://amzn.to/3bCgrhb)
 * [Feeling Great: The Revolutionary New Treatment for Depression and Anxiety](https://amzn.to/3EDnhQ4)
 * [Forgiving What You Can't Forget: Discover How to Move On, Make Peace with Painful Memories, and Create a Life That’s Beautiful Again](https://amzn.to/3nNIike)
-* 
-
-
 
 Category $Education &  Study & Test-Taking Skills
 * [Make It Stick: The Science of Successful Learning](https://amzn.to/3EDCgte)(Editor choice)
@@ -67,7 +64,6 @@ Category $Career
 
 Category #Love & Romance
 * [The 5 Love Languages: The Secret to Love that Lasts](https://amzn.to/3EHsJBr)(Editor choice)
-
 
 Category $Microsoft & .Net
 
@@ -95,7 +91,7 @@ Category $Microsoft & .Net
 
 * Unit Testing By Manning
 * Clean Architecture
-* 
+
 * [Agile Practice Guide](https://amzn.to/3BsUjjV)
 * [Scrum: The Art of Doing Twice the Work in Half the Time](https://amzn.to/3nAZdpW)
 
