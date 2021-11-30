@@ -1,67 +1,4 @@
 
-# Routine
-
-This table covers daily Learning & Problem solving Trac Record:
-(Reason to Keep this record more focus to better study after one week study then do things again the previous week you done)
-
-`28 October To 25 October "W3Schools ASP.NET Reading"``26 Th October To 30 Th October Book Reading ASP.NET Core In Action 2e``1st November Reading ASP.NET Core In Action 2e` `5th November Reading ASP.NET Core In Action 2e``8th November 10.40PM Reading ASP.NET Core In Action 2e ``9th Nov LunchvisualStudio22Event``10th Nov .NetConf21``11th Nov Laptop Problem``12th November 12.27 AM .NetConf21``12th November 11.21 PM .NetConf21, Reading ASP.NET Core In Action 2e, Coding``14th Nov .NetConf, Learning Path .NET WEB, Book(AndrewLock)` `15th Nov Book(AndrewLock) Asp.netCore in Action 2e` `16th Nov .netConf21 completed, google Summit & I/O 2021, ASP.NET Book Study`  `17th Nov .netConf21 completed, google Summit & I/O 2021, ASP.NET Book Study` `18th Nov ASP.NET Book Study` `19th Nov ASP.NET Book Study` `20th10.21PM Nov AzureAI data Conf, Music, exercise, Youtube health & Music Chnannel Subscription, ASP.NET Book Study` `21th Nov Desktop damge, ASP.NET Book Study` `22th22.31 Nov .netConf21, Music, exercise, ASP.NET Book Study` `23th Nov  ASP.NET Book Study` `24th Nov ASP.NET Book Study` `25th Nov ASP.NETcoreInAction2e, theMagicOfThinkinBig`
-
-
-
----
-#MyGoalNov21
-* [Asp.net core in action 2e](https://www.manning.com/books/asp-net-core-in-action-second-edition)
-* [Head First C#](https://amzn.to/3br9n6U)
-* [C#: Learn C# in One Day](https://amzn.to/30ZPuCc)
-* [SQL: Learn SQL (using MySQL) in One Day](https://amzn.to/2Zwh8pA)
-* [Head First Design Patterns](https://amzn.to/314dlAv)
-* [JavaScript: The Definitive Guide](https://amzn.to/3mqNIlG)
-* [Web Development with Blazor](https://amzn.to/3CKmT0M) ; [Blazor WebAssembly by Example](https://amzn.to/3r8haQ9)
-* [Code like a Pro in C#](https://bit.ly/30Xezxs)
-* [ASP.NET Core 5 and React](https://amzn.to/3oVOZRX)
-
-#MyGoalDec21
-* [Agile Practice Guide](https://amzn.to/3BsUjjV)
-* [Scrum: The Art of Doing Twice the Work in Half the Time](https://amzn.to/3nAZdpW)
-* [Head First Design Patterns: A Brain-Friendly Guide](https://amzn.to/3Epj3v6)
-* [Design Patterns: Elements of Reusable Object-Oriented Software](https://amzn.to/3w759uY)
-* [Murach’s ASP.NET Core MVC](https://bit.ly/3jPZeFL)
-* [ASP.NET Core 5 and Angular](https://amzn.to/3mupSp2)
-* [C# 10 and .NET 6 – Modern Cross-Platform Development](https://amzn.to/2ZyTzwv)
-* [ASP.NET Core 5 for Beginners](https://amzn.to/3bpXrm2)
-* [Pro ASP.NET Core 3](https://amzn.to/3mtgqCx)
-* C# 9.0 Pocket Reference: Instant Help for C# 9.0 Programmers 1st Edition
-* C# 9.0 in a Nutshell: The Definitive Reference 1st Edition
-* C# in Depth: Fourth Edition 4th Edition
-
-#DotNetConf21LearningPath
-* C#10, Blazor, Blazor WebAssembly, MAUI, Visual Studio 2022, .Net Testing Tools Playwright, Minimal APIs, ASP.NET Core MVC & Razor Pages, EF Core 6, Secure minimal APIs with .NET 6 and Microsoft Identity, Azure Functions to Azure Static Web Apps, Azure Communication Services, Power Platform, Microsoft Teams app development, Azure Functions, Visual Studio Code, GraphQL, gRPC, Microservices, .NET Interactive notebooks, microservices with Dapr, Benchmarking ASP.NET Applications with .NET Crank, Power Automate, Azure DevOps, web APIs, Restful APIs, Blazor Azure B2C Authentication and Authorization, github Actions, Azure, UX and accessibility, Blazor WASM App, bUnit, SAFE Stack, JavaScript applications using popular front-end frameworks like Angular and React with ASP.NET Core, OpenTelemetry, Sonarqube, MassTransit, GitHub CodeSpaces, Clean Architecture, Azure Container Registry, ASP.NET Core Blazor Server, Orleans
-
-#CodeMag
-* [2021 - Vol. 18 - Issue 1 - .NET 6.0](https://www.codemag.com/Magazine/Issue/DotNet6)
-* [2021 - November/December](https://www.codemag.com/Magazine/Issue/NovD)
-* Azure DevOps, Docker, and Angular, https://www.codemag.com/Article/1901021/Azure-DevOps-Docker-and-Angular https://www.codemag.com/Article/2109051/Deploying-an-ASP.NET-5-App-to-Azure-Kubernetes-Service-with-Azure-DevOps-Starter https://www.codemag.com/Article/2103061/Introduction-to-Containerization-Using-Docker https://www.codemag.com/Article/2010012/The-Journey-to-One-.NET
-
-
-# BookReadingClub
-`November Reading List`
-* [Head First C#](https://amzn.to/3br9n6U), [C# 10 and .NET 6](https://amzn.to/3bmOE47), [Pro C# 9 with .NET 5](https://amzn.to/3w0gKfl), [ASP.NET Core 5 and Angular](https://amzn.to/3CvMzii), [Software Architecture with C# 9 and .NET 5](https://amzn.to/3pWcSLn), [ASP.NET Core in Action](https://bit.ly/3bENJfT), [Introduction to Algorithms, Third Edition](https://bit.ly/31h5wHW), [Discrete Mathematics and Its Applications 8th Edition](https://bit.ly/2ZDL7M8), [Teach Yourself C++(Teach Yourself](https://amzn.to/2XXnhus), [Java How to Program, 11/e, Early Objects](https://bit.ly/3jSKLsm)
-
-# Best Book Publications For Computer Science & Engineering
-` https://www.oreilly.com/`
-` https://subscription.packtpub.com/`
-` https://www.manning.com/`
-` https://www.murach.com/`
-` https://www.microsoftpressstore.com/`
-` https://www.apress.com/gp`
-` https://www.pearson.com/`
-
----
-#BestBlogForDotNetCommunity
-* [Jon skeet's Coding Blog](https://codeblog.jonskeet.uk/)
-* Tutorial site by .NET Community standup Recomendation [      Wake Up And Code!  ](https://wakeupandcode.com/aspnetcore/)
-
----
 # .Net Development Learning Path
 
     1 C#
@@ -120,8 +57,6 @@ This table covers daily Learning & Problem solving Trac Record:
     40 Qms Standard
     41 Mcsd Certification
 
-
-
 Robust Large-Scale Projects
 (Minimum 3 Projects)
     1 Payment Solution / E Wallet
@@ -133,8 +68,6 @@ Robust Large-Scale Projects
     7 Supply Chain Management
     8 ERP-Sap: Sd Module
     9 Projects On (Banking, Finance, E Commerce and Telecommunication)
-
-
 
 
 RESEARCH AREA
@@ -177,25 +110,6 @@ Now that you have a better understanding of some of the core concepts related to
     16 Google + "other websites".
 
 
-WEB DEVELOPMENT COURSES 2021
-1. Become a Web Developer by Codecademy
-2. Computer Programming by Khan Academy
-3. Introduction to Computer Science and Programming Using Python
-4. Programming for Everybody by Coursera
-5. Learn Web Development by Mozilla
-6. Web Fundamentals
-7. The Web Developer Bootcamp
-8. Computer Science 50’s: Introduction to Computer Science
-9. Modern HTML + CSS for Beginners
-10. HTML, CSS, Javascript for the Web Developers
-
-Future Study
-
-    1 Big Data, Data Ware House, Data Architecture
-    2 DEVOPS
-    3 MOBILE APPLICATION DEVELOPMENT
-    4 Analysis, Machine Learning & Bi Applications.
-
 Soft Skills
 
     1 English Speaking, Good IELTS Score
@@ -216,12 +130,3 @@ Soft Skills
     16 Hard Working. Good Interpersonal Skills. Leadership Skills
     17 Project Management and People Management.
 
-MyPropblem
-
-    1 Time Management (Movie, YouTube, Negative Thinking, Flat Cleaning Etc.)
-    2 Stress Management (Anxiety, Depression, Stress)
-    3 Planning (Not Planning for The Future)
-    4 Exercise (Not Exercise Regularly)
-    5 Diet (Don’t Eat Food Healthy Way)
-    6 Sleep (Sleep At 8 Pm – 4am Regular At Summer)
-    7 IBD TEST
