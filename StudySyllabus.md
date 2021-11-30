@@ -1,5 +1,4 @@
-Robust Large-Scale Projects
----------------------------
+# Robust Large-Scale Projects
 (Minimum 3 Projects)
     1 Payment Solution / E Wallet
     2 ERP
@@ -11,8 +10,7 @@ Robust Large-Scale Projects
     8 ERP-Sap: Sd Module
     9 Projects On (Banking, Finance, E Commerce and Telecommunication)`
     
-RESEARCH AREA
----------------
+# RESEARCH AREA
 Basic IIoT Concepts and Glossary of Terms
 There are hundreds of concepts and terms that relate to IIoT and Industry 4.0, but here are 12 foundational words and phrases to know before you decide whether you want to invest in Industry 4.0 solutions for your business:
     • Enterprise Resource Planning (ERP): Business process management tools that can be used to manage information across an organization.
@@ -24,15 +22,14 @@ There are hundreds of concepts and terms that relate to IIoT and Industry 4.0, b
     • Real-time data processing: Real-time data processing refers to the abilities of computer systems and machines to continuously and automatically process data and provide real-time or near-time outputs and insights.
 Now that you have a better understanding of some of the core concepts related to Industry 4.0, you’re ready to dig deeper into how smart manufacturing can revolutionize the way you run and grow your business.
     
-dotNet LeRNING pATH
---------------------
+# dotNet LeRNING pATH
     1 C#
     2 Asp.Net Core (Mvc, Razor Pages, Blazor)
     3 Angular
     4 SQL Server
     5 Web API
     6 Entity Framework Core
-    7 Object-Oriented Programming, Design Principles, Design Patterns, Microsoft Design Pattern & Architecture, Mvc Architecture, Software Architecture and Design Technique, Solid Design Principles, Uml And Software Design Principles, Software Estimation, Planning, And Controlling, Design Clean Code, Coding Standard, Soa
+    7 Object-Oriented Programming, Design Principles, Design Patterns, Microsoft Design Pattern & Architecture, Mvc Architecture, Software Architecture and Design   Technique, Solid Design Principles, Uml And Software Design Principles, Software Estimation, Planning, And Controlling, Design Clean Code, Coding Standard, Soa
     8 JavaScript (jQuery, React, Json, Ajax)
     9 HTML, CSS, BOOTSTRAP, SASS, LESS, XML, Responsive Web Design, Cross-Browser Compatibility
     10 Web Technology Stack, Including Http, Rest, Cookies, Caching, And Asset Loading
@@ -101,7 +98,6 @@ dotNet LeRNING pATH
     16 Google
 
 # Soft Skills
-
     1 English Speaking, Good IELTS Score
     2 Documentation and Presentation Skill
     3 Team Player, Positive Attitude, Discipline, Proactive And Passionate About Software Development, Self-Motivated
@@ -120,7 +116,7 @@ dotNet LeRNING pATH
     16 Hard Working. Good Interpersonal Skills. Leadership Skills
     17 Project Management and People Management.
 
-# READING
+# asp net core online tutorials
 - [Microsoft eShopOnWeb ASP.NET Core Reference Application](https://github.com/DebasisPaul/eShopOnWeb)
 - [ASP.NET Core Developer Roadmap](https://github.com/DebasisPaul/AspNetCore-Developer-Roadmap)
 - [Training Tutorial](https://github.com/DebasisPaul/training-tutorials/blob/master/content/asp.net/getting-started/README.md)
@@ -136,8 +132,17 @@ dotNet LeRNING pATH
 - [TekTutorialsHub](https://www.tektutorialshub.com/asp-net-core-tutorial/)
 - [Learn ASP.NET Core: Beginner to Advanced Course](https://www.dotnettricks.com/paths/become-asp-net-core-developer)
 - [LinkedInLearning](https://www.linkedin.com/learning/)
+- [LEARNING PATHS ASP.NET Core || PlurlSight](https://www.pluralsight.com/paths/aspnet-core)
+- [Introduction to ASP.NET Core Framework](https://dotnettutorials.net/lesson/introduction-to-asp-net-core/)
+- [ASP.NET Core Tutorials](https://www.tutorialsteacher.com/core)
+- [ASP.NET Interview Questions](https://www.javatpoint.com/asp-dot-net-interview-questions)
+- [Basic ASP.NET Interview Questions](https://www.interviewbit.com/asp-net-interview-questions)
+- [Top 30+ ASP.NET Interview Questions and Answers](https://www.dotnettricks.com/learn/aspnet/top-20-aspnet-interview-questions-and-answers)
+- [50 ASP.NET Interview Questions and Answers (PDF) in 2021](https://www.guru99.com/asp-net-interview-questions-answers.html)
+- [ASP and ASP.NET Tutorials](https://www.w3schools.com/asp/default.asp)
 
-# Books
+
+# asp net core online resources
 - ASP.NET Core in 24 Hours, Sams Teach Yourself
 - [ASP.NET Core || ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.](https://github.com/DebasisPaul/aspnetcore)
 - [Microsoft ASPNET Core Workshop- Demian Edwards](https://github.com/DebasisPaul/aspnetcore-workshop)
@@ -162,14 +167,6 @@ dotNet LeRNING pATH
 - [Tutorial - Enable your Web Apps to sign-in users and call APIs with the Microsoft identity platform for developers](https://github.com/DebasisPaul/active-directory-aspnetcore-webapp-openidconnect-v2)
 - [ASP.NET Core Diagnostic Scenarios](https://github.com/DebasisPaul/AspNetCoreDiagnosticScenarios)
 - [Announcements](https://github.com/DebasisPaul/Announcements)
-- [LEARNING PATHS ASP.NET Core || PlurlSight](https://www.pluralsight.com/paths/aspnet-core)
-- [Introduction to ASP.NET Core Framework](https://dotnettutorials.net/lesson/introduction-to-asp-net-core/)
-- [ASP.NET Core Tutorials](https://www.tutorialsteacher.com/core)
-- [ASP.NET Interview Questions](https://www.javatpoint.com/asp-dot-net-interview-questions)
-- [Basic ASP.NET Interview Questions](https://www.interviewbit.com/asp-net-interview-questions)
-- [Top 30+ ASP.NET Interview Questions and Answers](https://www.dotnettricks.com/learn/aspnet/top-20-aspnet-interview-questions-and-answers)
-- [50 ASP.NET Interview Questions and Answers (PDF) in 2021](https://www.guru99.com/asp-net-interview-questions-answers.html)
-- [ASP and ASP.NET Tutorials](https://www.w3schools.com/asp/default.asp)
 
 # ASP.NET Resources
 - [Learn ASP.NET](https://dotnet.microsoft.com/learn/aspnet)
@@ -187,9 +184,9 @@ dotNet LeRNING pATH
 - [Migrating ASP.NET MVC Applications to Windows Containers](https://docs.microsoft.com/en-us/aspnet/mvc/overview/deployment/docker-aspnetmvc)
 - [ASP.NET Core Blazor supported platforms](https://docs.microsoft.com/en-us/aspnet/core/blazor/supported-platforms?view=aspnetcore-5.0)
 
+# entity framework
 - [Entity Framework documentation](https://docs.microsoft.com/en-us/ef/)
 - [Entity Framework || Github](https://github.com/dotnet/efcore)
-
 
 # C Sharp Path
 - [Show notes, slides, and samples from the CSharp with CSharpFritz show](https://github.com/DebasisPaul/csharp_with_csharpfritz)
@@ -197,10 +194,8 @@ dotNet LeRNING pATH
 - [Getting started tutorials for C# and ASP.NET](https://github.com/DebasisPaul/training-tutorials)
 - [Grow your c# skills || PluralSight](https://www.pluralsight.com/browse/software-development/c-sharp?exp=1)
 - [The 2020 State of the OCTO——VERSE || Github Developer Survey](https://octoverse.github.com/)
-
 - [Tutorial: Create a simple C# console app in Visual Studio (part 1 of 2)](https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-console?view=vs-2022)
 - [Tutorial: Extend C# console app and debug in Visual Studio (part 2 of 2)](https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-console-part-2?view=vs-2022)
-
 - [What is .NET?](https://dotnet.microsoft.com/learn/dotnet/what-is-dotnet)
 - [lets learn dot net with C#](https://www.theurlist.com/letslearndotnet-csharp/?WT.mc_id=dotnet-22477-jasingl)
 - [Get Started With C#](https://dotnet.microsoft.com/languages/csharp)
@@ -272,8 +267,6 @@ dotNet LeRNING pATH
 - [.NET Microservices: Architecture for Containerized .NET Applications](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/)
 - [MICROSOFT LEARN FOR .NET Free. Cross-platform. Open source.](https://docs.microsoft.com/en-us/learn/dotnet/?WT.mc_id=dotnet-35129-website)
 
-
-
 # Microsoft Learn Azure
 - [Web Development for Beginners](https://docs.microsoft.com/en-us/learn/paths/web-development-101/)
 - [Azure Fundamentals part 1: Describe core Azure concepts](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts/)
@@ -297,7 +290,6 @@ dotNet LeRNING pATH
 - [Migrate your .NET web app or service to Azure App Service](https://docs.microsoft.com/en-us/dotnet/azure/migration/app-service?preserve-view=true&view=azure-dotnet)
 - [Key Azure Services for .NET developers](https://docs.microsoft.com/en-us/dotnet/azure/key-azure-services)
 - [Azure SDK for .NET overview](https://docs.microsoft.com/en-us/dotnet/azure/sdk/azure-sdk-for-dotnet)
-
 
 # Online C# Tutorials
 - [Alison](https://alison.com/)
