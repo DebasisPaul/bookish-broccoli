@@ -42,40 +42,28 @@
     17 Project Management and People Management.
 
 # asp net core online tutorials
+
+
+
 - [Microsoft eShopOnWeb ASP.NET Core Reference Application](https://github.com/DebasisPaul/eShopOnWeb)
 - [ASP.NET Core Developer Roadmap](https://github.com/DebasisPaul/AspNetCore-Developer-Roadmap)
 - [Training Tutorial](https://github.com/DebasisPaul/training-tutorials/blob/master/content/asp.net/getting-started/README.md)
 - [Web Camp Training Kit](https://github.com/DebasisPaul/WebCampTrainingKit)
 - [Practical ASP NET Core](https://github.com/DebasisPaul/practical-aspnetcore)
 - [ASP Net Core Concepts Workshop](https://github.com/DebasisPaul/aspnetcore-concepts-workshop)
-- [DotNet Tutorial](https://dotnettutorials.net/lesson/introduction-to-asp-net-core/)
-- [Tutorials Teacher](https://www.tutorialsteacher.com/core/dependency-injection-in-aspnet-core)
-- [W3School](https://www.w3schools.com/asp/default.asp)
-- [ASP.NET Core MVC Tutorial for Beginners](https://www.pragimtech.com/courses/asp-net-core-mvc-tutorial-for-beginners/)
-- [TutorialPoint](https://www.tutorialspoint.com/asp.net_core/index.htm)
-- [guru99](https://www.guru99.com/asp-net-tutorial.html)
-- [TekTutorialsHub](https://www.tektutorialshub.com/asp-net-core-tutorial/)
-- [Learn ASP.NET Core: Beginner to Advanced Course](https://www.dotnettricks.com/paths/become-asp-net-core-developer)
 - [LinkedInLearning](https://www.linkedin.com/learning/)
 - [LEARNING PATHS ASP.NET Core || PlurlSight](https://www.pluralsight.com/paths/aspnet-core)
-- [Introduction to ASP.NET Core Framework](https://dotnettutorials.net/lesson/introduction-to-asp-net-core/)
-- [ASP.NET Core Tutorials](https://www.tutorialsteacher.com/core)
-- [ASP.NET Interview Questions](https://www.javatpoint.com/asp-dot-net-interview-questions)
-- [Basic ASP.NET Interview Questions](https://www.interviewbit.com/asp-net-interview-questions)
-- [Top 30+ ASP.NET Interview Questions and Answers](https://www.dotnettricks.com/learn/aspnet/top-20-aspnet-interview-questions-and-answers)
-- [50 ASP.NET Interview Questions and Answers (PDF) in 2021](https://www.guru99.com/asp-net-interview-questions-answers.html)
-- [ASP and ASP.NET Tutorials](https://www.w3schools.com/asp/default.asp)
 
 
 # asp net core online resources
-- ASP.NET Core in 24 Hours, Sams Teach Yourself
+- ASP.NET Core in 24 Hours, Sams Teach Yourself Book By Jef Fritz
+- - [The Little ASP.NET Core Book](https://recaffeinate.co/book/)
 - [ASP.NET Core || ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.](https://github.com/DebasisPaul/aspnetcore)
 - [Microsoft ASPNET Core Workshop- Demian Edwards](https://github.com/DebasisPaul/aspnetcore-workshop)
 - [Microsoft Virtual Academy MVA- LadyNaggaga](https://github.com/DebasisPaul/ASP.NETCoreMVA)
 - [ASP.NET Core for Beginners - Workshop - Scott Hanselman](https://github.com/DebasisPaul/aspnetcore-for-beginners)
 - [ASP.NET Core - App Building Workshop - Scott Hanselman](https://github.com/DebasisPaul/aspnetcore-app-workshop)
 - [Documentation for ASP.NET Core](https://github.com/DebasisPaul/AspNetCore.Docs)
-- [Documentation for ASP.NET 4.x](https://github.com/DebasisPaul/AspNetDocs)
 - [Roadmap to becoming an ASP.NET Core developer in 2021](https://github.com/DebasisPaul/AspNetCore-Developer-Roadmap)
 - [Getting started tutorials for C# and ASP.NET](https://github.com/DebasisPaul/training-tutorials)
 - [Web Camp Jon Galloway](https://github.com/DebasisPaul/WebCampTrainingKit)
@@ -83,7 +71,6 @@
 - [Web Development for Beginners - A Curriculum](https://github.com/DebasisPaul/Web-Dev-For-Beginners)
 - [ASP.NET API Versioning](https://github.com/DebasisPaul/aspnet-api-versioning)
 - [ASP.NET Core Workshop - Scott Hanselman](https://github.com/DebasisPaul/aspnetcore-concepts-workshop)
-- [📚 Freely available programming books](https://github.com/DebasisPaul/free-programming-books)
 - [A simple ASP.NET Core wiki that we are working on during live coding streams](https://github.com/DebasisPaul/CoreWiki)
 - [Microsoft eShopOnWeb ASP.NET Core Reference Application](https://github.com/DebasisPaul/eShopOnWeb)
 - [Reference documentation for ASP.NET Core APIs](https://github.com/DebasisPaul/AspNetApiDocs)
@@ -108,7 +95,6 @@
 - [Get started with ASP.NET Core MVC](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-5.0&tabs=visual-studio)
 - [Migrating ASP.NET MVC Applications to Windows Containers](https://docs.microsoft.com/en-us/aspnet/mvc/overview/deployment/docker-aspnetmvc)
 - [ASP.NET Core Blazor supported platforms](https://docs.microsoft.com/en-us/aspnet/core/blazor/supported-platforms?view=aspnetcore-5.0)
-- [The Little ASP.NET Core Book](https://recaffeinate.co/book/)
 
 # entity framework
 - [Entity Framework documentation](https://docs.microsoft.com/en-us/ef/)
