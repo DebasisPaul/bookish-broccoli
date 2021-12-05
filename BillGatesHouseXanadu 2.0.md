@@ -1,3 +1,4 @@
+- [Bill GatesFrom Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Bill_Gates)
 - [See inside the secretive Seattle suburb that's home to Jeff Bezos and Bill Gates, where streets are lined with opulent waterfront mansions behind tall gates and security cameras](https://www.businessinsider.com/where-billionaires-bill-gates-jeff-bezos-live-photos-of-medina-washington-2017-12)
 - [Medina, Washington Wiki](https://en.wikipedia.org/wiki/Medina,_Washington)
 - [Official Website of the City of Medina, Washington.](https://www.medina-wa.gov/)
