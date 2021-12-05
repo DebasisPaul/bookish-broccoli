@@ -1,0 +1,7 @@
+- [See inside the secretive Seattle suburb that's home to Jeff Bezos and Bill Gates, where streets are lined with opulent waterfront mansions behind tall gates and security cameras](https://www.businessinsider.com/where-billionaires-bill-gates-jeff-bezos-live-photos-of-medina-washington-2017-12)
+- [Medina, Washington Wiki](https://en.wikipedia.org/wiki/Medina,_Washington)
+- [Official Website of the City of Medina, Washington.](https://www.medina-wa.gov/)
+- [medina, washington Bing Images](https://www.bing.com/images/search?q=medina%2c+washington&qpvt=Medina%2c+Washington&form=IGRE&first=1&tsc=ImageBasicHover)
+- [Medina, Washington Bing Videos](https://www.bing.com/videos/search?q=Medina%2c+Washington&qpvt=Medina%2c+Washington&FORM=VDRE)
+- [Bill Gates House: Inspiring Facts About Xanadu 2.0](https://www.archute.com/bill-gates-house/)
+- [Inside BILL GATES HOUSE • Xanadu 2.0 • $131M • Medina](https://www.superyachtfan.com/yacht-owners/bill-gates/house/)
