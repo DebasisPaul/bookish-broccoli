@@ -15,7 +15,7 @@ Shopping 🛒 List 📃 Monday 6Th November 2021
 11. Apple Gala 1 kg 198/kg 198 Taka
 12. Jalpai 2 Kg 55/kg 110 Taka
 
-13.0 Miniket Rice Loose (P) 10 Kg 61/kg 610 Taka
+13. Miniket Rice Loose (P) 10 Kg 61/kg 610 Taka
 14. Shwapno Mixed Dal 5 Kg 125/kg 625 Taka
 15. Fresh Super Premium Salt 2 Kg 32/kg 64 Taka
 16. Roshun Chinese Loose (P) 0.5 Kg 160/kg 80 Taka
