@@ -26,7 +26,7 @@ Shopping 🛒 List 📃 Monday 6Th November 2021
 20. Sensodyne Deep Clean Tooth Paste 70g 1 ITEM 180 taka
 21. Sensodyne Tooth Brush Sensitive* 1 pcs 80 taka
 22. Bashundhara Toilet Tissue (Gold) 4 PCS 25/Pcs 100 Taka
-23. Dettol Handwash Re-Energize Refill, 750ml PH-Balanced Liquid Soap Formula 225 Taka
+23. 
 24. Radhuni Turmeric Regular 100g 2 Packet 50/Packet 100 Taka
 25. Radhuni Cumin 100 Gm 80/Packet 80 Taka
 26. Dettol Antiseptic Disinfectant Liquid 750 Ml- Use Diluted 233 Taka
