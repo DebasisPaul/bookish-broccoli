@@ -1,18 +1,19 @@
-Shopping 🛒 List 📃 Monday 6Th November 2021
+Shopping 🛒 List 📃 Tuesday 7Th November 2021
 
-1. Broiler Chicken (Without Skin) 6.5 kg 228/kg 1428 Taka
-2. Rui Deshi (P)-1.5 To 1.99kg 12.5 kg 280/kg 3500 Taka
+1. Broiler Chicken (Without Skin) 6.5 kg 218/kg 1417 Taka
+2. Rui Deshi (P)-1.5 To 1.99kg 12.5 kg 285/kg 3563 Taka
 
 3. Lemon Round (Lebu Gol) 20 Pcs 5/PC 120 Taka
 4. Green Banana (Kacha Kola) 20 Pcs 8/Pcs 160 Taka
-5. Cucumber (Shosha) 5 kg 35/kg 175 Taka
-6. Green Papaya 5 kg 24/kg 120 Taka
+5. Cucumber (Shosha) 6 kg 29/kg 174 Taka
+6. Green Papaya 6 kg 17/kg 102 Taka
 7. Mishti Kumra 3 kg 35/kg 115 Taka
 8. Brinjal Round (Beguun Gol-Beguni) 3 Kg 49/kg 147 Taka
 9. Radish (Mula) 2 kg 35/kg 70 Taka
+10. Tomato Green 2 kg 96 Taka
 
 10. Malta (1 Kg) 160/kg 160 Taka
-11. Apple Gala 1 kg 198/kg 198 Taka
+11. Apple Gala 1 kg 208/kg 208 Taka
 12. Jalpai 2 Kg 55/kg 110 Taka
 
 13. Miniket Rice Loose (P) 10 Kg 61/kg 610 Taka
@@ -26,7 +27,7 @@ Shopping 🛒 List 📃 Monday 6Th November 2021
 20. Sensodyne Deep Clean Tooth Paste 70g 1 ITEM 180 taka
 21. Sensodyne Tooth Brush Sensitive* 1 pcs 80 taka
 22. Bashundhara Toilet Tissue (Gold) 4 PCS 25/Pcs 100 Taka
-23. 
+23. Nescafe Classic Coffee 200gm(Pouch) 350 Taka
 24. Radhuni Turmeric Regular 100g 2 Packet 50/Packet 100 Taka
 25. Radhuni Cumin 100 Gm 80/Packet 80 Taka
 26. Dettol Antiseptic Disinfectant Liquid 750 Ml- Use Diluted 233 Taka
