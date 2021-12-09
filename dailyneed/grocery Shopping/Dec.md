@@ -55,7 +55,9 @@ Shopping 🛒 List 📃 Tuesday 7Th November 2021
 
 
 # updated list when shopping
+
 Shopping 🛒 List 📃 Tuesday 7Th December 2021
+
     1. Broiler Chicken (Without Skin) 6.340 kg 275/kg 1417 Taka 1742  taka 325
     2. Rui Deshi (P)-1.5 To 1.99kg 12.5 kg 320/kg 3563 Taka  11.375 3640 taka 77 taka
     3. Lemon Round (Lebu Gol) 12 Pcs 5/PC 60 Taka
