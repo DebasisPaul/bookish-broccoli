@@ -7,12 +7,12 @@
 Birthday Facts
 
     • Official Birth Date 1st January 1988
-    • Official Age Today 33 Years, 6 Months, 18 Days
+    • Official Age Today 34 Years, 1 Months, 5 Days
       
-    • Real Date Today WEDNESDAY, 20st October 2021
-    • Real Age Today 36 Years 5 Months 18 Days
+    • Real Date Today SUNDAY, 6 february 2022
+    • Real Age Today 36 Years 9 Months 2 Days
     • Next Real Birth Day Tuesday May 3rd 2022
-    • Days Left Next Real Birthday 194 Days
+    • Days Left Next Real Birthday 85 Days
 
 
 Date Facts:
