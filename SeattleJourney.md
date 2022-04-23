@@ -1,0 +1,10 @@
+- Contact With Washington & Califirnia based .Net realated IT Companies throuh Meetup, Twitter, Linkedin, Microsoft ETC.
+- Take Care Savar 420, Systech 420
+- Complete 3 .Net Projects & 3 Books.
+- get some financial help from charitable fund like Venture Capital or like gates foundation.
+- Regular Exercise, rwgular time diet, Meditation, Stress Management.
+- Carefull of Diebetics, Pressure, Cholestrol, Arthritis, Digestive Trac Issue, Liver, Kidney Care, Mindfulness, Healthy Weight IBM index, Cancer.
+- Motivation, Gatitude, Forgiveness, Inspiration, Respect, Love
+- Reading, Singing, Healthy Sex, 
+- Brain food, Auto Immune Disease, Anti inflamatory Food.
+- Anxiety & Depression Management
