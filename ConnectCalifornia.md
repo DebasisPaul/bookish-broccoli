@@ -10,3 +10,7 @@
 # Richest People
 
 # Charity Foundation
+
+# Seattle Washington based Technology Companies
+
+# Silicon valley Based Technology Company
