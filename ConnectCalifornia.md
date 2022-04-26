@@ -12,6 +12,8 @@
 - Mads Torgersen Language Designer
 - David Pine
 
+# Microsoft RD & MVP TO CONNECT
+
 # Bloomberg Technology People
 - Nancy Davis, Managing Partner & Chief Investment Officer, Quadratic Capital Management, https://quadraticllc.com/
 - Natasha Lamb, Managing Partner, Portfolio Manager, Arjuna Capital, https://arjuna-capital.com/
