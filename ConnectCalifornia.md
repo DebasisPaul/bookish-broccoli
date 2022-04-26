@@ -29,6 +29,15 @@
 - Damian Edwards, Principal Manager Enginner .Net Team
 - Dan Zhu, Program Manager .Net Website
 -  Mark Downie (@poppastring) Program Manager Asp.Net Team
+-  Arthur Vickers (@ajcvickers), Program Manager Entity framework Team
+-  Dan Simmons (@SimmDan), Program Manager Entity framework Team
+-  Rowan Miller, Program Manager Entity framework Team
+-  Tim Laverty (@timlaverty), Program Manager Entity framework Team
+-  Diego Vega (@divega) Program Manager Entity framework Team
+-  Jeremy Likness Program Manager Entity framework Team
+-  Shay Rozansky, Program Manager Entity framework Team
+-  Julie Lerman Program Manager Entity framework Team
+-  Tim Corey, Microsoft MVP
 
 # Microsoft RD & MVP TO CONNECT
 
