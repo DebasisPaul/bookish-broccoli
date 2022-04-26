@@ -1,6 +1,6 @@
 # Microsoft .Net People To Contact
 - Bill gates 
-- Scott Guthrie .Net & Azure VP
+- Scott Guthrie .Net & EVP Cloud & AI
 - Scott Hunter .Net Director
 - Scott Hanselman .Net Community Partner Manager
 - David Fowler .Net Principal Architect
@@ -11,6 +11,12 @@
 - Jayme singleton Program Manager
 - Mads Torgersen Language Designer
 - David Pine
+- Kevin Scott Chief Technology Officer
+- Seth Juarez, Principal Cloud Advocate
+- Daniel Roth, Program Manager Asp.Net Team
+- James Montemagno
+- Kendra Havens, Program Manager .Net Visual Studio Team
+- Jeff Fritz, Program Manager .Net Community Team
 
 # Microsoft RD & MVP TO CONNECT
 
