@@ -17,6 +17,18 @@
 - James Montemagno
 - Kendra Havens, Program Manager .Net Visual Studio Team
 - Jeff Fritz, Program Manager .Net Community Team
+- Jon Galloway, Program manager .Net Community Team
+- Sébastien Ros (@sebastienros)  Program manager .Net Community Team
+- Kathleen Dolard PM .Net Team Language & SDK
+- Rich Lander PM .Net Team
+- Jan Kotas PM .Net Team Runtime
+- Immo Landwerth PM .Net Team
+- Stephen Halter PM Asp.Net Team
+- Elahn Danee (@CodeThLightning)
+- Mika Dumont Program Manager .Net Team
+- Damian Edwards, Principal Manager Enginner .Net Team
+- Dan Zhu, Program Manager .Net Website
+-  Mark Downie (@poppastring) Program Manager Asp.Net Team
 
 # Microsoft RD & MVP TO CONNECT
 
