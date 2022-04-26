@@ -13,7 +13,7 @@
 - David Pine
 - Kevin Scott Chief Technology Officer
 - Seth Juarez, Principal Cloud Advocate
-- Daniel Roth, Program Manager Asp.Net Team
+- Daniel Roth Principal Program Manager, ASP.NET
 - James Montemagno
 - Kendra Havens, Program Manager .Net Visual Studio Team
 - Jeff Fritz, Program Manager .Net Community Team
@@ -29,14 +29,14 @@
 - Damian Edwards, Principal Manager Enginner .Net Team
 - Dan Zhu, Program Manager .Net Website
 -  Mark Downie (@poppastring) Program Manager Asp.Net Team
--  Arthur Vickers (@ajcvickers), Program Manager Entity framework Team
--  Dan Simmons (@SimmDan), Program Manager Entity framework Team
--  Rowan Miller, Program Manager Entity framework Team
--  Tim Laverty (@timlaverty), Program Manager Entity framework Team
--  Diego Vega (@divega) Program Manager Entity framework Team
--  Jeremy Likness Program Manager Entity framework Team
--  Shay Rozansky, Program Manager Entity framework Team
--  Julie Lerman Program Manager Entity framework Team
+-  Arthur Vickers (@ajcvickers), Senior Program Manager - .NET Data, .NET
+-  Dan Simmons (@SimmDan), Senior Program Manager - .NET Data, .NET
+-  Rowan Miller, Senior Program Manager - .NET Data, .NET
+-  Tim Laverty (@timlaverty),Senior Program Manager - .NET Data, .NET
+-  Diego Vega (@divega) Senior Program Manager - .NET Data, .NET
+-  Jeremy Likness Senior Program Manager - .NET Data, .NET
+-  Shay Rozansky, Senior Program Manager - .NET Data, .NET
+-  Julie Lerman Senior Program Manager - .NET Data, .NET
 -  Tim Corey, Microsoft MVP
 
 # Microsoft RD & MVP TO CONNECT
