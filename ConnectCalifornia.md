@@ -1,13 +1,13 @@
 # Microsoft .Net People To Contact
-- Bill gates 
-- Scott Guthrie .Net & EVP Cloud & AI
-- Scott Hunter .Net Director
+- Bill gates https://www.gatesnotes.com/ https://www.gatesfoundation.org/
+- Scott Guthrie .Net & EVP Cloud & AI Twitter & Linkedin
+- Scott Hunter .Net Director Twitter
 - `Scott Hanselman .Net Community Partner Manager` - Email do to scott@hanselman.com @4.27.2022
-- David Fowler .Net Principal Architect
-- Anders Hagelsberg Technical fellow & C#, Typescript Creator
-- Jon Skeet .Net For Google Cloud Platform & Convenor ECMA C# Standard Committee
+- David Fowler .Net Principal Architect twitter, github, linkedin
+- Anders Hagelsberg Technical fellow & C#, Typescript Creator  andersh@microsoft.com
+- Jon Skeet .Net For Google Cloud Platform & Convenor ECMA C# Standard Committee skeet@pobox.com
 - Maira Winzel .Net Program Manager
-- Bill Wagner Microsoft Docs Manager For C#, F#, VB
+- Bill Wagner Microsoft Docs Manager For C#, F#, VB bill.w.wagner@outlook.com wiwagn@microsoft.com http://thebillwagner.com/Home/About https://www.oreilly.com/pub/au/1448 http://www.htbox.org/
 - Jayme singleton Program Manager
 - Mads Torgersen Language Designer
 - David Pine
@@ -52,6 +52,8 @@
 
 # Charity Foundation
 
-# Seattle Washington based Technology Companies
+# Bellevue & Redmond, Washington, United States "Regions Greater Seattle Area, West Coast, Western US" based Technology Companies
 
 # Silicon valley Based Technology Company
+
+# Manhattan Beach, California based IT Company
