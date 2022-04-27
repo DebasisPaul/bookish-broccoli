@@ -2,7 +2,7 @@
 - Bill gates 
 - Scott Guthrie .Net & EVP Cloud & AI
 - Scott Hunter .Net Director
-- Scott Hanselman .Net Community Partner Manager
+- `Scott Hanselman .Net Community Partner Manager` - Email do to scott@hanselman.com @4.27.2022
 - David Fowler .Net Principal Architect
 - Anders Hagelsberg Technical fellow & C#, Typescript Creator
 - Jon Skeet .Net For Google Cloud Platform & Convenor ECMA C# Standard Committee
