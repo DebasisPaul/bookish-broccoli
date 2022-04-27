@@ -47,6 +47,13 @@
 - Emily Chang
 
 # Venture Capital
+- Roger McNamee (an Elevation Co-Founder and Managing Director) Elevation Partners
+- David Sacks is co-founder and partner at Craft Venture
+- https://www.gradient.com/
+- https://www.av.vc/
+- https://www.sandhillangels.com/
+- https://www.temasek.com.sg/en/index
+- https://www.forerunnerventures.com/
 
 # Richest People
 
