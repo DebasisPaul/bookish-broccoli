@@ -10,14 +10,14 @@
 - Bill Wagner Microsoft Docs Manager For C#, F#, VB bill.w.wagner@outlook.com wiwagn@microsoft.com http://thebillwagner.com/Home/About https://www.oreilly.com/pub/au/1448 http://www.htbox.org/ Email Done
 - Jayme singleton Proud Business Operations Program Manager at Microsoft for the global Xamarin & .NET Developer communities. j.rosesingleton@gmail.com jayme.singleton@xamarin.com
 - Mads Torgersen Language Designer
-- David Pine
+- David Pine email done
 - Kevin Scott Chief Technology Officer
-- Seth Juarez, Principal Cloud Advocate
-- Daniel Roth Principal Program Manager, ASP.NET
-- James Montemagno
-- Kendra Havens, Program Manager .Net Visual Studio Team
+- Seth Juarez, Principal Cloud Advocate email done
+- Daniel Roth Principal Program Manager, ASP.NET  daroth@microsoft.com
+- James Montemagno Principal Lead Program Manager, .NET Community
+- Kendra Havens, Program Manager .Net Visual Studio Team 
 - Jeff Fritz, Program Manager .Net Community Team
-- Jon Galloway, Program manager .Net Community Team
+- Jon Galloway, Program manager .Net Community Team jogallow@microsoft.com
 - Sébastien Ros (@sebastienros)  Program manager .Net Community Team
 - Kathleen Dolard PM .Net Team Language & SDK
 - Rich Lander PM .Net Team
@@ -26,7 +26,7 @@
 - Stephen Halter PM Asp.Net Team
 - Elahn Danee (@CodeThLightning)
 - Mika Dumont Program Manager .Net Team
-- Damian Edwards, Principal Manager Enginner .Net Team
+- Damian Edwards,Principal PM Architect, .NET Program Management damian@damianedwards.com
 - Dan Zhu, Program Manager .Net Website
 -  Mark Downie (@poppastring) Program Manager Asp.Net Team
 -  Arthur Vickers (@ajcvickers), Senior Program Manager - .NET Data, .NET
