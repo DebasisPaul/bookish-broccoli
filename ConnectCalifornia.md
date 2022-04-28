@@ -24,7 +24,7 @@
 - Jan Kotas PM .Net Team Runtime
 - Immo Landwerth PM .Net Team
 - Stephen Halter PM Asp.Net Team
-- Elahn Danee (@CodeThLightning)
+- Elahn Danee (@CodeThLightning) 	elahndaneecodes@gmail.com
 - Mika Dumont Program Manager .Net Team
 - Damian Edwards,Principal PM Architect, .NET Program Management damian@damianedwards.com
 - Dan Zhu, Program Manager .Net Website
