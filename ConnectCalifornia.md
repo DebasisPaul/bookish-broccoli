@@ -1,10 +1,10 @@
 # Microsoft .Net People To Contact
-- Bill gates https://www.gatesnotes.com/ https://www.gatesfoundation.org/
-- Scott Guthrie .Net & EVP Cloud & AI Twitter & Linkedin
+- Bill gates https://www.gatesnotes.com/ https://www.gatesfoundation.org/ email done 4.28.2022
+- Scott Guthrie .Net & EVP Cloud & AI Twitter & Linkedin 
 - Scott Hunter .Net Director Twitter
 - `Scott Hanselman .Net Community Partner Manager` - Email do to scott@hanselman.com @4.27.2022
 - David Fowler .Net Principal Architect twitter, github, linkedin
-- Anders Hagelsberg Technical fellow & C#, Typescript Creator  andersh@microsoft.com
+- Anders Hagelsberg Technical fellow & C#, Typescript Creator  andersh@microsoft.com email done
 - Jon Skeet .Net For Google Cloud Platform & Convenor ECMA C# Standard Committee skeet@pobox.com
 - Maira Winzel .Net Program Manager
 - Bill Wagner Microsoft Docs Manager For C#, F#, VB bill.w.wagner@outlook.com wiwagn@microsoft.com http://thebillwagner.com/Home/About https://www.oreilly.com/pub/au/1448 http://www.htbox.org/
@@ -38,6 +38,7 @@
 -  Shay Rozansky, Senior Program Manager - .NET Data, .NET
 -  Julie Lerman Senior Program Manager - .NET Data, .NET
 -  Tim Corey, Microsoft MVP
+-  Ashley Rogers, https://www.linkedin.com/in/ashley-rogers-b4034970/ Email Done
 
 # Microsoft RD & MVP TO CONNECT
 
