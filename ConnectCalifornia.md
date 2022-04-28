@@ -7,8 +7,8 @@
 - Anders Hagelsberg Technical fellow & C#, Typescript Creator  andersh@microsoft.com email done
 - Jon Skeet .Net For Google Cloud Platform & Convenor ECMA C# Standard Committee skeet@pobox.com
 - Maira Winzel .Net Program Manager
-- Bill Wagner Microsoft Docs Manager For C#, F#, VB bill.w.wagner@outlook.com wiwagn@microsoft.com http://thebillwagner.com/Home/About https://www.oreilly.com/pub/au/1448 http://www.htbox.org/
-- Jayme singleton Program Manager
+- Bill Wagner Microsoft Docs Manager For C#, F#, VB bill.w.wagner@outlook.com wiwagn@microsoft.com http://thebillwagner.com/Home/About https://www.oreilly.com/pub/au/1448 http://www.htbox.org/ Email Done
+- Jayme singleton Proud Business Operations Program Manager at Microsoft for the global Xamarin & .NET Developer communities. j.rosesingleton@gmail.com jayme.singleton@xamarin.com
 - Mads Torgersen Language Designer
 - David Pine
 - Kevin Scott Chief Technology Officer
