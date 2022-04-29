@@ -40,6 +40,29 @@
 -  Tim Corey, Microsoft MVP
 -  Ashley Rogers, https://www.linkedin.com/in/ashley-rogers-b4034970/ Email Done
 
+- Stephanie Stimac Developer Advocate & DevEx PM steph.stimac@gmail.com
+- Dona Sarkar Director of Tech https://donasarkar.com/contact-me
+- CHRISTINA WARREN filmgirl@github.com
+- Jacqueline Widdis Overcomer of a HUGE Full-time Employment Gap | Helping Others Do the Same, But Faster | PM @ Microsoft jacqueline@witfulthinking.com
+- DeeDee Walsh VP Marketing and Business Development at Mobilize.Net, Former Director at Microsoft ddskier@msn.com
+- Andrew Lock  andrewlock.net@gmail.com.
+- David Ortinau Principal Program Manager, .NET MAUI at Microsoft david.ortinau@microsoft.com dave@davidortinau.com
+- SAFIA ABDALLA build http://ASP.NET at @microsoft safia@safia.rocks
+- Eilon Lipton Building cool things with .NET at Microsoft.
+- gillcleeren Microsoft Regional Director and MVP
+- Melinda French Gates https://givingpledge.org/contactus
+- Warren Buffett Chairman and CEO of Berkshire Hathaway 
+- Calvin A. Allen Microsoft MVP🔥I ❤ .NET & C# calvin@codingwithcalvin.net
+- Miguel de Icaza miguel.de.icaza@gmail.com.
+- Dmitry Lyalin Vacation mode. Formerly PM at Microsoft | .NET/XAML 🔥 Hot Reload product owner & .NET MAUI.
+- Layla #WomenOfDotNet .NET Developer Advocate at VMware https://docs.google.com/forms/d/e/1FAIpQLScj9TuqRBOblAsp02B_r9uvNVSaUfKp5nX7hbV2RjYtqBjAkQ/viewform
+- David McCarter (Microsoft MVP) https://dotnettips.wordpress.com/about/
+- Cam Soper .NET content developer @docsmsft. cam.soper@microsoft.com
+- Maria Naggaga #BlacklivesMatter Principal Product Manager at Microsoft .NET Interactive and Minimal APIs 
+
+# https://dotnetfoundation.org/about/board-of-directors
+# .Net Conf 2021 Speakers List
+
 # Microsoft RD & MVP TO CONNECT
 
 # Bloomberg Technology People
