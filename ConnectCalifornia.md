@@ -1,24 +1,15 @@
 # Microsoft .Net People To Contact
+
+Email Done
 - Bill gates https://www.gatesnotes.com/ https://www.gatesfoundation.org/ email done 4.28.2022
-- Scott Guthrie .Net & EVP Cloud & AI Twitter & Linkedin 
-- Scott Hunter .Net Director Twitter
 - `Scott Hanselman .Net Community Partner Manager` - Email do to scott@hanselman.com @4.27.2022
-- David Fowler .Net Principal Architect twitter, github, linkedin
 - Anders Hagelsberg Technical fellow & C#, Typescript Creator  andersh@microsoft.com email done
 - Jon Skeet .Net For Google Cloud Platform & Convenor ECMA C# Standard Committee skeet@pobox.com
-- Maira Winzel .Net Program Manager
 - Bill Wagner Microsoft Docs Manager For C#, F#, VB bill.w.wagner@outlook.com wiwagn@microsoft.com http://thebillwagner.com/Home/About https://www.oreilly.com/pub/au/1448 http://www.htbox.org/ Email Done
 - Jayme singleton Proud Business Operations Program Manager at Microsoft for the global Xamarin & .NET Developer communities. j.rosesingleton@gmail.com jayme.singleton@xamarin.com
-- Mads Torgersen Language Designer
-- David Pine email done
-- Kevin Scott Chief Technology Officer
 - Seth Juarez, Principal Cloud Advocate email done
 - Daniel Roth Principal Program Manager, ASP.NET  daroth@microsoft.com
-- James Montemagno Principal Lead Program Manager, .NET Community
-- Kendra Havens, Program Manager .Net Visual Studio Team 
-- Jeff Fritz, Program Manager .Net Community Team
 - Jon Galloway, Program manager .Net Community Team jogallow@microsoft.com
-- Sébastien Ros (@sebastienros)  Program manager .Net Community Team
 - Kathleen Dolard PM .Net Team Language & SDK
 - Rich Lander PM .Net Team
 - Jan Kotas PM .Net Team Runtime
@@ -27,18 +18,32 @@
 - Elahn Danee (@CodeThLightning) 	elahndaneecodes@gmail.com
 - Mika Dumont Program Manager .Net Team
 - Damian Edwards,Principal PM Architect, .NET Program Management damian@damianedwards.com
+ Tim Corey, Microsoft MVP
+-  Tim Laverty (@timlaverty),Senior Program Manager - .NET Data, .NET
+-  Jeremy Likness Senior Program Manager - .NET Data, .NET
+-  Ashley Rogers, https://www.linkedin.com/in/ashley-rogers-b4034970/ Email Done
+-  Shay Rozansky, Senior Program Manager - .NET Data, .NET
+- David Pine email done
+
+Email Not found
+- Scott Guthrie .Net & EVP Cloud & AI Twitter & Linkedin 
+- Scott Hunter .Net Director Twitter
+- David Fowler .Net Principal Architect twitter, github, linkedin
+- Maira Winzel .Net Program Manager
+- Mads Torgersen Language Designer
+- Kevin Scott Chief Technology Officer
+- James Montemagno Principal Lead Program Manager, .NET Community
+- Kendra Havens, Program Manager .Net Visual Studio Team 
+- Jeff Fritz, Program Manager .Net Community Team
+- Sébastien Ros (@sebastienros)  Program manager .Net Community Team
 - Dan Zhu, Program Manager .Net Website
 -  Mark Downie (@poppastring) Program Manager Asp.Net Team
 -  Arthur Vickers (@ajcvickers), Senior Program Manager - .NET Data, .NET
 -  Dan Simmons (@SimmDan), Senior Program Manager - .NET Data, .NET
 -  Rowan Miller, Senior Program Manager - .NET Data, .NET
--  Tim Laverty (@timlaverty),Senior Program Manager - .NET Data, .NET
 -  Diego Vega (@divega) Senior Program Manager - .NET Data, .NET
--  Jeremy Likness Senior Program Manager - .NET Data, .NET
--  Shay Rozansky, Senior Program Manager - .NET Data, .NET
 -  Julie Lerman Senior Program Manager - .NET Data, .NET
--  Tim Corey, Microsoft MVP
--  Ashley Rogers, https://www.linkedin.com/in/ashley-rogers-b4034970/ Email Done
+
 
 - Stephanie Stimac Developer Advocate & DevEx PM steph.stimac@gmail.com
 - Dona Sarkar Director of Tech https://donasarkar.com/contact-me
@@ -59,6 +64,7 @@
 - David McCarter (Microsoft MVP) https://dotnettips.wordpress.com/about/
 - Cam Soper .NET content developer @docsmsft. cam.soper@microsoft.com
 - Maria Naggaga #BlacklivesMatter Principal Product Manager at Microsoft .NET Interactive and Minimal APIs 
+- Beth Massi Director Product Marketing for .NET at Microsoft. Marketing Director for .NET Platform and Languages (C#, F#, VB). Long-time community champion. .NET Foundation board member. bethma@microsoft.com
 
 # https://dotnetfoundation.org/about/board-of-directors
 # .Net Conf 2021 Speakers List
@@ -88,3 +94,9 @@
 # Silicon valley Based Technology Company
 
 # Manhattan Beach, California based IT Company
+
+# .Net MeetUP & Speakers
+https://dotnetfoundation.org/community/meetups
+https://dotnetfoundation.org/community/speakers
+
+# twitter, linkedin, facebook, github .net people to connect
