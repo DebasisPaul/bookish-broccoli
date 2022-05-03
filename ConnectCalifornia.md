@@ -43,6 +43,7 @@ Email Not found
 -  Rowan Miller, Senior Program Manager - .NET Data, .NET
 -  Diego Vega (@divega) Senior Program Manager - .NET Data, .NET
 -  Julie Lerman Senior Program Manager - .NET Data, .NET
+-  Jeffrey Snover Technical Fellow at Microsoft & the inventor of Windows PowerShell, an object-based distributed automation engine, scripting language, and CLI. jsnover15@hotmail.com
 
 
 - Stephanie Stimac Developer Advocate & DevEx PM steph.stimac@gmail.com
