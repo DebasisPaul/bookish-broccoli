@@ -66,6 +66,8 @@ Email Not found
 - Cam Soper .NET content developer @docsmsft. cam.soper@microsoft.com
 - Maria Naggaga #BlacklivesMatter Principal Product Manager at Microsoft .NET Interactive and Minimal APIs 
 - Beth Massi Director Product Marketing for .NET at Microsoft. Marketing Director for .NET Platform and Languages (C#, F#, VB). Long-time community champion. .NET Foundation board member. bethma@microsoft.com
+- Anjana Sofia Vakil Language technologist and software developer anjanavakil@gmail.com https://vakila.github.io/
+- Shruti Kapoor shruti.kapoor08@gmail.com Staff Engineer Paypal
 
 # https://dotnetfoundation.org/about/board-of-directors
 # .Net Conf 2021 Speakers List
