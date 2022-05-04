@@ -54,25 +54,37 @@ Email Not found
 - Andrew Lock  andrewlock.net@gmail.com.
 - David Ortinau Principal Program Manager, .NET MAUI at Microsoft david.ortinau@microsoft.com dave@davidortinau.com
 - SAFIA ABDALLA build http://ASP.NET at @microsoft safia@safia.rocks
-- Eilon Lipton Building cool things with .NET at Microsoft.
-- gillcleeren Microsoft Regional Director and MVP
-- Melinda French Gates https://givingpledge.org/contactus
-- Warren Buffett Chairman and CEO of Berkshire Hathaway 
+- Melinda French Gates https://givingpledge.org/contactus 
 - Calvin A. Allen Microsoft MVP🔥I ❤ .NET & C# calvin@codingwithcalvin.net
 - Miguel de Icaza miguel.de.icaza@gmail.com.
-- Dmitry Lyalin Vacation mode. Formerly PM at Microsoft | .NET/XAML 🔥 Hot Reload product owner & .NET MAUI.
 - Layla #WomenOfDotNet .NET Developer Advocate at VMware https://docs.google.com/forms/d/e/1FAIpQLScj9TuqRBOblAsp02B_r9uvNVSaUfKp5nX7hbV2RjYtqBjAkQ/viewform
 - David McCarter (Microsoft MVP) https://dotnettips.wordpress.com/about/
 - Cam Soper .NET content developer @docsmsft. cam.soper@microsoft.com
-- Maria Naggaga #BlacklivesMatter Principal Product Manager at Microsoft .NET Interactive and Minimal APIs 
 - Beth Massi Director Product Marketing for .NET at Microsoft. Marketing Director for .NET Platform and Languages (C#, F#, VB). Long-time community champion. .NET Foundation board member. bethma@microsoft.com
 - Anjana Sofia Vakil Language technologist and software developer anjanavakil@gmail.com https://vakila.github.io/
 - Shruti Kapoor shruti.kapoor08@gmail.com Staff Engineer Paypal
 
+Not Email
+- Eilon Lipton Building cool things with .NET at Microsoft.
+- gillcleeren Microsoft Regional Director and MVP
+- Warren Buffett Chairman and CEO of Berkshire Hathaway
+- Dmitry Lyalin. Formerly PM at Microsoft | .NET/XAML 🔥 Hot Reload product owner & .NET MAUI.
+- Maria Naggaga #BlacklivesMatter Principal Product Manager at Microsoft .NET Interactive and Minimal APIs 
+
+
+
 # https://dotnetfoundation.org/about/board-of-directors
+Frank Arkhurst Odoom
+Javier Lozano javier@lozanotek.com
+Mattias Karlsson NO EMAIL
+Rob Prouse
+Shawn Wildermuth shawn@wildermuth.com
+
 # .Net Conf 2021 Speakers List
 
 # Microsoft RD & MVP TO CONNECT
+https://rd.microsoft.com/en-us/
+https://mvp.microsoft.com/MvpSearch
 
 # Bloomberg Technology People
 - Nancy Davis, Managing Partner & Chief Investment Officer, Quadratic Capital Management, https://quadraticllc.com/
@@ -80,6 +92,9 @@ Email Not found
 - Emily Chang
 
 # Venture Capital
+https://www.forbes.com/midas/
+https://en.wikipedia.org/wiki/List_of_venture_capital_firms
+
 - Roger McNamee (an Elevation Co-Founder and Managing Director) Elevation Partners
 - David Sacks is co-founder and partner at Craft Venture
 - https://www.gradient.com/
@@ -89,14 +104,19 @@ Email Not found
 - https://www.forerunnerventures.com/
 
 # Richest People
+https://www.forbes.com/billionaires/
 
 # Charity Foundation
+https://en.wikipedia.org/wiki/List_of_wealthiest_charitable_foundations
 
 # Bellevue & Redmond, Washington, United States "Regions Greater Seattle Area, West Coast, Western US" based Technology Companies
+https://www.indeed.com/?from=gnav-homepage
 
 # Silicon valley Based Technology Company
+https://www.indeed.com/?from=gnav-homepage
 
 # Manhattan Beach, California based IT Company
+https://www.indeed.com/?from=gnav-homepage
 
 # .Net MeetUP & Speakers
 https://dotnetfoundation.org/community/meetups
