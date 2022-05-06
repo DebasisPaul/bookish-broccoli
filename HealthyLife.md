@@ -53,6 +53,13 @@ Shaadi.com
 24. Growth Disorders https://www.webmd.com/children/what-to-know-about-growth-disorders 
 25. Anal Fistula, Anal fissure https://my.clevelandclinic.org/health/diseases/14466-anal-fistula https://www.mayoclinic.org/diseases-conditions/anal-fissure/symptoms-causes/syc-20351424
 26. Anal Disorders https://www.health.harvard.edu/a_to_z/anal-disorders-a-to-z https://gi.org/topics/hemorrhoids-and-other-anal-disorders/
-27. Hemorrhoids Hemorrhoidectomy: 
+27. Hemorrhoids Hemorrhoidectomy: https://www.mayoclinic.org/diseases-conditions/hemorrhoids/symptoms-causes/syc-20360268 https://my.clevelandclinic.org/health/diseases/15120-hemorrhoids https://www.nhs.uk/conditions/skin-tags/ https://www.healthline.com/health/thrombosed-hemorrhoid https://www.healthline.com/health/hemorrhoid-surgery https://www.healthline.com/health/exercises-for-hemorrhoids https://colorectalsurgery.ucsf.edu/conditions--procedures/hemorrhoidectomy.aspx https://www.medicalnewstoday.com/articles/324439#purpose https://www.emedicinehealth.com/is_hemorrhoid_surgery https://myhealth.alberta.ca/Health/aftercareinformation/pages/conditions.aspx?hwid=ud1114 https://myhealth.alberta.ca/Health/aftercareinformation/pages/conditions.aspx?hwid=ud1119
+28. Tongue  https://www.healthline.com/health/how-long-is-the-human-tongue#weight-gain https://www.healthline.com/health/mouth-sores https://www.mayoclinic.org/diseases-conditions/leukoplakia/symptoms-causes/syc-20354405 https://www.nhs.uk/conditions/sore-or-white-tongue/ https://my.clevelandclinic.org/health/diseases/21766-mouth-ulcer 
+29. Warts on Your Tongue https://www.healthline.com/health/warts-on-tongue#types 
+30. Esophageal Disorders https://my.clevelandclinic.org/health/diseases/16976-esophageal-disorders
+31. # surgery 
+32. # anesthesia
+33. # pain medication
+34. # topical numbing medicines
 
 
