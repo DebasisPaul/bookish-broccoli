@@ -66,5 +66,17 @@ Shaadi.com
 
 # 2000 Calorie Mediterranean & DASH DIET https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/mediterranean-diet/art-20047801 https://www.healthline.com/nutrition/mediterranean-diet-meal-plan https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/dash-diet/art-20044759 https://health.clevelandclinic.org/dash-diet-what-is-it-meal-plans-and-recipes/ https://www.nhlbi.nih.gov/education/dash-eating-plan https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/dash-diet/art-20047110
 
+# Underweight adul (How do you gain weight) 
+1. https://www.healthline.com/nutrition/best-mass-gainer
+2. https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/underweight/faq-20058429
+3. https://www.medicalnewstoday.com/articles/321518
+4. https://www.nhs.uk/live-well/healthy-weight/managing-your-weight/advice-for-underweight-adults/
+5. https://www.webmd.com/diet/ss/slideshow-safe-weight-gain
+6. https://www.forbes.com/health/body/how-to-gain-weight/
+7. https://www.wikihow.com/Gain-Weight
+8. https://www.insider.com/how-to-gain-weight
+9. https://www.healthline.com/nutrition/10-reasons-to-eat-more-protein
+10. https://www.healthline.com/nutrition/high-protein-foods
+11. https://www.healthline.com/nutrition/10-health-benefits-of-whey-protein
 
 
