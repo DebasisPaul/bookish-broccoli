@@ -94,6 +94,28 @@ Rockford Lhotka
 Software Development / Distributed Architecture / Cloud Computing rocky@lhotka.net https://lhotka.net/
 Michele Leroux Bustamante
 Microservices / Docker / Security michelebusta@gmail.com https://solliance.net/
+Markus Egger
+Entrepreneurship / Programming megger@eps-software.com https://codemag.com/People/Bio/Markus.Egger
+Mark Michaelis
+Cycling / Entrepreneurship mark@michaelis.net
+Mark Ginnebaugh
+Cycling / Technology https://www.designmind.com/
+Lino Tadros
+Machine Learning / IoT / Synapse https://thetrainingboss.com/
+Lynn Langit
+Cloud Computing / Bioinformatics / Technical Courses https://lynnlangit.com/
+Julie Lerman
+.NET / Software Architecture / Domain-Driven Design https://about.me/julielerman http://thedatafarm.com/
+Jay Harris
+Web Applications / Consulting / GiveCamp jay@aranasoft.com https://jay.aranasoft.com/ https://www.aranasoft.com/ https://givecamp.org/
+Joe Homnick
+Business Intelligence/ Data Science/ Business Processes joe@homnick.com https://www.homnick.com/ https://about.me/joehomnick
+Joel Oleson
+Collaboration / Intranets / Digital Experience joel.oleson@gmail.com https://collabshow.com/ https://about.me/joleson
+Jason Himmelstein
+Business Intelligence / Microsoft 365 / Digital Transformation jasonhimmelstein@gmail.com https://bifocal.show/ https://sharepointlonghorn.com/
+Greg Levenhagen
+Entrepreneurship / Innovation https://that.us/that-conference/ https://greglevenhagen.me/
 
 
 
