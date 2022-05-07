@@ -1,5 +1,4 @@
 # Microsoft .Net People To Contact
-
 Email Done
 - Bill gates https://www.gatesnotes.com/ https://www.gatesfoundation.org/ email done 4.28.2022
 - `Scott Hanselman .Net Community Partner Manager` - Email do to scott@hanselman.com @4.27.2022
@@ -70,7 +69,6 @@ Email Not found
 -  Jeffrey Snover Technical Fellow at Microsoft & the inventor of Windows PowerShell, an object-based distributed automation engine, scripting language, and CLI. jsnover15@hotmail.com
 
 
-
 # https://dotnetfoundation.org/about/board-of-directors
 Frank Arkhurst Odoom
 Javier Lozano javier@lozanotek.com
@@ -82,6 +80,23 @@ Shawn Wildermuth shawn@wildermuth.com
 
 # Microsoft RD & MVP TO CONNECT
 https://rd.microsoft.com/en-us/
+- Todd Fine
+Azure Cloud / Data and AI / App Modernization toddf@wintellect.com toddf1234@outlook.com
+Tim Huckaby
+Computer Vision / AI / ML / AR / MR TimHuck@InterKnowlogy.com https://www.timhuckaby.com/
+Stephanie Donahue
+Collaboration / Entrepreneurship / Diversity & Inclusion steph.donahue@hotmail.com  http://stephkdonahue.com/
+Suzanne George
+Azure BOT Services / Office 365 / Microsoft Teams suz7777@gmail.com spgenie@outlook.com
+Sharon Weaver
+Technology / Innovation / Adoption sweaver@smarter-consulting.com
+Rockford Lhotka
+Software Development / Distributed Architecture / Cloud Computing rocky@lhotka.net https://lhotka.net/
+Michele Leroux Bustamante
+Microservices / Docker / Security michelebusta@gmail.com https://solliance.net/
+
+
+
 https://mvp.microsoft.com/MvpSearch
 
 # Bloomberg Technology People
