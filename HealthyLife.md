@@ -64,7 +64,7 @@ Shaadi.com
 
 # BMI & CALORIE CALCULATOR https://www.nhlbi.nih.gov/health-topics/education-and-awareness https://www.cdc.gov/healthyweight/ https://www.mayoclinic.org/healthy-lifestyle/weight-loss/in-depth/calorie-calculator/itt-20402304
 
-# 2000 Calorie Mediterranean & DASH DIET https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/mediterranean-diet/art-20047801 https://www.healthline.com/nutrition/mediterranean-diet-meal-plan https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/dash-diet/art-20044759 https://health.clevelandclinic.org/dash-diet-what-is-it-meal-plans-and-recipes/ https://www.nhlbi.nih.gov/education/dash-eating-plan https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/dash-diet/art-20047110
+# 2000 Calorie Mediterranean & DASH DIET https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/mediterranean-diet/art-20047801 https://www.healthline.com/nutrition/mediterranean-diet-meal-plan https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/dash-diet/art-20044759 https://health.clevelandclinic.org/dash-diet-what-is-it-meal-plans-and-recipes/ https://www.nhlbi.nih.gov/education/dash-eating-plan https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/dash-diet/art-20047110 https://www.healthline.com/nutrition/2000-calorie-diet https://www.webmd.com/diet/what-to-know-2000-calorie-meal-plan https://www.eatthismuch.com/diet-plan/2000-calorie/ https://www.menshealth.com/nutrition/g37291979/2000-calorie-meal-plan/ https://www.popsugar.com/fitness/2000-calorie-meal-plan-48656479 https://www.goodhousekeeping.com/health/diet-nutrition/g29871227/2000-calorie-diet-meal-plan/ https://www.eatingwell.com/article/17404/what-does-a-2000-calorie-diet-look-like/ https://www.eatingwell.com/article/287767/7-day-diet-meal-plan-to-lose-weight-2000-calories/
 
 # Underweight adul (How do you gain weight) 
 1. https://www.healthline.com/nutrition/best-mass-gainer
@@ -78,5 +78,7 @@ Shaadi.com
 9. https://www.healthline.com/nutrition/10-reasons-to-eat-more-protein
 10. https://www.healthline.com/nutrition/high-protein-foods
 11. https://www.healthline.com/nutrition/10-health-benefits-of-whey-protein
+
+# FOOD CALORIE COUNT 
 
 
