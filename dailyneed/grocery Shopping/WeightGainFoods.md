@@ -46,3 +46,25 @@
 46.  Coconut
 47.  Dates
 48.  Avocado
+49.  Rosemary
+50.  Grapes
+51.  shrimp
+52.  ginger
+53.  black pepper
+54.  paprika
+55.  oregano
+56.  cilantro
+57.  mushrooms
+58.  asparagus
+59.  blueberries
+60.  hemp seeds
+61.  peas
+62.  orange
+63.  pear
+64.  almonds
+65.  melons
+66.  oatmeal
+67.  crab
+68.  Choose fish or seafood as your main dish.
+
+
