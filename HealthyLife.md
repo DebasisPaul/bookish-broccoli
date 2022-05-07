@@ -62,6 +62,9 @@ Shaadi.com
 33. # pain medication
 34. # topical numbing medicines
 
-# BMI & CALORIE CALCULATOR https://www.nhlbi.nih.gov/health-topics/education-and-awareness https://www.cdc.gov/healthyweight/
+# BMI & CALORIE CALCULATOR https://www.nhlbi.nih.gov/health-topics/education-and-awareness https://www.cdc.gov/healthyweight/ https://www.mayoclinic.org/healthy-lifestyle/weight-loss/in-depth/calorie-calculator/itt-20402304
+
+# 2000 Calorie Mediterranean & DASH DIET https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/mediterranean-diet/art-20047801 https://www.healthline.com/nutrition/mediterranean-diet-meal-plan https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/dash-diet/art-20044759 https://health.clevelandclinic.org/dash-diet-what-is-it-meal-plans-and-recipes/ https://www.nhlbi.nih.gov/education/dash-eating-plan https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/dash-diet/art-20047110
+
 
 
