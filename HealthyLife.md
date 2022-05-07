@@ -80,5 +80,15 @@ Shaadi.com
 11. https://www.healthline.com/nutrition/10-health-benefits-of-whey-protein
 
 # FOOD CALORIE COUNT 
+1. https://www.calories.info/
+2. https://www.webmd.com/diet/healthtool-food-calorie-counter
+3. https://my.clevelandclinic.org/health/articles/16555-snack-ideas-for-weight-gain
+4. https://www.uncledavesenterprise.com/file/health/Food%20Calories%20List.pdf
+5. https://www.healthline.com/nutrition/low-calorie-foods
+6. https://www.nutrition.va.gov/docs/UpdatedPatientEd/CalorieContentFoodList2018.pdf
+7. https://unfoldtoday.com/high-calorie-foods/
+8. https://www.stylecraze.com/articles/high-calorie-foods-for-weight-gain/
+9. https://www.healthifyme.com/blog/high-calorie-foods/
+10. https://my.clevelandclinic.org/health/articles/16555-snack-ideas-for-weight-gain
 
 
