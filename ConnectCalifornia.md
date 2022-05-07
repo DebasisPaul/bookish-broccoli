@@ -116,6 +116,41 @@ Jason Himmelstein
 Business Intelligence / Microsoft 365 / Digital Transformation jasonhimmelstein@gmail.com https://bifocal.show/ https://sharepointlonghorn.com/
 Greg Levenhagen
 Entrepreneurship / Innovation https://that.us/that-conference/ https://greglevenhagen.me/
+Esteban Garcia
+DevOps / Azure / .NET esteban@outlook.com http://www.almguide.com/ https://www.meetup.com/onetug/?_cookie-check=xlHuhibaS8tlZof6 
+Eric D. Boyd
+cloud / Coffee https://www.ericboyd.com/ github@ericdboyd.com http://responsivex.com/
+Eric Overfield
+Technology / Cloud / Innovation https://pixelmill.com/ https://blog.pixelmill.com/ericoverfield
+Elemar Rodrigues Severo Júnior
+.NET / Cloud Computing / Software Architecture contato@elemarjr.com elemarjr@gmail.com elemarjr.com https://eximia.co/elemarjr/
+Eduardo Pires 
+.NET / Architecture / Cloud falecom@eduardopires.net.br contato@eduardopires.net.br https://desenvolvedor.io/
+David Yack
+Business Solutions / Azure https://blog.davidyack.com/ http://www.thecrmbook.com/
+Dan Hermes
+Mobile Apps / Xamarin / Azure https://lexicon.systems/about-dan/ https://danhermesfineart.com/
+Dan Thyer
+Azure / cloud https://www.prattmiller.com/markets/mobility https://danthyer.me/ 
+Chris Yates
+Big Data / Cloud / Data Platform https://chrisyatessql.com/ 
+Christian Buckley
+Collaboration / Blockchain / MarTech https://linktr.ee/buckleyplanet https://www.buckleyplanet.com/ https://www.avepoint.com/ https://mvp.microsoft.com/en-us/PublicProfile/4038259
+Chander Dhall
+Cloud Computing / Big Data & AI / Web Development https://cazton.com/
+Billy Hollis
+Design / Music https://billyhollis.me/ http://www.nextver.com/site/
+Andrew J. Brust
+Analytics / Big Data / AI https://about.me/andrewbrust andrew.brust@bluebadgeinsights.com https://www.tallan.com/
+Andreas Erben
+AI / Mixed Reality / Cloud 
+andreaserben@hotmail.com andreaserben@yahoo.com andreas.erben@daenet.com daenet.com
+Adam Jorgensen
+Entrepreneurship / Photography 
+Adnan Masood
+AI & Machine Learning / Explainable & Interpretable AI / Strategy & Governance http://blog.adnanmasood.com/
+
+
 
 
 
