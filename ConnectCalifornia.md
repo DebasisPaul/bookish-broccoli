@@ -18,39 +18,17 @@ Email Done
 - Elahn Danee (@CodeThLightning) 	elahndaneecodes@gmail.com
 - Mika Dumont Program Manager .Net Team
 - Damian Edwards,Principal PM Architect, .NET Program Management damian@damianedwards.com
- Tim Corey, Microsoft MVP
+ `Tim Corey, Microsoft MVP `
 -  Tim Laverty (@timlaverty),Senior Program Manager - .NET Data, .NET
 -  Jeremy Likness Senior Program Manager - .NET Data, .NET
 -  Ashley Rogers, https://www.linkedin.com/in/ashley-rogers-b4034970/ Email Done
 -  Shay Rozansky, Senior Program Manager - .NET Data, .NET
 - David Pine email done
-
-Email Not found
-- Scott Guthrie .Net & EVP Cloud & AI Twitter & Linkedin 
-- Scott Hunter .Net Director Twitter
-- David Fowler .Net Principal Architect twitter, github, linkedin
-- Maira Winzel .Net Program Manager
-- Mads Torgersen Language Designer
-- Kevin Scott Chief Technology Officer
-- James Montemagno Principal Lead Program Manager, .NET Community
-- Kendra Havens, Program Manager .Net Visual Studio Team 
-- Jeff Fritz, Program Manager .Net Community Team
-- Sébastien Ros (@sebastienros)  Program manager .Net Community Team
-- Dan Zhu, Program Manager .Net Website
--  Mark Downie (@poppastring) Program Manager Asp.Net Team
--  Arthur Vickers (@ajcvickers), Senior Program Manager - .NET Data, .NET
--  Dan Simmons (@SimmDan), Senior Program Manager - .NET Data, .NET
--  Rowan Miller, Senior Program Manager - .NET Data, .NET
--  Diego Vega (@divega) Senior Program Manager - .NET Data, .NET
--  Julie Lerman Senior Program Manager - .NET Data, .NET
--  Jeffrey Snover Technical Fellow at Microsoft & the inventor of Windows PowerShell, an object-based distributed automation engine, scripting language, and CLI. jsnover15@hotmail.com
-
-
 - Stephanie Stimac Developer Advocate & DevEx PM steph.stimac@gmail.com
 - Dona Sarkar Director of Tech https://donasarkar.com/contact-me
 - CHRISTINA WARREN filmgirl@github.com
 - Jacqueline Widdis Overcomer of a HUGE Full-time Employment Gap | Helping Others Do the Same, But Faster | PM @ Microsoft jacqueline@witfulthinking.com
-- DeeDee Walsh VP Marketing and Business Development at Mobilize.Net, Former Director at Microsoft ddskier@msn.com
+- `DeeDee Walsh VP Marketing and Business Development at Mobilize.Net, Former Director at Microsoft ddskier@msn.com`
 - Andrew Lock  andrewlock.net@gmail.com.
 - David Ortinau Principal Program Manager, .NET MAUI at Microsoft david.ortinau@microsoft.com dave@davidortinau.com
 - SAFIA ABDALLA build http://ASP.NET at @microsoft safia@safia.rocks
@@ -70,6 +48,26 @@ Not Email
 - Warren Buffett Chairman and CEO of Berkshire Hathaway
 - Dmitry Lyalin. Formerly PM at Microsoft | .NET/XAML 🔥 Hot Reload product owner & .NET MAUI.
 - Maria Naggaga #BlacklivesMatter Principal Product Manager at Microsoft .NET Interactive and Minimal APIs 
+- 
+Email Not found
+- Scott Guthrie .Net & EVP Cloud & AI Twitter & Linkedin 
+- Scott Hunter .Net Director Twitter
+- David Fowler .Net Principal Architect twitter, github, linkedin
+- Maira Winzel .Net Program Manager
+- Mads Torgersen Language Designer
+- Kevin Scott Chief Technology Officer
+- James Montemagno Principal Lead Program Manager, .NET Community
+- Kendra Havens, Program Manager .Net Visual Studio Team 
+- Jeff Fritz, Program Manager .Net Community Team
+- Sébastien Ros (@sebastienros)  Program manager .Net Community Team
+- Dan Zhu, Program Manager .Net Website
+-  Mark Downie (@poppastring) Program Manager Asp.Net Team
+-  Arthur Vickers (@ajcvickers), Senior Program Manager - .NET Data, .NET
+-  Dan Simmons (@SimmDan), Senior Program Manager - .NET Data, .NET
+-  Rowan Miller, Senior Program Manager - .NET Data, .NET
+-  Diego Vega (@divega) Senior Program Manager - .NET Data, .NET
+-  Julie Lerman Senior Program Manager - .NET Data, .NET
+-  Jeffrey Snover Technical Fellow at Microsoft & the inventor of Windows PowerShell, an object-based distributed automation engine, scripting language, and CLI. jsnover15@hotmail.com
 
 
 
