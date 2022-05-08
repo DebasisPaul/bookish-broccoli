@@ -79,7 +79,7 @@ Shawn Wildermuth shawn@wildermuth.com
 # .Net Conf 2021 Speakers List
 
 # Microsoft RD & MVP TO CONNECT
-https://rd.microsoft.com/en-us/
+# https://rd.microsoft.com/en-us/
 - Todd Fine
 Azure Cloud / Data and AI / App Modernization toddf@wintellect.com toddf1234@outlook.com
 Tim Huckaby
@@ -150,11 +150,7 @@ Entrepreneurship / Photography
 Adnan Masood
 AI & Machine Learning / Explainable & Interpretable AI / Strategy & Governance http://blog.adnanmasood.com/
 
-
-
-
-
-https://mvp.microsoft.com/MvpSearch
+# https://mvp.microsoft.com/MvpSearch
 
 # Bloomberg Technology People
 - Nancy Davis, Managing Partner & Chief Investment Officer, Quadratic Capital Management, https://quadraticllc.com/
