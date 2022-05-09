@@ -217,6 +217,19 @@ Brent Schooley
 United States
 Philadelphia-based Developer Evangelist at Twilio https://about.me/brentschooley
 
+Brian A. Randell
+United States  https://blog.brianrandell.com/
+
+Brian Lagunas
+United States https://brianlagunas.com/
+
+Brian Minisi
+United States https://www.meetup.com/members/119066052/ 
+
+Brian Noyes ( Brian Noyes )
+United States
+Vista, CA  brian.noyes@gmail.com http://briannoyes.com/ brian.noyes@solliance.net https://www.meetup.com/members/74664412/ http://www.softinsight.com/ https://www.solliance.net/
+
 
 # Bloomberg Technology People
 - Nancy Davis, Managing Partner & Chief Investment Officer, Quadratic Capital Management, https://quadraticllc.com/
