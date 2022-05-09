@@ -413,6 +413,60 @@ Greg Shackles
 West Hollywood, Las Angeles
 United States Olo greg@gregshackles.com https://www.gregshackles.com/ https://stackoverflow.com/users/170333/greg-shackles  https://www.meetup.com/members/8667764/
 
+Heather Downing ( Heather Downing )
+United States
+SMITHVILLE, Missouri 
+Heather encourages those with nontraditional backgrounds to enter the world of software development, as she changed careers at 27 and does not have a degree - yet has built a reputation as an early adapter of new tech. She is an advocate of women in tech, and part of Kansas City Women in Technology.  quorralyne@gmail.com https://www.quorralyne.com/ 
+
+Jamie
+United States
+NLP Engineer | Bioinformatician | F# | Python | Coffee Farmer https://www.meetup.com/members/12719798/
+
+Jason Awbrey
+United States https://stackoverflow.com/users/1338/jason
+
+Javier Gerardo Lozano ( Javier Lozano )
+United States javier@lozanotek.com http://jglozano.io 
+
+Jeff Bramwell ( Jeff Bramwell )
+United States
+Papillion, NE Certifications
+MCSD,MCSD.NET,MCTS:TFS https://stackoverflow.com/users/211259/jeff-bramwell
+
+Jeff Strauss
+United States
+Town and Country, MO
+Community Advocate. Technical Advisor. Problem Solver. https://www.slideshare.net/jeffreystrauss  https://speakerdeck.com/jeffreystrauss https://headspring.com/ 
+
+Jeffrey Palermo
+United States
+Spicewood, TX
+Chief Architect of Clear Measure, Inc. Gold Partner software architecture company. Empowering developers. Host of the Azure DevOps Podcast. Conference speaker. Latest book: .NET DevOps for Azure 
+Certifications
+MCSD.Net, MCAD.Net, Certified Scrummaster, Professional Scrum Developer
+Recognitions
+MS Ignite Community Reporter
+Inc. 5000 Award
+Austin Best CEOs Finalist
+Inc 5000 Award
+Austin Under 40 Winner - Technology 2017 	sales@clear-measure.com https://clearmeasure.com/ https://stackoverflow.com/users/233843/jeffrey-palermo jeffrey@clear-measure.com https://jeffreypalermo.com/ https://www.codemag.com/People/Bio/Jeffrey.Palermo https://www.meetup.com/members/98861682/
+
+Jeremy Clark
+United States
+Developer Betterer https://jeremybytes.blogspot.com/ http://www.jeremybytes.com/Default.aspx
+
+Jesse Liberty
+United States
+Xamarin MVP, Microsoft MVP, Certified Xamarin Developer, Author, Pluralsight, LinkedIn Learning, Udemy & Packt, Novelist  JesseLiberty@gmail.com https://JesseLiberty.com Certifications
+Xamarin Certified Mobile Developer (3rd year)
+Recognitions
+Xamarin MVP
+Telerik MVP
+Xamarin Certified Mobile Developer
+Microsoft MVP
+
+
+
 
 # Bloomberg Technology People
 - Nancy Davis, Managing Partner & Chief Investment Officer, Quadratic Capital Management, https://quadraticllc.com/
