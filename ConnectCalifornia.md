@@ -573,6 +573,49 @@ IL
 Michael Stonis is a partner at Eight-Bot, a software consultancy in Chicago, where he focuses on mobile and integration solutions for enterprises using .Net. Certifications
 Xamarin Certified University Trainer, Xamarin Certified Developer https://www.ston.is/ https://www.meetup.com/members/38975252/  eightbot.com  
 
+Michael Jolley
+United States
+AL
+I work every day to build better builders; better developers, better teammates, and better humans. 	mike@baldbeardedbuilder.com mike@sparcapp.io https://baldbeardedbuilder.com/ 
+
+Michael Washington
+United States
+CA
+Michael Washington is a ASP.NET, C# programmer. He is the founder of BlazorHelpWebsite.com and AiHelpWebsite.com Certifications
+Microsoft Certified Technology Specialist,Microsoft Certified Professional  blazorhelpwebsite.com 
+
+Miguel A. Castro
+United States
+Principal Consultant at Melvicorp LLC - Microsoft MVP, Regional Director, & Conference Speaker miguelcastro67@gmail.com Certifications
+Regional Director http://www.dotnetdude.com/ http://www.melvicorp.com/ 
+
+Mike Douglas
+United States
+Elkhorn, NE Certifications
+Scaled Agile Framework Agilist (SA), MCP, MCAD, MCTS
+Recognitions
+2020 AIM Tech Innovator of the Year Award
+2015 Deliveron Consulant of the Year
+2014 Deliveron Consultant of the Year
+2013 Deliveron Consultant of the Year https://www.lunavi.com/ https://social.msdn.microsoft.com/profile/mikedouglas https://www.meetup.com/members/155532862/ 
+
+Mitch Muenster
+United States  mitchmuenster@gmail.com Certifications
+Xamarin Certified Developer https://mitchmuenster.wordpress.com/ 
+
+Mitchel Wyndham Sellers
+United States
+Ankeny, IA
+Microsoft .NET Software Architect, Performance, Security and Compliance Expert, Public Speaker, Open Source Supporter, Pilot, Father   https://mitchelsellers.com  msellers@iowacomputergurus.co  Certifications
+MCITP, MCPD, MCTS
+Recognitions
+DNN MVP (2020)
+DNN MVP 2014
+DNN MVP 2013
+DotNetNuke MVP
+DMACC Outstanding Alumni  https://www.iowacomputergurus.com/ https://www.mitchelsellers.com/blogs.aspx msellers@Iowacomputergurus.com
+
+
 
 
 
