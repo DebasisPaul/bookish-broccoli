@@ -396,6 +396,23 @@ Eric Potter
 United States
 I am a Microsoft MVP for Developer Tools and Technologies. and a Principal Architect for Core BTS, working primarily in the .Net platform. I have been developing high quality custom software solutions since 2001. Core BTS http://humbletoolsmith.com/  https://www.devspaceconf.com/speakers.html https://link.springer.com/book/10.1007/978-1-4842-5352-6
 
+Esteban Garcia
+United States
+Winter Park, FL
+Focused on DevOps and Azure  Certifications
+MCSD:ALM, ScrumMaster esteban@outlook.com  http://www.almguide.com/ 
+
+Frank Krueger
+United States
+Seattle, WA http://icircuit3d.appmanuals.com/ http://icircuitapp.com/ http://calca.io/ https://praeclarum.org/
+
+Greg Duncan
+United States 
+
+Greg Shackles
+West Hollywood, Las Angeles
+United States Olo greg@gregshackles.com https://www.gregshackles.com/ https://stackoverflow.com/users/170333/greg-shackles  https://www.meetup.com/members/8667764/
+
 
 # Bloomberg Technology People
 - Nancy Davis, Managing Partner & Chief Investment Officer, Quadratic Capital Management, https://quadraticllc.com/
