@@ -152,6 +152,65 @@ AI & Machine Learning / Explainable & Interpretable AI / Strategy & Governance h
 
 # https://mvp.microsoft.com/MvpSearch
 
+# MVP TEAM
+1. Betsy Weber
+Community Program Manager – Manitoba and Ontario, Canada and Central US
+Based in East Lansing, MI Betsy.Weber@microsoft.com
+
+2. Christian Talavera
+Community Program Manager – British Columbia, Alberta, and Saskatchewan, Canada and Western US
+Based in Seattle, WA Christian.Talavera@microsoft.com
+
+3. Fernanda Saraiva
+Business Group Lead
+Based in Redmond, USA  Fernanda.Saraiva@microsoft.com
+
+4. Glauter Jannuzzi
+Community Program Manager – Brazil
+Based in Rio De Janeiro, Brazil glauterj@microsoft.com
+
+5. Rochelle Sonnenberg
+Community Program Manager – Quebec, New Brunswick, Newfoundland and Labrador, Nova Scotia, Prince Edward Island, Canada and Eastern US
+Based in New York, NY Rochelle.Sonnenberg@microsoft.com
+
+# MVP
+
+- Michael Szul
+United States
+VA
+Software Engineer. Writes code that writes code. michael@szul.us https://quietmath.co
+
+- Rob Richardson
+United States https://robrich.org/ https://www.meetup.com/members/117985112/ https://www.red-gate.com/hub/events/friends-of-rg/friend/rob.richardson
+
+- Alex Dunn
+United States
+Wilmington, MA
+I build robust applications and teach people along the way. alexander.dunn@outlook.com https://alexdunn.org/
+
+- Alexander Slotte
+United States
+Rocky Mount, NC
+ML.NET, .NET and Azure alexander.slotte@gmail.com
+
+Allen Underwood
+United States
+Software Architect / Engineer Passionate About Learning and Teaching a Variety of Technologies / Co-Host of Coding Blocks podcast https://www.codingblocks.net/
+
+Andrew Vincent Hoefling
+United States
+NY https://www.andrewhoefling.com/ https://www.hoeflingsoftware.com/ andrew@hoefling.me https://www.meetup.com/members/236998704/
+
+Ben Hoelting
+United States
+Colorado Springs, CO
+Senior Technologist in the Colorado Area 
+
+Benjamin Day ( Benjamin Day )
+United States
+Azure DevOps & GitHub MVP, Scrum Trainer, Speaker, Author, & Software Architect benday@benday.com https://www.benday.com/ https://www.meetup.com/members/24203122/
+
+
 # Bloomberg Technology People
 - Nancy Davis, Managing Partner & Chief Investment Officer, Quadratic Capital Management, https://quadraticllc.com/
 - Natasha Lamb, Managing Partner, Portfolio Manager, Arjuna Capital, https://arjuna-capital.com/
