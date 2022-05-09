@@ -523,6 +523,56 @@ MCP
 Recognitions
 Microsoft Regional Director https://www.meetup.com/members/40380122/ about.me/julielerman thedatafarm.com/blog 
 
+Justin James
+United States
+AZ
+Making the complex simple and easy to understand http://digitaldrummerj.me https://www.meetup.com/azgivecamp/  digitaldrummerj@gmail.com 
+
+Karen S Payne ( Karen Payne )
+United States
+MCMINNVILLE, Oregon
+My passion is teaching/mentoring developers and building both web and desktop solutions. I believe in sharing my knowledge with the community at large.  paynekaren@comcast.net https://www.meetup.com/members/199537105/
+
+Keith Dahlby
+United States
+Cedar Rapids, IA
+dahlbyk@gmail.com 
+
+Kevin Bost
+United States
+WA https://intellitect.com/about/intelliteam/kevin-bost/ 
+
+Kevin Wayne Griffin
+United States kevin@kevgriffin.com https://www.meetup.com/members/13039858/ https://www.antechsystems.com/  https://consultwithgriff.com/ 
+
+Lee Richardson
+United States
+Herndon, VA
+Writer, speaker, and youtuber on .NET and OSS. Maker. Author of Siren of Shame. Host of Code Hour: http://youtube.com/leerichardson200. He/Him https://www.codeproject.com/Members/lprichar1 https://www.meetup.com/members/130781492/ https://www.leerichardson.com/ 
+
+Luis Pujols
+United States
+Florida Certifications
+Azure Fundamentals, Xamarin Certified Mobile Developer, Scrum Foundation Professional Certificate https://www.pujolsluis.com/ 
+
+Mark Michaelis ( Mark Michaelis )
+United States
+WA
+Active MVP Since 1996 Recognitions
+Professional Scrum Master III
+Professional Scrum Master II 
+Professional Scrum Developer https://intellitect.com/about/intelliteam/mark-michaelis/  https://www.amazon.com/Mark-Michaelis/e/B001IOFCFA  mark@michaelis.net mark@intelliTect.com mark.michaelis.net/
+
+Matthew D Groves
+United States
+Matthew D. Groves is a guy who loves to code. developer.couchbase.com 
+
+Michael Stonis
+United States
+IL
+Michael Stonis is a partner at Eight-Bot, a software consultancy in Chicago, where he focuses on mobile and integration solutions for enterprises using .Net. Certifications
+Xamarin Certified University Trainer, Xamarin Certified Developer https://www.ston.is/ https://www.meetup.com/members/38975252/  eightbot.com  
+
 
 
 
