@@ -230,6 +230,31 @@ Brian Noyes ( Brian Noyes )
 United States
 Vista, CA  brian.noyes@gmail.com http://briannoyes.com/ brian.noyes@solliance.net https://www.meetup.com/members/74664412/ http://www.softinsight.com/ https://www.solliance.net/
 
+Bryan Hogan
+United States
+MA https://nodogmablog.bryanhogan.net/
+
+Calvin A. Allen
+United States, Senior C# / .NET Developer | GitKraken Ambassador | Podcaster | Live Streamer | Self-Proclaimed C# / .NET Evangelist https://www.codingwithcalvin.net/ https://www.csadvent.christmas/archive/2021 calvin@codingwithcalvin.net 
+
+Cameron Presley
+United States
+Cornelius, NC https://blog.thesoftwarementor.com/ https://novacodecamp.org/ https://mndevconf.com/ https://www.codepalousa.com/ https://that.us/
+
+Carl Franklin
+United States
+QUAKER HILL, CT carl@franklins.net  App vNext .NET Rocks! Pwop Studios
+
+Carl  Barton
+United States
+NH
+Focus on Xamarin Technologies https://www.granitestatecodecamp.org/ https://www.dotnetconf.net/ https://mvp.microsoft.com/summit https://www.meetup.com/members/82361342/ https://www.yammer.com/microsoftcommunityinfluencers/
+
+Chad Green
+United States
+Louisville, KY
+Director of IT Architecture at Glennis Solutions; Husband & Father; Microsoft MVP; Speaker; Organizer of @CodePaLOUsa, @LouDotNet, @LouTechLeaders, @LouTechLadies chadgreen@chadgreen.com https://www.chadgreen.com/ https://www.meetup.com/members/10054922/ https://tdevconf.com/ https://twitchtracker.com/talelearncode/streams/44495132413
+
 
 # Bloomberg Technology People
 - Nancy Davis, Managing Partner & Chief Investment Officer, Quadratic Capital Management, https://quadraticllc.com/
