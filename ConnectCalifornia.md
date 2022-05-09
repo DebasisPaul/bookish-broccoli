@@ -373,6 +373,29 @@ Douglas Starnes
 United States
 Polyglot ninja with .NET and Python tendencies 
 
+Duane Newman
+United States
+Blue Springs, MO
+Architect, Developer, Speaker, Consultant****  duane@alienarc.com Alien Arc Technologies, LLC http://dldadventures.com/ https://duanenewman.net/ https://www.meetup.com/members/112882962/ https://www.kcdc.info/speakers 
+
+Ed Charbeneau
+United States
+Ed is a Microsoft MVP and an international, speaker, writer, online influencer, design admirer, a Developer Advocate for Progress, and expert on all things web development. http://edcharbeneau.com https://about.me/edcharbeneau  https://www.meetup.com/members/11145823/ https://www.telerik.com/blogs/author/ed-charbeneau https://www.nuget.org/packages/BlazorComponentUtilities/ 
+
+Ed Snider ( Ed Snider )
+United States Certifications
+Xamarin Certified Mobile Developer
+Recognitions
+Xamarin MVP https://edsnider.net/  https://www.infernored.com/ https://www.packtpub.com/product/mastering-xamarin-forms-third-edition/9781839213380 
+
+Elijah Manor
+United States
+Nashville, TN https://aspinsiders.com/ https://elijahmanor.com/ https://devintersection.com/#!/ 
+
+Eric Potter
+United States
+I am a Microsoft MVP for Developer Tools and Technologies. and a Principal Architect for Core BTS, working primarily in the .Net platform. I have been developing high quality custom software solutions since 2001. Core BTS http://humbletoolsmith.com/  https://www.devspaceconf.com/speakers.html https://link.springer.com/book/10.1007/978-1-4842-5352-6
+
 
 # Bloomberg Technology People
 - Nancy Davis, Managing Partner & Chief Investment Officer, Quadratic Capital Management, https://quadraticllc.com/
