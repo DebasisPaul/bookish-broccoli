@@ -465,6 +465,64 @@ Telerik MVP
 Xamarin Certified Mobile Developer
 Microsoft MVP
 
+Jim Wilcox ( Jim Wilcox, The Granite State Hacker )
+United States
+NH
+Senior Architect with Insight Digital Innovation, The Granite State Hacker https://www.meetup.com/members/29115/  jwilcox1701@outlook.com 
+
+Jim Wooley
+United States  jimwooley@hotmail.com https://www.meetup.com/members/8091343/ https://paper.li/jimwooley/1365169132#/  
+
+Jimmy Bogard
+United States
+Austin, Texas  jimmy.bogard@gmail.com  Certifications
+MCAD https://jimmybogard.com/ 
+
+John F Callaway
+United States
+Tampa, FL Certifications
+Microsoft Certified: Azure Developer Associate, Microsoft Certified: Azure DevOps Engineer Expert
+Recognitions
+Emerging Tech Leaders of Tampa Bay  https://www.amazon.com/John-Callaway/e/B079RF8VBY https://www.meetup.com/members/30815012/ https://6figuredev.com/
+
+Jonathan "J." Tower
+United States https://www.meetup.com/members/11402152/ 
+
+Jonathan Mills
+United States
+Liberty, MO 
+
+Jorge Levy
+United States
+Roseville, CA
+Community leader for "Latino Net Online" a community of .NET developers from all over Latin America and "Asp.Net MVC (Spanish)" on Facebook https://www.jorgelevy.com/ https://www.meetup.com/members/13370415/ https://latinonet.online/ 
+
+Jose Javier Columbie
+United States 
+AZ       javier.columbie@xari.io    Certifications
+Xamarin Certified Professional, DevExpress MVP
+Recognitions
+DevExpress MVP https://xafmarin.com/ 
+
+Joseph James Guadagno ( Joseph Guadagno )
+United States
+Chandler, AZ
+Director at Rocket Mortgage The Organizer of Desert Code Camp Microsoft "Developer Services" MVP Public Speaker Recognitions
+Telerik Ninja https://www.josephguadagno.net/ jguadagno@hotmail.com 
+
+Joseph Musser
+United States
+PA me@jnm2.com Recognitions
+C# Community Ambassador https://stackoverflow.com/users/521757/jnm2
+
+Julie Lerman
+United States
+VT
+MVP, MS Regional Director, Docker Captain, Software Coach, DDD, Entity Framework Certifications
+MCP
+Recognitions
+Microsoft Regional Director https://www.meetup.com/members/40380122/ about.me/julielerman thedatafarm.com/blog 
+
 
 
 
