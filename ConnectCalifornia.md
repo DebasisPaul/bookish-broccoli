@@ -346,6 +346,34 @@ Dalton, GA david@reverentgeek.com
 Certifications
 MCSD, MCSE, MCDBA david@reverentgeek.com https://reverentgeek.com https://devternity.com/ https://events.devopscollective.org/event/automation-devops-summit/ 
 
+Deborah Kurata
+United States
+Pleasanton, CA
+Deborah Kurata: Independent Software Developer | Consultant | Pluralsight Author | MVP | GDE http://www.pluralsight.com/author/deborah-kurata 
+Recognitions
+Google Developer Expert (GDE)
+Google Developer Expert (GDE)
+10 Influential Female Developers to Know and Love on Stack Overflow
+Google Developer Expert (GDE)
+Google Developer Expert (GDE) San Francisco/Silicon Valley, San Francisco Bay Area, CA http://www.bit.ly/DeborahKsBlog https://blogs.msmvps.com/deborahk/
+
+Dixin Yan
+United States
+Software architect and developer. Professional photographer. Certifications
+MCP; MCSE; MCDBA; Official photographer of Seattle Seafair, Special Olympics USA Games, etc.
+Recognitions
+MVP 2021
+MVP 2020
+MVP 2019
+MVP 2018
+MVP 2010
+https://www.flickr.com/photos/dixin https://weblogs.asp.net/dixin https://hanziyuan.net/#%E8%BD%A6 
+
+Douglas Starnes
+United States
+Polyglot ninja with .NET and Python tendencies 
+
+
 # Bloomberg Technology People
 - Nancy Davis, Managing Partner & Chief Investment Officer, Quadratic Capital Management, https://quadraticllc.com/
 - Natasha Lamb, Managing Partner, Portfolio Manager, Arjuna Capital, https://arjuna-capital.com/
