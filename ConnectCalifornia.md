@@ -338,7 +338,13 @@ C# Corner MVP - Featured Writer
 National University Computer Advisory Board
 INETA Community Excellence Award
 Patented Inventor
-.NET Professional Certificate Review Board dotnetdave@live.com http://dotnettips.com https://dotnettips.wordpress.com/ https://dotnetconference.com/
+.NET Professional Certificate Review Board dotnetdave@live.com http://dotnettips.com https://dotnettips.wordpress.com/ https://dotnetconference.com/  https://sqlsaturday.com/ https://www.c-sharpcorner.com/live/rockin-the-code-world-with-dotnetdave https://www.amazon.com/David-McCarter/e/B001K7YCRO
+
+David Neal
+United States
+Dalton, GA david@reverentgeek.com 
+Certifications
+MCSD, MCSE, MCDBA david@reverentgeek.com https://reverentgeek.com https://devternity.com/ https://events.devopscollective.org/event/automation-devops-summit/ 
 
 # Bloomberg Technology People
 - Nancy Davis, Managing Partner & Chief Investment Officer, Quadratic Capital Management, https://quadraticllc.com/
