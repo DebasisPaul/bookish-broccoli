@@ -210,6 +210,13 @@ Benjamin Day ( Benjamin Day )
 United States
 Azure DevOps & GitHub MVP, Scrum Trainer, Speaker, Author, & Software Architect benday@benday.com https://www.benday.com/ https://www.meetup.com/members/24203122/
 
+Bonnie DeWitt
+United States bonnieb@profitware-online.com 
+
+Brent Schooley
+United States
+Philadelphia-based Developer Evangelist at Twilio https://about.me/brentschooley
+
 
 # Bloomberg Technology People
 - Nancy Davis, Managing Partner & Chief Investment Officer, Quadratic Capital Management, https://quadraticllc.com/
