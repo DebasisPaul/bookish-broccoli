@@ -255,6 +255,90 @@ United States
 Louisville, KY
 Director of IT Architecture at Glennis Solutions; Husband & Father; Microsoft MVP; Speaker; Organizer of @CodePaLOUsa, @LouDotNet, @LouTechLeaders, @LouTechLadies chadgreen@chadgreen.com https://www.chadgreen.com/ https://www.meetup.com/members/10054922/ https://tdevconf.com/ https://twitchtracker.com/talelearncode/streams/44495132413
 
+Chander Dhall
+United States
+CEO of Cazton, Microsoft Regional Director, Google Developer Expert, Microsoft MVP, Linkedin Learning Author, Azure Advisor, ASP.NET Insider, Speaker at International Tech Conferences.
+Biography
+Chander Dhall, CEO of Cazton, is an eleven-time awarded Microsoft MVP, Google Developer Expert and world-renowned technology leader in architecting and implementing solutions. He's not only rescued software development teams, but also implemented successful projects under tight deadlines and difficult business constraints. His company has a proven track record of not just saving the client millions of dollars, but also providing an expedited delivery time. His clients include Thomson Reuters, AT&T, Dell, Bank of America, Thomson Reuters, NBC Universal, American Express, Fandango, LinkedIn, VMware and many other Fortune 500, mid-size and startup companies.
+
+As an Azure Advisor, ASP.NET Insider, Web API Advisor, Cosmos DB Advisor, and an MVP for Visual Studio and Development Technologies, Chander has insight into new releases on technologies used by millions of developers. His critical advice, impeccable vision, futuristic strategy backed with creating and establishing best practices in the industry are some of the reasons for his unparalleled success. He has a breadth of experience in multiple different technologies: Cloud (Azure, AWS and GCP), Full-Stack Web Development (.NET Core, Java, Angular, Blazor, React and Node.js) and Big Data and AI (TensorFlow, Spark, Hadoop, Ignite etc.).
+
+At the same time, he's a voracious and highly-respected speaker. He has keynoted and delivered hands-on workshops at top conferences including Microsoft TechEd, Google DevFest, Azure Dev Days, NDC London, DevSum Sweden, BuildStuff, Lithuania, MVP Mix (Toronto, San Francisco and Dallas). He has been invited as a technical judge and mentor at top universities like MIT, Harvard and UT Austin. He is the author of two books: Scalability Patterns and Building Single Page Application Using ASP.NET Core & Angular. He has utilized his amazing business sense having started Cazton with zero funding and turned it into a multi-million-dollar company in less than two years. Award Categories
+Developer Technologies
+First year awarded:
+2011
+Number of MVP Awards:
+11
+https://www.meetup.com/members/20234501/ https://www.cazton.com/blogs/technical 
+
+Chris DeMars
+United States
+Clinton Township, MI
+Front End Developer | Microsoft MVP | Google Developer Expert | Cloudinary Media Developer Expert | Oracle Groundbreaker Ambassador International Speaker https://soundcloud.com/esc-podcast/rock-city-a11y 
+
+Chris Gardner
+United States
+Huntsville, AL cgardner@gmail.com http://blog.freestylecoding.com
+
+Chris Gomez
+United States
+PA
+Mentoring new and seasoned developers on practical development lessons and ideas 
+
+Chris Miller
+United States 
+Certifications
+Microsoft Certified Technology Specialist ASP.Net,Microsoft Certified Professional, Xamarin Mobile
+Recognitions
+Certified Xamarin Mobile Developer https://rajapet.com/ https://social.msdn.microsoft.com/profile/Christopher%20Miller https://about.me/ThisIsChrisMiller chris.miller@tylertech.com https://www.yammer.com/microsoftcommunityinfluencers/ https://www.meetup.com/members/84522782/ 
+
+Chris Patterson ( Chris Patterson )
+United States
+Tulsa, OK 
+Recognitions
+McKesson Fellow
+McKesson Distinguished Technologist chris@phatboyg.com http://blog.phatboyg.com/ https://www.meetup.com/members/54332762/
+
+Cory House
+United States
+Lenexa, KS https://www.bitnative.com/ https://www.reactjsconsulting.com/ https://www.codemash.org/ https://www.pluralsight.com/live https://www.kcdc.info/
+
+Dan Hermes ( Dan Hermes )
+United States
+MA
+Interested in Xamarin mobile apps? Drop me a line and ask your questions. I love building great apps with Xamarin and Azure and helping others do the same. Lexicon Systems  dan@lexiconsystemsinc.com Recognitions AZ-900 Azure Fundamentals https://hackmit.org/ https://xamarindevelopersummit.com/
+
+Dan Siegel
+United States
+CA
+Xamarin & Azure Consultant | Microsoft MVP | Prism Maintainer AvantiPoint https://dansiegel.net/ https://avantipoint.com/ https://linktr.ee/dansiegel dsiegel@avantipoint.com https://shopandtravelusa.com/sa-mobile https://www.evo.com/ https://www.telerik.com/devreach
+
+Daniel Oliver
+United States
+Knoxville, TN https://www.olivercoding.com/ https://knxhx.org/ https://www.devspaceconf.com/ https://sceniccitysummit.com/talks/ https://musiccitytech.com/
+
+Dave Brock
+United States https://aspnetcore.news/ https://www.daveabrock.com/ https://www.telerik.com/blogs/author/dave-brock 
+
+Dave Glick
+United States
+VA dave@daveaglick.com http://daveaglick.com
+
+David Driscoll
+United States
+NC
+Mvp working on OmniSharp & ASP.NET 5 david.driscoll@gmail.com david.driscoll@gmail.com http://david-driscoll.github.io https://www.daviddriscoll.me/ http://www.omnisharp.net/ https://www.meetup.com/members/36639592/ https://codecamp.org/ 
+
+David McCarter ( David McCarter )
+United States
+San Diego, CA
+Microsoft MVP, C# Corner MVP, Software Architect, Speaker, Trainer, Inventor, Mentor davidmccarter@live.com
+Recognitions
+C# Corner MVP - Featured Writer
+National University Computer Advisory Board
+INETA Community Excellence Award
+Patented Inventor
+.NET Professional Certificate Review Board dotnetdave@live.com http://dotnettips.com https://dotnettips.wordpress.com/ https://dotnetconference.com/
 
 # Bloomberg Technology People
 - Nancy Davis, Managing Partner & Chief Investment Officer, Quadratic Capital Management, https://quadraticllc.com/
