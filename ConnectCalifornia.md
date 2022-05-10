@@ -190,7 +190,7 @@ Adam Jorgensen
 Entrepreneurship / Photography https://3cloudsolutions.com/
 
 Adnan Masood
-AI & Machine Learning / Explainable & Interpretable AI / Strategy & Governance http://blog.adnanmasood.com/ adnan.masood@owasp.org
+AI & Machine Learning / Explainable & Interpretable AI / Strategy & Governance http://blog.adnanmasood.com/ adnan.masood@owasp.org adnanmasood@gmail.com
 
 # https://mvp.microsoft.com/MvpSearch
 
