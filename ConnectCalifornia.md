@@ -174,10 +174,10 @@ Top 25 SharePoint Influencers 2016 (#9)
 Collaboration / Blockchain / MarTech https://linktr.ee/buckleyplanet https://www.buckleyplanet.com/ https://www.avepoint.com/ https://mvp.microsoft.com/en-us/PublicProfile/4038259 	christianbuckley@gmail.com
 
 Chander Dhall
-Cloud Computing / Big Data & AI / Web Development https://cazton.com/
+Cloud Computing / Big Data & AI / Web Development https://cazton.com/  	info@cazton.com https://www.meetup.com/members/20234501/
 
 Billy Hollis
-Design / Music https://billyhollis.me/ http://www.nextver.com/site/
+Design / Music https://billyhollis.me/ http://www.nextver.com/site/ messeged by twitter
 
 Andrew J. Brust
 Analytics / Big Data / AI https://about.me/andrewbrust andrew.brust@bluebadgeinsights.com https://www.tallan.com/
@@ -187,10 +187,10 @@ AI / Mixed Reality / Cloud
 andreaserben@hotmail.com andreaserben@yahoo.com andreas.erben@daenet.com daenet.com
 
 Adam Jorgensen
-Entrepreneurship / Photography 
+Entrepreneurship / Photography https://3cloudsolutions.com/
 
 Adnan Masood
-AI & Machine Learning / Explainable & Interpretable AI / Strategy & Governance http://blog.adnanmasood.com/
+AI & Machine Learning / Explainable & Interpretable AI / Strategy & Governance http://blog.adnanmasood.com/ adnan.masood@owasp.org
 
 # https://mvp.microsoft.com/MvpSearch
 
