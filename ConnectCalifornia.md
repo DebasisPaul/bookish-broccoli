@@ -651,6 +651,27 @@ West Chester, OH
 CTO, Architect, Speaker, Father, Husband japikse@outlook.com Certifications
 ASPInsider, MCSD, MCDBA, PSM II, PSD, CSM http://www.skimedic.com/  http://hallwayconversations.com/ http://www.cinnug.org/ https://www.pinnsg.com/ 
 
+Rick Strahl ( Rick Strahl )
+United States
+Paia, HI
+Wind, waves, code and everything in between... ASP.NET • C# • HTML5 • JavaScript • WPF  rstrahl@west-wind.com rstrahl@west-wind.com https://weblog.west-wind.com https://stackoverflow.com/users/11197/rick-strahl https://docs.microsoft.com/en-us/answers/products/dotnet 
+
+Rion Williams ( Rion Williams )
+Lake Charles, Louisiana United States  https://rion.io/ https://social.msdn.microsoft.com/profile/rion%20williams/ https://stackoverflow.com/users/557445/rion-williams rionmonster@gmail.com 
+
+Rob Keiser
+United States
+Schwenksville, PA Rob's company, Row 5 Information System Certifications
+MCP https://www.meetup.com/Philly-NET/members/185606021/ rob@row-5.com
+
+Rob Wolfs Irving
+United States
+NC rob.irving@gmail.com https://www.pargovernment.com/ http://www.robwirving.com/
+
+Robb Schiefer Jr.
+United States
+AL
+Director of Engineering - Suture Health, Inc. | Birmingham .NET Meetup Cofounder | .NET and DevOps Advocate https://www.dotnetcatch.com/ 
 
 
 
