@@ -79,74 +79,116 @@ Shawn Wildermuth shawn@wildermuth.com
 # .Net Conf 2021 Speakers List
 
 # Microsoft RD & MVP TO CONNECT
+
 # https://rd.microsoft.com/en-us/
+
 - Todd Fine
 Azure Cloud / Data and AI / App Modernization toddf@wintellect.com toddf1234@outlook.com
+
 Tim Huckaby
 Computer Vision / AI / ML / AR / MR TimHuck@InterKnowlogy.com https://www.timhuckaby.com/
+
 Stephanie Donahue
 Collaboration / Entrepreneurship / Diversity & Inclusion steph.donahue@hotmail.com  http://stephkdonahue.com/
+
 Suzanne George
 Azure BOT Services / Office 365 / Microsoft Teams suz7777@gmail.com spgenie@outlook.com
+
 Sharon Weaver
 Technology / Innovation / Adoption sweaver@smarter-consulting.com
+
 Rockford Lhotka
 Software Development / Distributed Architecture / Cloud Computing rocky@lhotka.net https://lhotka.net/
+
 Michele Leroux Bustamante
 Microservices / Docker / Security michelebusta@gmail.com https://solliance.net/
+
 Markus Egger
 Entrepreneurship / Programming megger@eps-software.com https://codemag.com/People/Bio/Markus.Egger
+
 Mark Michaelis
 Cycling / Entrepreneurship mark@michaelis.net
-Mark Ginnebaugh
+
+Mark Ginnebaugh (Messaged by MEETUP)
 Cycling / Technology https://www.designmind.com/
+
 Lino Tadros
-Machine Learning / IoT / Synapse https://thetrainingboss.com/
+Machine Learning / IoT / Synapse 	lino@thetrainingboss.com https://thetrainingboss.com/
+
 Lynn Langit
 Cloud Computing / Bioinformatics / Technical Courses https://lynnlangit.com/
-Julie Lerman
+
+Julie Lerman United States,VT
 .NET / Software Architecture / Domain-Driven Design https://about.me/julielerman http://thedatafarm.com/
+MVP, MS Regional Director, Docker Captain, Software Coach, DDD, Entity Framework Certifications
+MCP, Recognitions Microsoft Regional Director https://www.meetup.com/members/40380122/ about.me/julielerman thedatafarm.com/blog 
+
 Jay Harris
 Web Applications / Consulting / GiveCamp jay@aranasoft.com https://jay.aranasoft.com/ https://www.aranasoft.com/ https://givecamp.org/
+
 Joe Homnick
 Business Intelligence/ Data Science/ Business Processes joe@homnick.com https://www.homnick.com/ https://about.me/joehomnick
+
 Joel Oleson
 Collaboration / Intranets / Digital Experience joel.oleson@gmail.com https://collabshow.com/ https://about.me/joleson
+
 Jason Himmelstein
 Business Intelligence / Microsoft 365 / Digital Transformation jasonhimmelstein@gmail.com https://bifocal.show/ https://sharepointlonghorn.com/
-Greg Levenhagen
+
+Greg Levenhagen email sent by web site & email idebasispaul@gmail.com
 Entrepreneurship / Innovation https://that.us/that-conference/ https://greglevenhagen.me/
+
 Esteban Garcia
 DevOps / Azure / .NET esteban@outlook.com http://www.almguide.com/ https://www.meetup.com/onetug/?_cookie-check=xlHuhibaS8tlZof6 
+
 Eric D. Boyd
 cloud / Coffee https://www.ericboyd.com/ github@ericdboyd.com http://responsivex.com/
+
 Eric Overfield
-Technology / Cloud / Innovation https://pixelmill.com/ https://blog.pixelmill.com/ericoverfield
+Technology / Cloud / Innovation eoverfield@pixelmill.com  https://pixelmill.com/ https://blog.pixelmill.com/ericoverfield ericoverfield.com https://www.meetup.com/members/93562742/
+
 Elemar Rodrigues Severo Júnior
 .NET / Cloud Computing / Software Architecture contato@elemarjr.com elemarjr@gmail.com elemarjr.com https://eximia.co/elemarjr/
+
 Eduardo Pires 
 .NET / Architecture / Cloud falecom@eduardopires.net.br contato@eduardopires.net.br https://desenvolvedor.io/
+
 David Yack
-Business Solutions / Azure https://blog.davidyack.com/ http://www.thecrmbook.com/
+Business Solutions / Azure https://blog.davidyack.com/ http://www.thecrmbook.com/ email sent by web site & email idebasispaul@gmail.com
+
 Dan Hermes
-Mobile Apps / Xamarin / Azure https://lexicon.systems/about-dan/ https://danhermesfineart.com/
+Mobile Apps / Xamarin / Azuredan@lexiconsystemsinc.com  https://lexicon.systems/about-dan/ https://danhermesfineart.com/
+
 Dan Thyer
-Azure / cloud https://www.prattmiller.com/markets/mobility https://danthyer.me/ 
+Azure / cloud https://www.prattmiller.com/markets/mobility https://danthyer.me/  http://logicaladvantage.com/ https://www.meetup.com/Charlotte-Internet-of-Things/members/40114222/ email sent by web site & email idebasispaul@gmail.com
+
 Chris Yates
 Big Data / Cloud / Data Platform https://chrisyatessql.com/ 
-Christian Buckley
-Collaboration / Blockchain / MarTech https://linktr.ee/buckleyplanet https://www.buckleyplanet.com/ https://www.avepoint.com/ https://mvp.microsoft.com/en-us/PublicProfile/4038259
+
+Christian Buckley Recognitions
+Top 25 SharePoint Influencers 2018 (#1)
+Microsoft Regional Director
+Widest Reach - US West MVPs
+Top 1000 Tech Bloggers (#25)
+Top 25 SharePoint Influencers 2016 (#9)
+Collaboration / Blockchain / MarTech https://linktr.ee/buckleyplanet https://www.buckleyplanet.com/ https://www.avepoint.com/ https://mvp.microsoft.com/en-us/PublicProfile/4038259 	christianbuckley@gmail.com
+
 Chander Dhall
 Cloud Computing / Big Data & AI / Web Development https://cazton.com/
+
 Billy Hollis
 Design / Music https://billyhollis.me/ http://www.nextver.com/site/
+
 Andrew J. Brust
 Analytics / Big Data / AI https://about.me/andrewbrust andrew.brust@bluebadgeinsights.com https://www.tallan.com/
+
 Andreas Erben
 AI / Mixed Reality / Cloud 
 andreaserben@hotmail.com andreaserben@yahoo.com andreas.erben@daenet.com daenet.com
+
 Adam Jorgensen
 Entrepreneurship / Photography 
+
 Adnan Masood
 AI & Machine Learning / Explainable & Interpretable AI / Strategy & Governance http://blog.adnanmasood.com/
 
