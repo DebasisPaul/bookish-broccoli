@@ -703,6 +703,39 @@ Welcome to my MVP Profile!
 Biography
 Sam Basu is a technologist, author, speaker, Microsoft MVP, gadget-lover and Progress Developer Advocate for Telerik products. With a long developer background, he now spends much of his time advocating modern web/mobile/cloud development platforms on Microsoft/Telerik stacks. His spare times call for travel, fast cars, cricket and culinary adventures with the family. You can find him on the internet. https://samidipbasu.com/ 
 
+Sarah E Dutkiewicz ( Sarah Dutkiewicz )
+United States
+Stow, OH
+Technical Community Advocate, Mentor, Software Consultant, Event Organizer, Speaker at Conferences/User Groups/Corporations https://data-adventurer.com/ https://www.sadukie.com/ https://calendly.com/sadukie  https://leonnoel.com/100devs/
+
+Sarah Kaiser
+United States
+Quantum Technologist, PhD in Physics (quantum information) who loves to burn things with lasers 💖 sckaiser@sckaiser.com https://www.sckaiser.com/ sckaiser@sckaiser.com https://www.meetup.com/members/246169304/ 
+
+Sean James Killeen
+United States
+Arlington, VA Certifications
+CSM,CSD,A-CSD,ICP-TST,ICP-ATA,ScrumAlliance Registered Educational Professional (REP),CAL1 https://www.excella.com/  https://seankilleen.com/ https://seankilleen.com/feed.xml  https://www.meetup.com/members/14521274/ SeanKilleen@gmail.com  https://stackoverflow.com/users/316847/seankilleen 
+
+Sean Whitesell
+United States
+OK  https://www.seanwhitesell.com/ 
+
+Shawn Wildermuth
+United States
+Atlanta, GA
+Author, Speaker and Trainer Biography
+Shawn Wildermuth has been tinkering with computers and software since he got a Vic-20 back in the early ‘80s. As a Microsoft MVP since 2003, he’s also involved with Microsoft as an ASP.NET Insider and ClientDev Insider. You may have taken one of his more than twenty courses on Pluralsight (http://shawnw.me/psauthor) including his latest: “Building a Web App with ASP.NET Core, MVC, EF and Angular”. He’s authored eight books and innumerable articles on software development. You can also see him at one of the local and international conferences he’s spoken at including TechEd, Oredev, SDC, NDC, VSLive, DevIntersection, MIX, Devteach, DevConnections and Dev Reach. He is one of the Wilder Minds. You can reach him at his blog at http://wildermuth.com. shawn@wildermuth.com https://wildermuth.com/ https://wilderminds.com/ https://www.pluralsight.com/authors/shawn-wildermuth https://stackoverflow.com/users/40125/shawn-wildermuth 
+
+Spencer Schneidenbach
+United States
+St. Charles, MO
+Software architect, API/integration expert, Microsoft MVP Certifications
+JetBrains Insider
+Recognitions
+JetBrains Insider
+OzCode Magician  https://schneids.net/ spencer@avironsoftware.com 
+
 # Bloomberg Technology People
 - Nancy Davis, Managing Partner & Chief Investment Officer, Quadratic Capital Management, https://quadraticllc.com/
 - Natasha Lamb, Managing Partner, Portfolio Manager, Arjuna Capital, https://arjuna-capital.com/
