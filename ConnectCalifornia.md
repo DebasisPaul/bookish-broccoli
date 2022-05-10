@@ -673,7 +673,11 @@ United States
 AL
 Director of Engineering - Suture Health, Inc. | Birmingham .NET Meetup Cofounder | .NET and DevOps Advocate https://www.dotnetcatch.com/ 
 
-
+Robert Boedigheimer
+United States
+Biography
+Robert Boedigheimer works for Schwan's Home Delivery providing business solutions with web technologies. He is a Microsoft MVP, a Progress Ninja (Fiddler), an ASPInsider, a Pluralsight author, and a 3rd degree black belt in Tae Kwon Do. Robert regularly speaks at national and international events.  Certifications
+MCPD Web, MCSD .NET, MCAD .NET https://www.meetup.com/members/108079832/ https://weblogs.asp.net/boedie https://app.pluralsight.com/profile/author/robert-boedigheimer 
 
 
 # Bloomberg Technology People
