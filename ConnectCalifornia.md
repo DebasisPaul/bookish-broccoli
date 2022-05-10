@@ -615,6 +615,42 @@ DNN MVP 2013
 DotNetNuke MVP
 DMACC Outstanding Alumni  https://www.iowacomputergurus.com/ https://www.mitchelsellers.com/blogs.aspx msellers@Iowacomputergurus.com
 
+Ondrej Balas
+United States
+Bloomfield Hills owner of UseTech Design, a Michigan-based development company  
+
+Oscar D Garcia ( ozkary )
+United States
+I am a principal software architect who enjoys sharing my experience about software development with the goal to help the technology communities around the world. Recognitions
+Power Platform Functional Consultant Associate
+MS: Programming in HTML5 with JavaScript and CSS3 Specialist
+MCPS: Microsoft Certified Professional
+MCSD1: Microsoft .NET
+MCAD: Microsoft .NET https://www.og-bit.com/ https://www.meetup.com/members/199153833/ https://www.ozkary.com/
+
+Patrick Desjardins
+LA, United States
+Asp.Net MVC, Entity Framework, Web Development using Javascript, Jquery, Html5 and CSS. He was a Microsoft Most Valuable Professional (MVP) in Asp.Net for two consecutive years, 2013 and 2014.  mrdesjardins@gmail.com Certifications
+70-515, 70-513, 70-516, 70-519, 70-480
+Recognitions
+70-480 : MS Programming in Html5 with Javascript and CSS3 Specialist
+70-516 : MCTS .Net Framework 4, Accessing Data
+70-513 : MCTS .Net Framework 4, WCF
+MCPD Microsoft Certified Professional Developer
+70-515 : MCTS .Net Framework 4, Web Application https://patrickdesjardins.com/blog https://www.amazon.com/Holistic-TypeScript-Version-4-0/dp/B08DSSCLYW 
+
+Phil Haack
+United States
+Bellevue, WA
+Someone who loves to help folks get better at building software Certifications
+MCSD https://haacked.com/ https://stackoverflow.com/users/598/haacked https://github.com/dotnet/roslyn/issues/51132 https://github.com/MicrosoftDocs/bot-docs/pull/1711 
+
+Philip F Japikse ( Phil Japikse )
+United States
+West Chester, OH
+CTO, Architect, Speaker, Father, Husband japikse@outlook.com Certifications
+ASPInsider, MCSD, MCDBA, PSM II, PSD, CSM http://www.skimedic.com/  http://hallwayconversations.com/ http://www.cinnug.org/ https://www.pinnsg.com/ 
+
 
 
 
