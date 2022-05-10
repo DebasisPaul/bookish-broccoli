@@ -763,6 +763,19 @@ Toi B. Wright is an independent consultant who has been working as a software de
 Ms. Wright is the author of 'Blazor WebAssembly by Example: A project-based guide to building web apps with .NET, Blazor WebAssembly, and C#'. She is also the author of the WROX book 'ASP.NET 4 24-Hour Trainer'. She wrote the MVC modules for Course 10264A - Developing Web Applications with Microsoft Visual Studio 2010 and all of the modules for Course 10553A - Fundamentals of XAML and Microsoft Expression Blend. 
 Ms Wright was the organizer of the original We Are Microsoft - Charity Challenge Weekend, www.wearemicrosoft.com. She is the Founder and President of the Dallas ASP.NET User Group, www.dallasasp.net. She has been involved with various user groups around Dallas since 1994 and has been running one or more user groups since 2000. She most recently helped organize the new Geeks in Pink group. This group supports women in technology.  toi@onestopdesigns.com 
 
+Vincent Maverick Sanchez Durano
+United States
+Software Engineer, Microsoft MVP, C# Corner MVP, CodeProject MVP, MVA, MVE, DZone MVB, Mentor, Author Recognitions
+2018 CodeProject MVA
+2018 CodeProject MVE
+2018 C# Corner MVP
+2017 C# Corner MVP
+2017 CodeProject MVP vmsdurano@gmail.com https://vmsdurano.com/  https://www.c-sharpcorner.com/members/vincent-maverick-durano 
+
+Vladimir Khorikov
+United States
+Oakton, VA vladimir.khorikov@gmail.com https://enterprisecraftsmanship.com/ 
+
 # Bloomberg Technology People
 - Nancy Davis, Managing Partner & Chief Investment Officer, Quadratic Capital Management, https://quadraticllc.com/
 - Natasha Lamb, Managing Partner, Portfolio Manager, Arjuna Capital, https://arjuna-capital.com/
