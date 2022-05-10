@@ -736,6 +736,33 @@ Recognitions
 JetBrains Insider
 OzCode Magician  https://schneids.net/ spencer@avironsoftware.com 
 
+Stephen Cleary
+United States
+Harbor Springs, MI Certifications
+MCSD,MCPD https://stackoverflow.com/users/263693/stephen-cleary https://blog.stephencleary.com/ 
+
+Steve A. Smith ( Steve Smith )
+United States
+Kent, OH
+Software Team Coach, Trainer, Mentor, Force Multiplier devbetter.com for developers seeking to advance faster in their careers. Certifications
+MCSD, MCSE+Internet
+Recognitions
+Xamarin Certified Mobile Developer https://ardalis.com/ https://weeklydevtips.com/ steve@kentsmiths.com http://ardalis.com https://stackoverflow.com/users/13729/ssmith https://weeklydevtips.com/
+
+Tim Corey
+United States
+TX
+A software developer who learned the hard way and now teaches others the easy way.Biography
+I started programming professionally before I graduated high school. I immediately loved it. The only problem was that no one really taught me how to grow my skills. I spent years going down blind alleys and taking the wrong fork in the road in my quest to become a better software developer. Over time I finally figured it out, but even then I had gaps in my knowledge. When I finally started to get a good grasp on what software development was all about, I began to help others avoid my mistakes. From that came my YouTube channel (https://youtube.com/IAmTimCorey) and my training site (https://IAmTimCorey.com). I primarily teach C# but I also cover SQL and the web technologies (HTML/CSS/JavaScript).  tim@iamtimcorey.com Certifications
+PMP,Intel Software Innovator  https://www.csharpmastercourse.com/ https://stackoverflow.com/users/733798/iamtimcorey 
+
+Toi B. Wright
+United States
+TX Biography
+Toi B. Wright is an independent consultant who has been working as a software developer for over 25 years. She has a BS in Computer Science and Engineering from the Massachusetts Institute of Technology and an MBA from Carnegie Mellon University. She has been a Microsoft MVP in ASP/ASP.NET since 2005. She is also an ASPInsider.
+Ms. Wright is the author of 'Blazor WebAssembly by Example: A project-based guide to building web apps with .NET, Blazor WebAssembly, and C#'. She is also the author of the WROX book 'ASP.NET 4 24-Hour Trainer'. She wrote the MVC modules for Course 10264A - Developing Web Applications with Microsoft Visual Studio 2010 and all of the modules for Course 10553A - Fundamentals of XAML and Microsoft Expression Blend. 
+Ms Wright was the organizer of the original We Are Microsoft - Charity Challenge Weekend, www.wearemicrosoft.com. She is the Founder and President of the Dallas ASP.NET User Group, www.dallasasp.net. She has been involved with various user groups around Dallas since 1994 and has been running one or more user groups since 2000. She most recently helped organize the new Geeks in Pink group. This group supports women in technology.  toi@onestopdesigns.com 
+
 # Bloomberg Technology People
 - Nancy Davis, Managing Partner & Chief Investment Officer, Quadratic Capital Management, https://quadraticllc.com/
 - Natasha Lamb, Managing Partner, Portfolio Manager, Arjuna Capital, https://arjuna-capital.com/
