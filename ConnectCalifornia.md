@@ -680,6 +680,23 @@ Robert Boedigheimer works for Schwan's Home Delivery providing business solution
 MCPD Web, MCSD .NET, MCAD .NET https://www.meetup.com/members/108079832/ https://weblogs.asp.net/boedie https://app.pluralsight.com/profile/author/robert-boedigheimer 
 
 
+Robert Hurlbut
+United States
+Principal Application Security Architect, developer, and trainer Certifications
+(ISC2) CSSLP - Certified Secure Software Lifecycle Professional  * Boston .NET Architecture Group (https://www.meetup.com/Boston-NET-Architecture-Group/) - leader for over 15 years
+* Amherst Security Group (https://www.meetup.com/AmherstSec/) - leader for over 5 years
+* Application Security Podcast (https://www.appsecpodcast.org/) - co-host for over 5 years (8+ seasons) https://roberthurlbut.com/ 
+
+Rockford Lhotka ( Rockford )
+United States
+Eden Prairie, MN
+Open source architect, author, speaker Biography
+Rockford Lhotka is the creator of the widely used open source CSLA .NET development framework. He is the author of numerous books, and regularly speaks at major conferences around the world. Rockford is a member of the Microsoft Regional Director program and an MVP. For more information go to https://lhotka.net. rocky@lhotka.net +1.952.715.7791 (Mobile) https://blog.lhotka.net/ https://cslanet.com/ https://about.me/rockfordlhotka https://stackoverflow.com/users/438576/rockford-lhotka https://www.meetup.com/members/101339692/ 
+
+Rodney Littles, II
+United States
+Houston, TX  https://kerry.lothrop.de/devtalk-66-rodney-littles-ii/ https://rodneylittlesii.com/
+
 # Bloomberg Technology People
 - Nancy Davis, Managing Partner & Chief Investment Officer, Quadratic Capital Management, https://quadraticllc.com/
 - Natasha Lamb, Managing Partner, Portfolio Manager, Arjuna Capital, https://arjuna-capital.com/
