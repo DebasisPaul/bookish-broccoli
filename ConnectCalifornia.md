@@ -697,6 +697,12 @@ Rodney Littles, II
 United States
 Houston, TX  https://kerry.lothrop.de/devtalk-66-rodney-littles-ii/ https://rodneylittlesii.com/
 
+Sam Basu
+United States
+Welcome to my MVP Profile!
+Biography
+Sam Basu is a technologist, author, speaker, Microsoft MVP, gadget-lover and Progress Developer Advocate for Telerik products. With a long developer background, he now spends much of his time advocating modern web/mobile/cloud development platforms on Microsoft/Telerik stacks. His spare times call for travel, fast cars, cricket and culinary adventures with the family. You can find him on the internet. https://samidipbasu.com/ 
+
 # Bloomberg Technology People
 - Nancy Davis, Managing Partner & Chief Investment Officer, Quadratic Capital Management, https://quadraticllc.com/
 - Natasha Lamb, Managing Partner, Portfolio Manager, Arjuna Capital, https://arjuna-capital.com/
