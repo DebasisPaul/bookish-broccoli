@@ -691,7 +691,7 @@ Philip F Japikse ( Phil Japikse )
 United States
 West Chester, OH
 CTO, Architect, Speaker, Father, Husband japikse@outlook.com Certifications
-ASPInsider, MCSD, MCDBA, PSM II, PSD, CSM http://www.skimedic.com/  http://hallwayconversations.com/ http://www.cinnug.org/ https://www.pinnsg.com/ 
+ASPInsider, MCSD, MCDBA, PSM II, PSD, CSM http://www.skimedic.com/  http://hallwayconversations.com/ http://www.cinnug.org/ https://www.pinnsg.com/ comments@hallwayconversations.com pinnsg@pinnsg.com
 
 Rick Strahl ( Rick Strahl )
 United States
@@ -781,7 +781,7 @@ OzCode Magician  https://schneids.net/ spencer@avironsoftware.com
 Stephen Cleary
 United States
 Harbor Springs, MI Certifications
-MCSD,MCPD https://stackoverflow.com/users/263693/stephen-cleary https://blog.stephencleary.com/ 
+MCSD,MCPD https://stackoverflow.com/users/263693/stephen-cleary https://blog.stephencleary.com/ stephenandmandy@gmail.com 
 
 Steve A. Smith ( Steve Smith )
 United States
@@ -818,10 +818,15 @@ Vladimir Khorikov
 United States
 Oakton, VA vladimir.khorikov@gmail.com https://enterprisecraftsmanship.com/ 
 
+
+
+
 # Bloomberg Technology People
 - Nancy Davis, Managing Partner & Chief Investment Officer, Quadratic Capital Management, https://quadraticllc.com/
 - Natasha Lamb, Managing Partner, Portfolio Manager, Arjuna Capital, https://arjuna-capital.com/
 - Emily Chang
+
+
 
 # Venture Capital
 https://www.forbes.com/midas/
@@ -834,23 +839,37 @@ https://en.wikipedia.org/wiki/List_of_venture_capital_firms
 - https://www.temasek.com.sg/en/index
 - https://www.forerunnerventures.com/
 
+
+
 # Richest People
 https://www.forbes.com/billionaires/
+
+
 
 # Charity Foundation
 https://en.wikipedia.org/wiki/List_of_wealthiest_charitable_foundations
 
+
+
 # Bellevue & Redmond, Washington, United States "Regions Greater Seattle Area, West Coast, Western US" based Technology Companies
 https://www.indeed.com/?from=gnav-homepage
+
+
 
 # Silicon valley Based Technology Company
 https://www.indeed.com/?from=gnav-homepage
 
+
+
 # Manhattan Beach, California based IT Company
 https://www.indeed.com/?from=gnav-homepage
+
+
 
 # .Net MeetUP & Speakers
 https://dotnetfoundation.org/community/meetups
 https://dotnetfoundation.org/community/speakers
+
+
 
 # twitter, linkedin, facebook, github .net people to connect
