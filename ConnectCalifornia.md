@@ -263,7 +263,7 @@ Brian A. Randell
 United States  https://blog.brianrandell.com/
 
 Brian Lagunas
-United States https://brianlagunas.com/
+United States https://brianlagunas.com/ 	blagunas@infragistics.com
 
 Brian Minisi
 United States https://www.meetup.com/members/119066052/ 
@@ -274,7 +274,7 @@ Vista, CA  brian.noyes@gmail.com http://briannoyes.com/ brian.noyes@solliance.ne
 
 Bryan Hogan
 United States
-MA https://nodogmablog.bryanhogan.net/
+MA https://nodogmablog.bryanhogan.net/ bryan@bryanhogan.net
 
 Calvin A. Allen
 United States, Senior C# / .NET Developer | GitKraken Ambassador | Podcaster | Live Streamer | Self-Proclaimed C# / .NET Evangelist https://www.codingwithcalvin.net/ https://www.csadvent.christmas/archive/2021 calvin@codingwithcalvin.net 
@@ -302,16 +302,14 @@ United States
 CEO of Cazton, Microsoft Regional Director, Google Developer Expert, Microsoft MVP, Linkedin Learning Author, Azure Advisor, ASP.NET Insider, Speaker at International Tech Conferences.
 Biography
 Chander Dhall, CEO of Cazton, is an eleven-time awarded Microsoft MVP, Google Developer Expert and world-renowned technology leader in architecting and implementing solutions. He's not only rescued software development teams, but also implemented successful projects under tight deadlines and difficult business constraints. His company has a proven track record of not just saving the client millions of dollars, but also providing an expedited delivery time. His clients include Thomson Reuters, AT&T, Dell, Bank of America, Thomson Reuters, NBC Universal, American Express, Fandango, LinkedIn, VMware and many other Fortune 500, mid-size and startup companies.
-
 As an Azure Advisor, ASP.NET Insider, Web API Advisor, Cosmos DB Advisor, and an MVP for Visual Studio and Development Technologies, Chander has insight into new releases on technologies used by millions of developers. His critical advice, impeccable vision, futuristic strategy backed with creating and establishing best practices in the industry are some of the reasons for his unparalleled success. He has a breadth of experience in multiple different technologies: Cloud (Azure, AWS and GCP), Full-Stack Web Development (.NET Core, Java, Angular, Blazor, React and Node.js) and Big Data and AI (TensorFlow, Spark, Hadoop, Ignite etc.).
-
 At the same time, he's a voracious and highly-respected speaker. He has keynoted and delivered hands-on workshops at top conferences including Microsoft TechEd, Google DevFest, Azure Dev Days, NDC London, DevSum Sweden, BuildStuff, Lithuania, MVP Mix (Toronto, San Francisco and Dallas). He has been invited as a technical judge and mentor at top universities like MIT, Harvard and UT Austin. He is the author of two books: Scalability Patterns and Building Single Page Application Using ASP.NET Core & Angular. He has utilized his amazing business sense having started Cazton with zero funding and turned it into a multi-million-dollar company in less than two years. Award Categories
 Developer Technologies
 First year awarded:
 2011
 Number of MVP Awards:
 11
-https://www.meetup.com/members/20234501/ https://www.cazton.com/blogs/technical 
+https://www.meetup.com/members/20234501/ https://www.cazton.com/blogs/technical  info@cazton.com
 
 Chris DeMars
 United States
@@ -343,7 +341,7 @@ McKesson Distinguished Technologist chris@phatboyg.com http://blog.phatboyg.com/
 
 Cory House
 United States
-Lenexa, KS https://www.bitnative.com/ https://www.reactjsconsulting.com/ https://www.codemash.org/ https://www.pluralsight.com/live https://www.kcdc.info/
+Lenexa, KS housecor+rjc@gmail.com https://www.bitnative.com/ https://www.reactjsconsulting.com/ https://www.codemash.org/ https://www.pluralsight.com/live https://www.kcdc.info/
 
 Dan Hermes ( Dan Hermes )
 United States
@@ -357,10 +355,10 @@ Xamarin & Azure Consultant | Microsoft MVP | Prism Maintainer AvantiPoint https:
 
 Daniel Oliver
 United States
-Knoxville, TN https://www.olivercoding.com/ https://knxhx.org/ https://www.devspaceconf.com/ https://sceniccitysummit.com/talks/ https://musiccitytech.com/
+Knoxville, TN danieloliversoftware@gmail.com https://www.olivercoding.com/ https://knxhx.org/ https://www.devspaceconf.com/ https://sceniccitysummit.com/talks/ https://musiccitytech.com/
 
 Dave Brock
-United States https://aspnetcore.news/ https://www.daveabrock.com/ https://www.telerik.com/blogs/author/dave-brock 
+United States daveabrock@gmail.com https://aspnetcore.news/ https://www.daveabrock.com/ https://www.telerik.com/blogs/author/dave-brock 
 
 Dave Glick
 United States
@@ -409,7 +407,8 @@ MVP 2020
 MVP 2019
 MVP 2018
 MVP 2010
-https://www.flickr.com/photos/dixin https://weblogs.asp.net/dixin https://hanziyuan.net/#%E8%BD%A6 
+https://www.flickr.com/photos/dixin https://weblogs.asp.net/dixin https://hanziyuan.net/#%E8%BD%A6  DixinYan@live.com
+
 
 Douglas Starnes
 United States
@@ -446,7 +445,7 @@ MCSD:ALM, ScrumMaster esteban@outlook.com  http://www.almguide.com/
 
 Frank Krueger
 United States
-Seattle, WA http://icircuit3d.appmanuals.com/ http://icircuitapp.com/ http://calca.io/ https://praeclarum.org/
+Seattle, WA http://icircuit3d.appmanuals.com/ http://icircuitapp.com/ http://calca.io/ https://praeclarum.org/ fak@praeclarum.org
 
 Greg Duncan
 United States 
@@ -459,7 +458,7 @@ Heather Downing ( Heather Downing )
 United States
 SMITHVILLE, Missouri 
 Heather encourages those with nontraditional backgrounds to enter the world of software development, as she changed careers at 27 and does not have a degree - yet has built a reputation as an early adapter of new tech. She is an advocate of women in tech, and part of Kansas City Women in Technology.  quorralyne@gmail.com https://www.quorralyne.com/ 
-
+#####################################################################################################
 Jamie
 United States
 NLP Engineer | Bioinformatician | F# | Python | Coffee Farmer https://www.meetup.com/members/12719798/
