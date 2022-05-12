@@ -458,7 +458,7 @@ Heather Downing ( Heather Downing )
 United States
 SMITHVILLE, Missouri 
 Heather encourages those with nontraditional backgrounds to enter the world of software development, as she changed careers at 27 and does not have a degree - yet has built a reputation as an early adapter of new tech. She is an advocate of women in tech, and part of Kansas City Women in Technology.  quorralyne@gmail.com https://www.quorralyne.com/ 
-#####################################################################################################
+
 Jamie
 United States
 NLP Engineer | Bioinformatician | F# | Python | Coffee Farmer https://www.meetup.com/members/12719798/
@@ -477,7 +477,7 @@ MCSD,MCSD.NET,MCTS:TFS https://stackoverflow.com/users/211259/jeff-bramwell
 Jeff Strauss
 United States
 Town and Country, MO
-Community Advocate. Technical Advisor. Problem Solver. https://www.slideshare.net/jeffreystrauss  https://speakerdeck.com/jeffreystrauss https://headspring.com/ 
+Community Advocate. Technical Advisor. Problem Solver. https://www.slideshare.net/jeffreystrauss  https://speakerdeck.com/jeffreystrauss https://headspring.com/  jeffrey.s.strauss@gmail.com
 
 Jeffrey Palermo
 United States
@@ -581,7 +581,7 @@ dahlbyk@gmail.com
 
 Kevin Bost
 United States
-WA https://intellitect.com/about/intelliteam/kevin-bost/ 
+WA https://intellitect.com/about/intelliteam/kevin-bost/ info@intellitect.com support@intellitect.com
 
 Kevin Wayne Griffin
 United States kevin@kevgriffin.com https://www.meetup.com/members/13039858/ https://www.antechsystems.com/  https://consultwithgriff.com/ 
@@ -638,7 +638,8 @@ Recognitions
 2020 AIM Tech Innovator of the Year Award
 2015 Deliveron Consulant of the Year
 2014 Deliveron Consultant of the Year
-2013 Deliveron Consultant of the Year https://www.lunavi.com/ https://social.msdn.microsoft.com/profile/mikedouglas https://www.meetup.com/members/155532862/ 
+2013 Deliveron Consultant of the Year https://www.lunavi.com/ info@lunavi.com
+ https://social.msdn.microsoft.com/profile/mikedouglas https://www.meetup.com/members/155532862/ 
 
 Mitch Muenster
 United States  mitchmuenster@gmail.com Certifications
@@ -667,7 +668,7 @@ Power Platform Functional Consultant Associate
 MS: Programming in HTML5 with JavaScript and CSS3 Specialist
 MCPS: Microsoft Certified Professional
 MCSD1: Microsoft .NET
-MCAD: Microsoft .NET https://www.og-bit.com/ https://www.meetup.com/members/199153833/ https://www.ozkary.com/
+MCAD: Microsoft .NET https://www.og-bit.com/ https://www.meetup.com/members/199153833/ https://www.ozkary.com/ services@og-bit.com
 
 Patrick Desjardins
 LA, United States
@@ -678,7 +679,7 @@ Recognitions
 70-516 : MCTS .Net Framework 4, Accessing Data
 70-513 : MCTS .Net Framework 4, WCF
 MCPD Microsoft Certified Professional Developer
-70-515 : MCTS .Net Framework 4, Web Application https://patrickdesjardins.com/blog https://www.amazon.com/Holistic-TypeScript-Version-4-0/dp/B08DSSCLYW 
+70-515 : MCTS .Net Framework 4, Web Application https://patrickdesjardins.com/blog https://www.amazon.com/Holistic-TypeScript-Version-4-0/dp/B08DSSCLYW mrdesjardins@gmail.com
 
 Phil Haack
 United States
