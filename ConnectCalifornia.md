@@ -826,7 +826,6 @@ Oakton, VA vladimir.khorikov@gmail.com https://enterprisecraftsmanship.com/
 # Venture Capital
 https://www.forbes.com/midas/
 https://en.wikipedia.org/wiki/List_of_venture_capital_firms
-
 - Roger McNamee (an Elevation Co-Founder and Managing Director) Elevation Partners
 - David Sacks is co-founder and partner at Craft Venture
 - https://www.gradient.com/
