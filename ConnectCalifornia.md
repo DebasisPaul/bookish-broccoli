@@ -819,18 +819,10 @@ United States
 Oakton, VA vladimir.khorikov@gmail.com https://enterprisecraftsmanship.com/ 
 
 
-
-
-# Bloomberg Technology People
-- Nancy Davis, Managing Partner & Chief Investment Officer, Quadratic Capital Management, https://quadraticllc.com/
-- Natasha Lamb, Managing Partner, Portfolio Manager, Arjuna Capital, https://arjuna-capital.com/
-- Emily Chang
-
-
-
 # Venture Capital
-https://www.forbes.com/midas/
-https://en.wikipedia.org/wiki/List_of_venture_capital_firms
+
+- Natasha Lamb, Managing Partner, Portfolio Manager, Arjuna Capital, https://arjuna-capital.com/
+- Nancy Davis, Managing Partner & Chief Investment Officer, Quadratic Capital Management, https://quadraticllc.com/
 - Roger McNamee (an Elevation Co-Founder and Managing Director) Elevation Partners
 - David Sacks is co-founder and partner at Craft Venture
 - https://www.gradient.com/
@@ -838,6 +830,8 @@ https://en.wikipedia.org/wiki/List_of_venture_capital_firms
 - https://www.sandhillangels.com/
 - https://www.temasek.com.sg/en/index
 - https://www.forerunnerventures.com/
+- https://www.forbes.com/midas/
+- https://en.wikipedia.org/wiki/List_of_venture_capital_firms
 
 
 
@@ -845,25 +839,20 @@ https://en.wikipedia.org/wiki/List_of_venture_capital_firms
 https://www.forbes.com/billionaires/
 
 
-
 # Charity Foundation
 https://en.wikipedia.org/wiki/List_of_wealthiest_charitable_foundations
-
 
 
 # Bellevue & Redmond, Washington, United States "Regions Greater Seattle Area, West Coast, Western US" based Technology Companies
 https://www.indeed.com/?from=gnav-homepage
 
 
-
 # Silicon valley Based Technology Company
 https://www.indeed.com/?from=gnav-homepage
 
 
-
 # Manhattan Beach, California based IT Company
 https://www.indeed.com/?from=gnav-homepage
-
 
 
 # .Net MeetUP & Speakers
@@ -871,5 +860,4 @@ https://dotnetfoundation.org/community/meetups
 https://dotnetfoundation.org/community/speakers
 
 
-
-# twitter, linkedin, facebook, github .net people to connect
+# twitter, linkedin, facebook, github, Instagram
