@@ -821,7 +821,7 @@ Oakton, VA vladimir.khorikov@gmail.com https://enterprisecraftsmanship.com/
 
 # Venture Capital
 
-- Natasha Lamb, Managing Partner, Portfolio Manager, Arjuna Capital, https://arjuna-capital.com/
+- Natasha Lamb, Managing Partner, Portfolio Manager, Arjuna Capital, https://arjuna-capital.com/   (EMAIL DONE)
 - Kent bennett, Bessemer Venture Partner
 - Staci Warden, Algorand Foundation CEO
 - Nancy Davis, Managing Partner & Chief Investment Officer, Quadratic Capital Management, https://quadraticllc.com/
