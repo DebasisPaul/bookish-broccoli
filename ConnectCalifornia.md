@@ -822,14 +822,14 @@ Oakton, VA vladimir.khorikov@gmail.com https://enterprisecraftsmanship.com/
 # Venture Capital
 
 - Natasha Lamb, Managing Partner, Portfolio Manager, Arjuna Capital, https://arjuna-capital.com/   (EMAIL DONE)
-- Kent bennett, Bessemer Venture Partner
-- Staci Warden, Algorand Foundation CEO
-- Nancy Davis, Managing Partner & Chief Investment Officer, Quadratic Capital Management, https://quadraticllc.com/
-- Roger McNamee (an Elevation Co-Founder and Managing Director) Elevation Partners
+- Kent bennett, Bessemer Venture Partner  (EMAIL DONE)
+- Staci Warden, Algorand Foundation CEO  (EMAIL DONE)
+- Nancy Davis, Managing Partner & Chief Investment Officer, Quadratic Capital Management, https://quadraticllc.com/  (EMAIL DONE)
+- Roger McNamee (an Elevation Co-Founder and Managing Director) Elevation Partners  (EMAIL DONE)
 - David Sacks is co-founder and partner at Craft Venture
 - https://www.gradient.com/
-- https://www.av.vc/
-- https://www.sandhillangels.com/
+- https://www.av.vc/  (EMAIL DONE)
+- https://www.sandhillangels.com/  (EMAIL DONE)
 - https://www.temasek.com.sg/en/index
 - https://www.forerunnerventures.com/
 - https://www.forbes.com/midas/
