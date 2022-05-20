@@ -28,3 +28,13 @@
 JavaScript: The Definitive Guide: Master the World's Most-Used Programming Language 7th Edition
 Eloquent JavaScript, 3rd Edition: A Modern Introduction to Programming 3rd Edition
 Head First JavaScript Programming: A Brain-Friendly Guide 1st Edition
+
+
+Learn Azure in a Month of Lunches, Second Edition 2nd Edition
+Exam Ref AZ-900 Microsoft Azure Fundamentals 2nd Edition
+Microsoft Azure For Dummies 1st Edition
+Microsoft Azure Architect Technologies and Design Complete Study Guide: Exams AZ-303 and AZ-304 1st Edition
+Azure SQL Revealed: A Guide to the Cloud for SQL Server Professionals 1st ed. Edition
+Learn Microsoft Azure: Build, manage, and scale cloud applications using the Azure ecosystem
+Hands-On Azure for Developers: Implement rich Azure PaaS ecosystems using containers, serverless services, and storage solutions
+ASP.NET AJAX in Action
