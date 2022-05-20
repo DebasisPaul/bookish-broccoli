@@ -58,16 +58,33 @@ Shaadi.com
 29. Tongue  https://www.healthline.com/health/how-long-is-the-human-tongue#weight-gain https://www.healthline.com/health/mouth-sores https://www.mayoclinic.org/diseases-conditions/leukoplakia/symptoms-causes/syc-20354405 https://www.nhs.uk/conditions/sore-or-white-tongue/ https://my.clevelandclinic.org/health/diseases/21766-mouth-ulcer 
 30. Warts on Your Tongue https://www.healthline.com/health/warts-on-tongue#types 
 31. Esophageal Disorders https://my.clevelandclinic.org/health/diseases/16976-esophageal-disorders
-32. # surgery 
-33. # anesthesia
-34. # pain medication
-35. # topical numbing medicines
+32. 
+33. # surgery 
+34. 
+35. # anesthesia
+36. 
+37. # pain medication
+38. 
+39. # topical numbing medicines
 
-# BMI & CALORIE CALCULATOR https://www.nhlbi.nih.gov/health-topics/education-and-awareness https://www.cdc.gov/healthyweight/ https://www.mayoclinic.org/healthy-lifestyle/weight-loss/in-depth/calorie-calculator/itt-20402304
+# BMI & CALORIE CALCULATOR 
 
-# 2000 Calorie Mediterranean & DASH DIET https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/mediterranean-diet/art-20047801 https://www.healthline.com/nutrition/mediterranean-diet-meal-plan https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/dash-diet/art-20044759 https://health.clevelandclinic.org/dash-diet-what-is-it-meal-plans-and-recipes/ https://www.nhlbi.nih.gov/education/dash-eating-plan https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/dash-diet/art-20047110 https://www.healthline.com/nutrition/2000-calorie-diet https://www.webmd.com/diet/what-to-know-2000-calorie-meal-plan https://www.eatthismuch.com/diet-plan/2000-calorie/ https://www.menshealth.com/nutrition/g37291979/2000-calorie-meal-plan/ https://www.popsugar.com/fitness/2000-calorie-meal-plan-48656479 https://www.goodhousekeeping.com/health/diet-nutrition/g29871227/2000-calorie-diet-meal-plan/ https://www.eatingwell.com/article/17404/what-does-a-2000-calorie-diet-look-like/ https://www.eatingwell.com/article/287767/7-day-diet-meal-plan-to-lose-weight-2000-calories/
+https://www.nhlbi.nih.gov/health-topics/education-and-awareness https://www.cdc.gov/healthyweight/ https://www.mayoclinic.org/healthy-lifestyle/weight-loss/in-depth/calorie-calculator/itt-20402304
+
+# TIPS
+- Regular Exercise, rwgular time diet, Meditation, Stress Management.
+- Carefull of Diebetics, Pressure, Cholestrol, Arthritis, Digestive Trac Issue, Liver, Kidney Care, Mindfulness, Healthy Weight IBM index, Cancer.
+- Motivation, Gatitude, Forgiveness, Inspiration, Respect, Love
+- Reading, Singing, Healthy Sex,
+- Brain food, Auto Immune Disease, Anti inflamatory Food.
+- Anxiety & Depression Management
+
+# 2000 Calorie Mediterranean & DASH DIET
+
+https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/mediterranean-diet/art-20047801 https://www.healthline.com/nutrition/mediterranean-diet-meal-plan https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/dash-diet/art-20044759 https://health.clevelandclinic.org/dash-diet-what-is-it-meal-plans-and-recipes/ https://www.nhlbi.nih.gov/education/dash-eating-plan https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/dash-diet/art-20047110 https://www.healthline.com/nutrition/2000-calorie-diet https://www.webmd.com/diet/what-to-know-2000-calorie-meal-plan https://www.eatthismuch.com/diet-plan/2000-calorie/ https://www.menshealth.com/nutrition/g37291979/2000-calorie-meal-plan/ https://www.popsugar.com/fitness/2000-calorie-meal-plan-48656479 https://www.goodhousekeeping.com/health/diet-nutrition/g29871227/2000-calorie-diet-meal-plan/ https://www.eatingwell.com/article/17404/what-does-a-2000-calorie-diet-look-like/ https://www.eatingwell.com/article/287767/7-day-diet-meal-plan-to-lose-weight-2000-calories/
 
 # Underweight adul (How do you gain weight) 
+
 1. https://www.healthline.com/nutrition/best-mass-gainer
 2. https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/underweight/faq-20058429
 3. https://www.medicalnewstoday.com/articles/321518
@@ -81,6 +98,7 @@ Shaadi.com
 11. https://www.healthline.com/nutrition/10-health-benefits-of-whey-protein
 
 # FOOD CALORIE COUNT 
+
 1. https://www.calories.info/
 2. https://www.webmd.com/diet/healthtool-food-calorie-counter
 3. https://my.clevelandclinic.org/health/articles/16555-snack-ideas-for-weight-gain
