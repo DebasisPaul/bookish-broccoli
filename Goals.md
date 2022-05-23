@@ -38,3 +38,6 @@
 - Learn Microsoft Azure: Build, manage, and scale cloud applications using the Azure ecosystem
 - Hands-On Azure for Developers: Implement rich Azure PaaS ecosystems using containers, serverless services, and storage solutions
 - ASP.NET AJAX in Action
+
+#### DEE-DEE-WALSH GOAL
+- 
