@@ -863,3 +863,5 @@ https://dotnetfoundation.org/community/speakers
 
 
 # twitter, linkedin, facebook, github, Instagram
+
+# MSTeams & MS365 Community 
