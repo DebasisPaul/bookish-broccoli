@@ -1,3 +1,9 @@
+### JUNE 2022  DEE-DEE-WALSH GOAL
+---
+1. ShopOnline Solution
+2. .Net Book Reading
+
+
 ### May 2022
 # Book Study
 - The C# Player's Guide (5th Edition) Paperback – January 14, 2022
@@ -38,6 +44,3 @@
 - Learn Microsoft Azure: Build, manage, and scale cloud applications using the Azure ecosystem
 - Hands-On Azure for Developers: Implement rich Azure PaaS ecosystems using containers, serverless services, and storage solutions
 - ASP.NET AJAX in Action
-
-#### DEE-DEE-WALSH GOAL
-- 
