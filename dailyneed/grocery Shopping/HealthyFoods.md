@@ -1,3 +1,5 @@
+* Best Foods to Boost Your Brain and Memory*
+
 *PROTEIN*
 -  Eggs
 -  Almonds
@@ -69,6 +71,34 @@
 - Yogurt
 - Butter
 
+*Calcium-Rich Foods*
+- Seeds
+- Cheese
+- Yogurt
+- Sardines and canned salmon
+- Beans and lentils
+- Almonds
+- Whey protein
+- Leafy greens
+- Rhubarb
+- Fortified foods
+- Amaranth
+- Edamame and tofu
+- Fortified drinks
+- Figs
+- Milk
+- Soy Foods Foods made from soybeans, such as tofu, tempeh, and natto
+- Beans, Peas, and Lentils
+- Certain Nuts 
+- Seeds 
+- Some Grains
+- Seaweed
+- Certain Vegetables spinach, bok choy, as well as turnip, mustard, and collard greens, calcium-rich vegetables include okra, kale, cabbage, broccoli, and Brussels sprouts.
+- Leafy Greens  Kale Microgreens Collard Greens Spinach Cabbage Beet Greens Watercress Romaine Lettuce Swiss Chard Arugula  Endive Bok Choy Turnip Greens
+- Some Fruit  Blackcurrants, blackberries, and raspberries
+- Fortified Foods and Drinks
+- Blackstrap Molasses 
+
 *Healthier Fruits*
 - Apples
 - Blueberries
@@ -94,6 +124,63 @@
 - Limes
 - Cantaloupe
 -  Raspberries
+
+*Vegetables*
+- Spinach
+- Carrots
+- Broccoli
+- Garlic
+-  Brussels sprouts
+-  Kale
+-  Green peas
+-  Swiss chard
+-  Beets
+-  Asparagus
+-   Red cabbage
+-   Sweet potatoes
+-   Collard greens
+-   Cauliflower
+-   Turmeric
+-   Celeriac
+-   Carrots
+-   Fennel
+-   Radishes
+-   Ginger
+-   Turnips
+-   Onions
+
+* Herbs and Spices*
+- Cinnamon Lowers Blood Sugar Levels and Has a Powerful Anti-Diabetic Effect
+- Sage Can Improve Brain Function and Memory
+- Peppermint Relieves IBS Pain and May Reduce Nausea
+- Turmeric Contains Curcumin, a Substance With Powerful Anti-Inflammatory Effects
+- Holy Basil Helps Fight Infections and Boosts Immunity
+- Cayenne Pepper Contains Capsaicin, Which Helps Reduce Appetite and May Have Anti-Cancer Properties
+- Ginger Can Treat Nausea and Has Anti-Inflammatory Properties
+- Fenugreek Improves Blood Sugar Control
+- Rosemary Can Help Prevent Allergies and Nasal Congestion
+- Garlic Can Combat Sickness and Improve Heart Health
+- Oregano
+- Cardamom
+- Echinacea 
+- Peppermint 
+- Black Pepper
+
+*Supplements*
+- Vitamin B12
+- Vitamin D
+- Long-chain omega-3s
+- Iron
+- Calcium
+-  Zinc
+-  Iodine
+-  Vitamin A
+-  Vitamin B
+-  Vitamin C
+-  Vitamin D
+-  Vitamin E
+-  Vitamin K
+-  [best supplements for healthy aging](https://www.healthline.com/nutrition/10-of-the-best-supplements-for-healthy-aging#A-quick-look-at-the-best-supplements-for-healthy-aging)
 
 *foods for vitamins and minerals *
 - Nuts and seeds 
