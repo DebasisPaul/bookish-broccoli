@@ -1,4 +1,78 @@
-* Best Foods to Boost Your Brain and Memory*
+*Neurotrasmitter*
+
+- [Depression](https://www.healthline.com/health/depression)
+- [Anxiety](https://www.healthline.com/health/anxiety-symptoms#see-a-doctor)
+- [Norepinephrine (Noradrenaline)](https://my.clevelandclinic.org/health/articles/22610-norepinephrine-noradrenaline)
+- [Epinephrine (Adrenaline) ](https://my.clevelandclinic.org/health/articles/22611-epinephrine-adrenaline)
+- [ Neurotransmitters ](https://my.clevelandclinic.org/health/articles/22513-neurotransmitters)
+
+*Serotonin*
+- [Serotonin](https://www.healthline.com/health/mental-health/serotonin https://my.clevelandclinic.org/health/articles/22572-serotonin https://www.healthline.com/health/tryptophan https://www.webmd.com/diet/foods-high-in-tryptophan#2 https://www.webmd.com/diet/foods-high-in-tryptophan#2 https://www.healthline.com/health/tryptophan https://www.healthline.com/health/healthy-sleep/foods-that-could-boost-your-serotonin#alternatives https://www.health.harvard.edu/mind-and-mood/serotonin-the-natural-mood-booster https://www.mayoclinic.org/diseases-conditions/serotonin-syndrome/symptoms-causes/syc-20354758 https://www.webmd.com/depression/features/serotonin  https://my.clevelandclinic.org/health/diseases/17687-serotonin-syndrome)
+
+*Dopamine *
+- [Dopamine](https://www.webmd.com/mental-health/what-is-dopamine https://my.clevelandclinic.org/health/articles/22581-dopamine https://www.healthline.com/nutrition/how-to-increase-dopamine https://www.healthline.com/nutrition/dopamine-supplements https://www.health.harvard.edu/mind-and-mood/dopamine-the-pathway-to-pleasure https://my.clevelandclinic.org/health/articles/22588-dopamine-deficiency )
+- 
+- Foods known to increase dopamine include chicken, almonds, apples, avocados, bananas, beets, chocolate, green leafy vegetables, green tea, lima beans, oatmeal, oranges, peas, sesame and pumpkin seeds, tomatoes, turmeric, watermelon and wheat germ.
+- Engage in activities that make you happy or feel relaxed. This is thought to increase dopamine levels. Some examples include exercise, meditation, yoga, massage, playing with a pet, walking in nature or reading a book.
+-  supplements raise dopamine levels
+-  Tyrosine. Tyrosine is a natural amino acid and a precursor to dopamine. (Dopamine is made from tyrosine.)
+-  L-theanine. L-theanine is another precursor to dopamine.
+-  Vitamin D, B5 and B6. These vitamins are needed to make dopamine.
+-   Omega-3 essential fatty acids.
+-   Magnesium.
+
+
+*Antioxidants foods*
+- Pecans
+- Dark Chocolate
+- Blueberries
+- Strawberries
+- Artichokes
+- Goji Berries
+- Raspberries
+- Kale
+- Red Cabbage
+- Beans
+- Beets
+- Spinach
+
+*Best Foods to Boost Your Brain and Memory*
+- Fatty fish
+-  Coffee
+-  Blueberries
+-  Turmeric
+-  Broccoli
+-  Pumpkin seeds
+-  Dark chocolate
+-  Nuts
+-  Oranges
+-  Eggs
+-  Green tea
+-  Eat less added sugar
+-  Try a fish oil supplement
+-  Make time for meditation
+-  Maintain a moderate weight 
+-  Get enough sleep
+-  Practice mindfulness
+-  Drink alcohol in moderation
+-  Train your brain
+-  Limit refined carbs 
+-   Get your vitamin D levels tested
+-   Exercise 
+-   Choose anti-inflammatory foods
+-    Consider curcumin
+-    Add some cocoa to your diet
+-    Enjoy nature
+-    Practice yoga
+-    Dance your heart out
+-    Learn a new skill
+-    Listen to or play music
+-    Learn a new language
+-     Focus on another person
+-     Peanuts
+-     Supplements Taking vitamins B, C, or E, beta-carotene, or magnesium may improve brain function if a person has a deficiency in any of them.
+-     Feel free to savor a glass of wine
+-     Load up on vegetables
 
 *PROTEIN*
 -  Eggs
@@ -327,73 +401,16 @@ Men: 120 micrograms per day
 Foods that have it: Red meats, some seafood, fortified cereals
 Men: 11 milligrams per day
 
-1. eating more often (five to six times per day)
-2.  eat more fat and eat more protein
-3.  chicken with skin on (roast or broil don’t deep fry for your health)
-4.  beans
-5.  whole milk
-6.  eggs
-7.  cheese
-8.  full-fat yogurt
-9.  potatoes, Sweet Potatoes
-10.  brown rice
-11.  butter
-12.  Nuts 
-13.  high-fat cheeses
-14.  mayonnaise
-15.  Prepare your food with extra virgin olive oil or coconut oil or butter to add calories.
-16.  When eating cereal use whole milk, half and half and add powdered milk.
-17.  Choose higher fat meats such as chicken or turkey thighs and legs,
-18.  Apple 
-19.  pumpkin 
-20.  banana 
-21.  raisins
-22.  protein powder
-23.  tomatoes
-24.  pumpkin, or sunflower seeds
-25.  Mango 
-26.  ghee
-27.  carrots
-28.  cucumbers
-29.  cauliflower
-30.  turmeric 
-31.  beans
-32.  cinnamon 
-33.  Lemon 
-34.  garlic
-35.  Beets
-36.  Lentils
-37.  Onion
-38.  Mushrooms
-39.  Smoothies
-40.  Protein supplements
-41.  spinach
-42.  Cabbage
-43.  Kale
-44.  Lettuce 
-45.  broccoli
-46.  Coconut
-47.  Dates
-48.  Avocado
-49.  Rosemary
-50.  Grapes
-51.  shrimp
-52.  ginger
-53.  black pepper
-54.  paprika
-55.  oregano
-56.  cilantro
-57.  mushrooms
-58.  asparagus
-59.  blueberries
-60.  hemp seeds
-61.  peas
-62.  orange
-63.  pear
-64.  almonds
-65.  melons
-66.  oatmeal
-67.  crab
-68.  Choose fish or seafood as your main dish.
+*Healthiest Milk*
+- Hemp milk
+- Oat milk
+- Almond milk
+- 
+
+*Weight Gain*
+
+-  eating more often (five to six times per day)
+- eat more fat and eat more protein
+
 
 
