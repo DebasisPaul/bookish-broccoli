@@ -1,3 +1,63 @@
+*PROTEIN*
+-  Eggs
+-  Almonds
+-  Skinless, white-meat poultry Chicken breast
+-  Cottage cheese
+-  Greek yogurt
+-  Milk
+-  Lentils
+-  Lean beef
+-  Fish 
+-  Quinoa
+-  Whey protein powder
+-  Ezekiel bread
+-  Turkey breast
+-  Shellfish
+-  Peanuts and peanut butter or Nut butters
+-  Beans
+-  Black beans
+-  Corn
+-  Oats
+-  Guava
+-  Brussel sprouts
+-  Asparagus
+-  Chia seeds
+-  Avocado
+-  Pumpkin seeds
+-  Chickpeas
+-  Pork
+-  Bison
+-  Peas
+-  Artichokes
+-  Hemp seeds
+-  Chinese cabbage
+-  Cauliflower
+-  Broccoli
+-  Salmon
+-  Lima beans
+
+*High Carb Foods*
+- Quinoa
+- Oats
+- Buckwheat
+- Bananas
+- Sweet potatoes
+- Beets
+- Oranges
+- Blueberries
+- Grapefruit
+- Apples
+- Kidney beans
+- Chickpeas
+
+
+*High-Fat Foods*
+- Dark chocolate
+- Avocados
+- Cheese
+- Whole eggs
+- 
+
 1. eating more often (five to six times per day)
 2.  eat more fat and eat more protein
 3.  chicken with skin on (roast or broil don’t deep fry for your health)
