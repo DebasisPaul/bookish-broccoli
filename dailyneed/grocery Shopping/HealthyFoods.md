@@ -1,3 +1,41 @@
+*High blood pressure (hypertension)*
+- [High blood pressure (hypertension)](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410)
+
+*High cholesterol & Triglycerides*
+- [High cholesterol](https://www.mayoclinic.org/diseases-conditions/high-blood-cholesterol/symptoms-causes/syc-20350800 https://www.healthline.com/nutrition/high-cholesterol-foods)
+- [Trans Fats](https://www.healthline.com/nutrition/why-trans-fats-are-bad#blood-vessels-and-cancer)
+- [Saturated Fat](https://www.healthline.com/nutrition/saturated-fat)
+- [Triglycerides](https://my.clevelandclinic.org/health/articles/11117-triglycerides)
+- How can you prevent or lower high triglycerides?
+
+*Certain dietary and lifestyle changes can lower triglyceride numbers. To keep triglycerides and total cholesterol within a healthy range:*
+  -  Be physically active for at least 30 minutes every day.
+  -  Eat a heart-healthy diet with less unhealthy fats and simple sugars (carbohydrates) and more fiber.
+  -  Control high blood pressure and diabetes.
+  -  Cut back on alcohol.
+  -  Get enough sleep.
+ -   Lose weight (if needed) and maintain a healthy weight.
+ -   Manage stress.
+ -   Quit smoking.
+
+*Here are healthy, evidence-based ways to lower your cholesterol levels:*
+
+  -  Eat more fiber. Research shows that eating more fiber — especially soluble fiber found in fruits, beans, and oats — may help reduce LDL (bad) cholesterol levels (44Trusted Source).
+-    Increase physical activity. Becoming more physically active is an excellent way to lower your cholesterol levels. High intensity aerobic exercise seems to be the most effective way to reduce LDL (45Trusted Source).
+ -   Lose weight. Losing excess body weight is one of the best ways to lower your cholesterol levels. It can reduce LDL while increasing HDL, which is optimal for health (46Trusted Source).
+-    Cut back on unhealthy habits. Quitting unhealthy habits such as smoking can significantly reduce LDL levels. Smoking raises LDL cholesterol levels and greatly increases the risk of cancer, heart disease, and emphysema (47Trusted Source, 48Trusted Source).
+  -  Eat more produce. Research shows that people who eat more fruits and vegetables have lower LDL (bad) cholesterol levels and are less likely to develop heart disease than those who eat fewer of these foods (49Trusted Source).
+
+
+*Diabetes*
+
+-[Diabetes](https://www.healthline.com/health/diabetes#in-pregnancy)
+- Get at least 150 minutes per week of aerobic exercise, such as walking or cycling.
+- Cut saturated and trans fats, along with refined carbohydrates, out of your diet.
+- Eat more fruits, vegetables, and whole grains.
+- Eat smaller portions.
+- Try to lose 7 percentTrusted Source of your body weight if you’re overweight or obese. 
+
 *Neurotrasmitter*
 
 - [Depression](https://www.healthline.com/health/depression)
@@ -57,22 +95,22 @@
 -  Drink alcohol in moderation
 -  Train your brain
 -  Limit refined carbs 
--   Get your vitamin D levels tested
--   Exercise 
--   Choose anti-inflammatory foods
--    Consider curcumin
--    Add some cocoa to your diet
--    Enjoy nature
--    Practice yoga
--    Dance your heart out
--    Learn a new skill
--    Listen to or play music
--    Learn a new language
--     Focus on another person
--     Peanuts
--     Supplements Taking vitamins B, C, or E, beta-carotene, or magnesium may improve brain function if a person has a deficiency in any of them.
--     Feel free to savor a glass of wine
--     Load up on vegetables
+-  Get your vitamin D levels tested
+-  Exercise 
+-  Choose anti-inflammatory foods
+-  Consider curcumin
+-  Add some cocoa to your diet
+-  Enjoy nature
+-  Practice yoga
+-  Dance your heart out
+-  Learn a new skill
+-  Listen to or play music
+-  Learn a new language
+-  Focus on another person
+-  Peanuts
+-  Supplements Taking vitamins B, C, or E, beta-carotene, or magnesium may improve brain function if a person has a deficiency in any of them.
+-  Feel free to savor a glass of wine
+-  Load up on vegetables
 
 *PROTEIN*
 -  Eggs
@@ -210,18 +248,18 @@
 -  Swiss chard
 -  Beets
 -  Asparagus
--   Red cabbage
--   Sweet potatoes
--   Collard greens
--   Cauliflower
--   Turmeric
--   Celeriac
--   Carrots
--   Fennel
--   Radishes
--   Ginger
--   Turnips
--   Onions
+-  Red cabbage
+-  Sweet potatoes
+-  Collard greens
+-  Cauliflower
+-  Turmeric
+-  Celeriac
+-  Carrots
+-  Fennel
+-  Radishes
+-  Ginger
+-  Turnips
+-  Onions
 
 * Herbs and Spices*
 - Cinnamon Lowers Blood Sugar Levels and Has a Powerful Anti-Diabetic Effect
