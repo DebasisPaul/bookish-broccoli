@@ -212,6 +212,7 @@ with examples in C# 1st Edition
 # Security
 
 - O'REILLY Web Application Security
+- Pro ASP.NET Core Identity: Under the Hood with Authentication and Authorization in ASP.NET Core 5 and 6 Applications 1st ed. Edition
 
 # Web API
 
