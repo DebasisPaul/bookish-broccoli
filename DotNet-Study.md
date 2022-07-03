@@ -237,6 +237,16 @@ with examples in C# 1st Edition
 - Rust in Action 1st Edition
 - Programming Rust: Fast, Safe Systems Development 1st Edition
 
+# Python
+- Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming 2nd Edition
+- Learning Python, 5th Edition Fifth Edition
+- Python Programming for Beginners: The #1 Python Programming Crash Course for Beginners to Learn Python Coding Well & Fast (with Hands-On Exercises)
+- PYTHON: Learn Coding Programs with Python Programming and Master Data Analysis & Analytics, Data Science and Machine Learning with the Complete Crash Course for Beginners - 5 Manuscripts in 1 Book
+- The Big Book of Small Python Projects: 81 Easy Practice Programs Paperback – June 25, 2021
+- Python Programming for Beginners: The Ultimate Crash Course to Learn Python in 7 Days with Step-by-Step Guidance and Hands-On Exercises
+- Learn Python in One Day and Learn It Well (2nd Edition): Python for Beginners with Hands-on Project. The only book you need to start coding in Python ... (Learn Coding Fast with Hands-On Project) 2nd Edition
+- Python Programming Language Paperback – May 1, 2019
+- 
 
 # GraphQL, Domain-Driven Design
 
