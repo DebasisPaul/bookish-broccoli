@@ -75,34 +75,33 @@ Live: https://vimeo.com/user127439836```
 
 
 
-Best Sellers in C#.NET Programming
-********************************************************************************
+Amazon Best Sellers in C#.NET Programming
+---
 
-1. C# 10 and .NET 6 – Modern Cross-Platform Development: Build apps, websites, and services with ASP.NET Core 6, Blazor, and EF Core 6 using Visual Studio 2022 and
-Visual Studio Code, 6th Edition 6th ed. Edition
-2. Learn C# in One Day and Learn It Well: C# for Beginners with Hands-on Project (Learn Coding Fast with Hands-On Project) Revised Edition
-3. Head First C#: A Learner's Guide to Real-World Programming with C# and .NET Core 4th Edition
-4. C# 10 in a Nutshell: The Definitive Reference 1st Edition
-5. C# 10 Pocket Reference: Instant Help for C# 10 Programmers (Grayscale Indian Edition) Paperback – 21 February 2022
-6. Murach's C# (7th Edition) 7th Edition
-7.  C# in Depth: Fourth Edition 4th Edition
-8.  The C# Player's Guide (5th Edition) Paperback – January 14, 2022
-9.  Pro C# 9 with .NET 5: Foundational Principles and Practices in Programming 10th ed. Edition
-10.  Agile Principles, Patterns, and Practices in C# 1st Edition
-11.  Microsoft Visual C# Step by Step (Developer Reference) Paperback – Illustrated, 17 September 2018
-12.  Concurrency in C# Cookbook, 2e: Asynchronous, Parallel, and Multithreaded Programming Paperback – 3 September 2019
-13.  Effective C# (Covers C# 6.0), (includes Content Update Program): 50 Specific Ways to Improve Your C# (Effective Software Development Series) Paperback – 19 January 2017 by Bill Wagner 
-14. Enterprise Application Development with C# 9 and .NET 5: Enhance your C# and .NET skills by mastering the process of developing professional-grade web applications
-15. C# Data Structures and Algorithms: Explore the possibilities of C# for developing a variety of efficient applications Illustrated Edition
-16. Software Architecture with C# 10 and .NET 6: Develop software solutions using microservices, DevOps, EF Core, and design patterns for Azure, 3rd Edition 3rd ed. Edition
-17. Code like a Pro in C#
-18. C# 10.0 All-in-One For Dummies (For Dummies (Computer/Tech)) 1st Edition
-19. Learn C# Programming: A guide to building a solid foundation in C# language for writing efficient programs
-20. Professional C# and .NET 8th Edition Wrox; 8th edition (September 28, 2021)
+- C# 10 and .NET 6 – Modern Cross-Platform Development: Build apps, websites, and services with ASP.NET Core 6, Blazor, and EF Core 6 using Visual Studio 2022 and Visual Studio Code, 6th Edition 6th ed. Edition
+- Learn C# in One Day and Learn It Well: C# for Beginners with Hands-on Project (Learn Coding Fast with Hands-On Project) Revised Edition
+- The C# Player's Guide (5th Edition) Paperback – January 14, 2022
+- C# 10 in a Nutshell: The Definitive Reference 1st Edition
+- Head First C#: A Learner's Guide to Real-World Programming with C# and .NET Core 4th Edition
+- C# 10.0 All-in-One For Dummies (For Dummies (Computer/Tech)) 1st Edition
+- C# 10 Pocket Reference: Instant Help for C# 10 Programmers (Grayscale Indian Edition) Paperback – 21 February 2022
+- C# in Depth: Fourth Edition 4th Edition
+- Murach's C# (7th Edition) 7th Edition
+- Pro C# 10 with .NET 6: Foundational Principles and Practices in Programming 11st ed. Edition
+- Software Architecture with C# 10 and .NET 6: Develop software solutions using microservices, DevOps, EF Core, and design patterns for Azure, 3rd Edition 3rd ed. Edition
+- Microsoft Visual C# Step by Step (Developer Reference) Paperback – Illustrated, 17 September 2018
+- Concurrency in C# Cookbook, 2e: Asynchronous, Parallel, and Multithreaded Programming Paperback – 3 September 2019
+- Learn C# Programming: A guide to building a solid foundation in C# language for writing efficient programs
+- C# Data Structures and Algorithms: Explore the possibilities of C# for developing a variety of efficient applications Illustrated Edition
+- Agile Principles, Patterns, and Practices in C# 1st Edition
+- Effective C# (Covers C# 6.0), (includes Content Update Program): 50 Specific Ways to Improve Your C# (Effective Software Development Series) Paperback – 19 January 2017 by Bill Wagner 
+- Enterprise Application Development with C# 9 and .NET 5: Enhance your C# and .NET skills by mastering the process of developing professional-grade web applications
+- Code like a Pro in C#
+- Professional C# and .NET 8th Edition Wrox; 8th edition (September 28, 2021)
 
 
-Best Sellers in ASP.NET Programming
-**********************************************************************************
+Amazon Best Sellers in ASP.NET Programming
+---
 1. ASP.NET Core 6 and Angular: Full-stack web development with ASP.NET 6 and Angular 13, 5th Edition 5th ed. Edition
 2. Murach's ASP.NET Core MVC 1st Edition
 3. ASP.NET Core 5 and React: Full-stack web development using .NET 5, React 17, and TypeScript 4, 2nd Edition 2nd ed. Edition
