@@ -223,6 +223,16 @@ with examples in C# 1st Edition
 - Hands-On RESTful API Design Patterns and Best Practices: Design, develop, and deploy highly adaptable, scalable, and secure RESTful web APIs
 - API Testing and Development with Postman: A practical guide to creating, testing, and managing APIs for automated software testing
 
+# Go
+---
+- Go Programming Language, The (Addison-Wesley Professional Computing Series) 1st Edition
+- Mastering Go: Harness the power of Go to build professional utilities and concurrent servers and services, 3rd Edition 3rd ed. Edition
+- Mastering Go: Harness the power of Go to build professional utilities and concurrent servers and services, 3rd Edition 3rd ed. Edition
+- Learning Go: An Idiomatic Approach to Real-World Go Programming 1st Edition
+
+# Rust
+
+
 
 # GraphQL, Domain-Driven Design
 
