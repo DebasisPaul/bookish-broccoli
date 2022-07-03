@@ -247,7 +247,21 @@ with examples in C# 1st Edition
 - Python Programming for Beginners: The Ultimate Crash Course to Learn Python in 7 Days with Step-by-Step Guidance and Hands-On Exercises
 - Learn Python in One Day and Learn It Well (2nd Edition): Python for Beginners with Hands-on Project. The only book you need to start coding in Python ... (Learn Coding Fast with Hands-On Project) 2nd Edition
 - Python Programming Language Paperback – May 1, 2019
-- 
+
+# C++
+
+- Starting Out with C++ from Control Structures to Objects 9th Edition
+- Problem Solving with C++ 10th Edition
+- C++ Primer (5th Edition) 5th Edition
+- C++ Crash Course: A Fast-Paced Introduction Illustrated Edition
+- Modern C++ Programming Cookbook: Master C++ core language and standard library features, with over 100 recipes, updated to C++20, 2nd Edition
+- Learn C++ Quickly: A Complete Beginner’s Guide to Learning C++, Even If You’re New to Programming (Crash Course With Hands-On Project)
+- A Tour of C++ (C++ In-Depth Series) 2nd Edition
+- Programming: Principles and Practice Using C++ (2nd Edition) 2nd Edition
+- Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14 1st Edition
+- C++ Programming Language (hardcover), The 4th Edition
+- [Welcome to Bjarne Stroustrup's homepage!](https://stroustrup.com/)
+
 
 # GraphQL, Domain-Driven Design
 
