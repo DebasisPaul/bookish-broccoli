@@ -231,7 +231,11 @@ with examples in C# 1st Edition
 - Learning Go: An Idiomatic Approach to Real-World Go Programming 1st Edition
 
 # Rust
-
+- The Rust Programming Language (Covers Rust 2018) Illustrated Edition
+- Programming Rust: Fast, Safe Systems Development 2nd Edition
+- Rust for Rustaceans: Idiomatic Programming for Experienced Developers
+- Rust in Action 1st Edition
+- Programming Rust: Fast, Safe Systems Development 1st Edition
 
 
 # GraphQL, Domain-Driven Design
