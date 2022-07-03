@@ -1,82 +1,4 @@
-
-# Top Microsoft.Net Blog
-* [Jon skeet's Coding Blog](https://codeblog.jonskeet.uk/)
-* [Wake Up And Code!](https://wakeupandcode.com/aspnetcore/)
-* [Andrew Lock](https://andrewlock.net/)
-* [Rob](https://robrich.org/)
-* [Scott](https://www.hanselman.com/)
-* [Tim][(https://www.iamtimcorey.com/)
-* [Rico Suter](http://rsuter.com)
-* [devblog dotnet](https://devblogs.microsoft.com/)
-* [Stephanie](https://stephaniestimac.com/)
-* [James](https://montemagno.com/)
-* [Dody Gunawinata](https://silverkeytech.com/)
-* [Isidora Katanic ](https://www.isidorakatanic.com/)
-* [SOFTWARE ENGINEERING](https://damienbod.com/)
-* [Blazor School](https://blazorschool.com/)
-* http://www.binaryintellect.net/default.aspx
-
-
-# Microsoft.Net Book Publication House
-- ` https://www.oreilly.com/`
-- ` https://subscription.packtpub.com/`
-- ` https://www.manning.com/`
-- ` https://www.murach.com/`
-- ` https://www.microsoftpressstore.com/`
-- ` https://www.apress.com/gp`
-- ` https://www.pearson.com/`
-- ` https://mitpress.mit.edu/`
-- ` https://www.dummies.com/`
--  `https://www.wiley.com/en-us/Sybex`
--  `https://p2p.wrox.com/`
-
-# DocsLearnExamCertified
-- Microsoft technical documentation https://docs.microsoft.com/en-us/
-- WELCOME TO MICROSOFT LEARN, Discover your path https://docs.microsoft.com/en-us/learn/
-- Microsoft technical documentation https://docs.microsoft.com/en-us/learn/certifications/browse/
-- Microsoft Certified: Azure Fundamentals, https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/
-- Get started with Azure, https://azure.microsoft.com/en-us/get-started/#explore-azure
-
-# MicrosoftEvents
-https://www.microsoft.com/en-us/events/
-https://events.microsoft.com/en-us/Allevents/?language=English
-[Microsoft Inspire](https://myinspire.microsoft.com/home)
-SQLBits?
-We are the largest data platform conference in Europe probably the world! We run an annually and give you an extreme deep dive into all things data from Power BI to Postgres, AWS to Azure, Big Data and of course SQL Server.
-https://sqlbits.com/
-RED HAT SUMMIT
-https://www.redhat.com/en/summit
-
-### 2022 tech conferences and events to add to your calendar
-
-https://www.techrepublic.com/article/2022-tech-conferences-and-events-to-add-to-your-calendar/
-https://www.bizzabo.com/blog/technology-events
-https://www.alltechconferences.com/
-https://www.techradar.com/news/top-tech-conferences-the-ultimate-tech-events-and-show-guide
-https://www.bmc.com/blogs/tech-it-conferences/
-
-### Microsoft Azure + AI Conference
-
-*We invite you to join your favorite Microsoft leaders, including EVP Scott Guthrie, CVP Rohan Kumar, and CVP Charles Lamanna, as they share their excitement about the future of Microsoft technologies. Their keynotes set the stage for this great learning event. The Microsoft engineers presenting will take a deep dive with you into the many new technology releases, including .NET Maui, .NET 6, C# 10, Visual Studio 2022, Azure, and so much more.*
-```Link: https://www.azureaiconf.com/
-https://m365conf.com/#!/
-[SQL Server & Azure SQL Conference](https://www.devintersection.com/#!/?track=sql)
-https://www.devintersection.com/#!/?track=dev
-Live: https://vimeo.com/user127439836```
-
-# CodeMag
-* [2021 - Vol. 18 - Issue 1 - .NET 6.0](https://www.codemag.com/Magazine/Issue/DotNet6)
-* [2021 - November/December](https://www.codemag.com/Magazine/Issue/NovD)
-# Azure DevOps, Docker, and Angular
-* https://www.codemag.com/Article/1901021/Azure-DevOps-Docker-and-Angular
-* https://www.codemag.com/Article/2109051/Deploying-an-ASP.NET-5-App-to-Azure-Kubernetes-Service-with-Azure-DevOps-Starter 
-* https://www.codemag.com/Article/2103061/Introduction-to-Containerization-Using-Docker
-* https://www.codemag.com/Article/2010012/The-Journey-to-One-.NET
-
-
-
-Amazon Best Sellers in C#.NET Programming
----
+# Amazon Best Sellers in C#.NET Programming
 
 - C# 10 and .NET 6 – Modern Cross-Platform Development: Build apps, websites, and services with ASP.NET Core 6, Blazor, and EF Core 6 using Visual Studio 2022 and Visual Studio Code, 6th Edition 6th ed. Edition
 - Learn C# in One Day and Learn It Well: C# for Beginners with Hands-on Project (Learn Coding Fast with Hands-On Project) Revised Edition
@@ -99,48 +21,43 @@ Amazon Best Sellers in C#.NET Programming
 - Code like a Pro in C#
 - Professional C# and .NET 8th Edition Wrox; 8th edition (September 28, 2021)
 
+# Amazon Best Sellers in ASP.NET Programming
 
-Amazon Best Sellers in ASP.NET Programming
----
-1. ASP.NET Core 6 and Angular: Full-stack web development with ASP.NET 6 and Angular 13, 5th Edition 5th ed. Edition
-2. Murach's ASP.NET Core MVC 1st Edition
-3. ASP.NET Core 5 and React: Full-stack web development using .NET 5, React 17, and TypeScript 4, 2nd Edition 2nd ed. Edition
-4. ASP.NET Core in Action, Second Edition
-5. ASP.NET Core and Vue.js: Build real-world, scalable, full-stack applications using Vue.js 3, TypeScript, .NET 5, and Azure Packt Publishing (June 16, 2021)
-6. ASP.NET Core 5 Secure Coding Cookbook: Practical recipes for tackling vulnerabilities in your ASP.NET web applications
-7. Programming ASP.NET Core (Developer Reference) 1st Edition Microsoft Press; 1st edition (May 9, 2018)
-8. Pro ASP.NET Core Identity: Under the Hood with Authentication and Authorization in ASP.NET Core 5 and 6 Applications 1st ed. Edition  Apress; 1st ed. edition (April 10, 2021)
-9.  Pro ASP.NET Core 6: Develop Cloud-Ready Web Applications Using MVC, Blazor, and Razor Pages 9th ed. Edition Apress; 9th ed. edition (February 25, 2022)  ‎ Apress; 9th ed. edition (February 25, 2022)
-10. An Atypical ASP.NET Core 6 Design Patterns Guide: A SOLID adventure into architectural principles and design patterns using .NET 6 and C# 10, 2nd Edition 2nd ed. Edition
-11. Beginning gRPC with ASP.NET Core 6: Build Applications using ASP.NET Core Razor Pages, Angular, and Best Practices in .NET 6 1st ed. Edition
-12. Creating ASP.NET Core Web Applications: Proven Approaches to Application Design and Development 1st ed. Edition Apress; 1st ed. edition (March 6, 2021)
-13. ASP.NET Core and Vue.js: Build real-world, scalable, full-stack applications using Vue.js 3, TypeScript, .NET 5, and Azure
-14. Essential Angular for ASP.NET Core MVC 3: A Practical Guide to Successfully Using Both in Your Projects 2nd ed. Edition
-15. Customizing ASP.NET Core 6.0: Learn to turn the right screws to optimize ASP.NET Core applications for better performance, 2nd Edition 2nd ed. Edition
-16. ASP.NET Core Security ‎ Manning (June 14, 2022)
-17. ASP.NET Core Razor Pages in Action Manning (October 25, 2022)
-18. PROGRAMMING ASP.NET CORE 5 MVC AND WEB API: Examples in C#  Independently published (August 17, 2021)
-19. Advanced ASP.NET Core 3 Security: Understanding Hacks, Attacks, and Vulnerabilities to Secure Your Website 1st ed. Edition
-20. ASP.NET Core 5 for Beginners: Kick-start your ASP.NET web development journey with the help of step-by-step tutorials and examples
-21. Pro ASP.NET MVC 5 (Expert's Voice in ASP.Net) 5th ed. Edition 
-22. Professional ASP.NET MVC 5 1st Edition
-23. Pro ASP.NET MVC 5 Platform 1st ed. Edition
-24. Hands-On RESTful Web Services with ASP.NET Core 3: Design production-ready, testable, and flexible RESTful APIs for web applications and microservices Packt Publishing (December 27, 2019)
-25. Essential Angular for ASP.NET Core MVC 3: A Practical Guide to Successfully Using Both in Your Projects Apress (October 28, 2019)
-26. Essential Docker for ASP.NET Core MVC Paperback – April 12, 2017 Apress (April 12, 2017)
+- ASP.NET Core 6 and Angular: Full-stack web development with ASP.NET 6 and Angular 13, 5th Edition 5th ed. Edition
+-  Murach's ASP.NET Core MVC 1st Edition
+-  ASP.NET Core 5 and React: Full-stack web development using .NET 5, React 17, and TypeScript 4, 2nd Edition 2nd ed. Edition
+-  ASP.NET Core in Action, Second Edition
+-  ASP.NET Core and Vue.js: Build real-world, scalable, full-stack applications using Vue.js 3, TypeScript, .NET 5, and Azure Packt Publishing (June 16, 2021)
+- ASP.NET Core 5 Secure Coding Cookbook: Practical recipes for tackling vulnerabilities in your ASP.NET web applications
+- Programming ASP.NET Core (Developer Reference) 1st Edition Microsoft Press; 1st edition (May 9, 2018)
+- Pro ASP.NET Core Identity: Under the Hood with Authentication and Authorization in ASP.NET Core 5 and 6 Applications 1st ed. Edition  Apress; 1st ed. edition (April 10, 2021)
+-  Pro ASP.NET Core 6: Develop Cloud-Ready Web Applications Using MVC, Blazor, and Razor Pages 9th ed. Edition Apress; 9th ed. edition (February 25, 2022)  ‎ Apress; 9th ed. edition (February 25, 2022)
+- An Atypical ASP.NET Core 6 Design Patterns Guide: A SOLID adventure into architectural principles and design patterns using .NET 6 and C# 10, 2nd Edition 2nd ed. Edition
+- Beginning gRPC with ASP.NET Core 6: Build Applications using ASP.NET Core Razor Pages, Angular, and Best Practices in .NET 6 1st ed. Edition
+- Creating ASP.NET Core Web Applications: Proven Approaches to Application Design and Development 1st ed. Edition Apress; 1st ed. edition (March 6, 2021)
+- ASP.NET Core and Vue.js: Build real-world, scalable, full-stack applications using Vue.js 3, TypeScript, .NET 5, and Azure
+- Essential Angular for ASP.NET Core MVC 3: A Practical Guide to Successfully Using Both in Your Projects 2nd ed. Edition
+- Customizing ASP.NET Core 6.0: Learn to turn the right screws to optimize ASP.NET Core applications for better performance, 2nd Edition 2nd ed. Edition
+- ASP.NET Core Security ‎ Manning (June 14, 2022)
+- ASP.NET Core Razor Pages in Action Manning (October 25, 2022)
+- PROGRAMMING ASP.NET CORE 5 MVC AND WEB API: Examples in C#  Independently published (August 17, 2021)
+- Advanced ASP.NET Core 3 Security: Understanding Hacks, Attacks, and Vulnerabilities to Secure Your Website 1st ed. Edition
+- ASP.NET Core 5 for Beginners: Kick-start your ASP.NET web development journey with the help of step-by-step tutorials and examples
+- Pro ASP.NET MVC 5 (Expert's Voice in ASP.Net) 5th ed. Edition 
+- Professional ASP.NET MVC 5 1st Edition
+- Pro ASP.NET MVC 5 Platform 1st ed. Edition
+- Hands-On RESTful Web Services with ASP.NET Core 3: Design production-ready, testable, and flexible RESTful APIs for web applications and microservices Packt Publishing (December 27, 2019)
+- Essential Angular for ASP.NET Core MVC 3: A Practical Guide to Successfully Using Both in Your Projects Apress (October 28, 2019)
+- Essential Docker for ASP.NET Core MVC Paperback – April 12, 2017 Apress (April 12, 2017)
 
-Angular
-**********************************
+# Angular
+
 - Pro Angular: Build Powerful and Dynamic Web Apps 5th ed. Edition Apress; 5th ed. edition (August 22, 2022)
 - Learning Angular: A no-nonsense beginner's guide to building web applications with Angular 10 and TypeScript, 3rd Edition Packt Publishing (September 7, 2020)
 - Angular for Enterprise-Ready Web Applications: Build and deliver production-grade and cloud-scale evergreen web apps with Angular 9 and beyond, 2nd Edition  Packt   Publishing (May 29, 2020)
 - Angular Development with TypeScript 2nd Edition ‎ Manning; 2nd edition (December 17, 2018)
 
-
-
-
-HTML, CSS, JS, JQery, Json, Ajax, Bootstrap
-**************************************************************************************************************
+# HTML, CSS, JS, JQery, Json, Ajax, Bootstrap
 
 1. Get Coding!: Learn HTML, CSS & JavaScript & Build a Website, App & Game Paperback – August 1, 2017
 2. Web Design with HTML, CSS, JavaScript and jQuery Set 1st Edition
@@ -157,16 +74,15 @@ HTML, CSS, JS, JQery, Json, Ajax, Bootstrap
 13. JavaScript: The Definitive Guide: Activate Your Web Pages (Definitive Guides) 6th Edition
 14. 15. Build fast, responsive sites with Bootstrap
 
-React
-*******************************************************
+# React
+
 1. Pro React 16 1st ed. Edition Apress; 1st ed. edition (March 20, 2019)
 2. The Road to React: Your journey to master plain yet pragmatic React.js ‎ Independently published (September 14, 2018)
 3. Learning React: Modern Patterns for Developing React Apps 2nd Edition O'Reilly Media; 2nd edition (July 7, 2020)
 4. React Explained: Your Step-by-Step Guide to React (2020 Edition)  Independently published (March 5, 2019)
 
+# SQL
 
-SQL
-*****************************************************
 - SQL QuickStart Guide: The Simplified Beginner's Guide to Managing, Analyzing, and Manipulating Data With SQL Paperback – Illustrated, November 18, 2019
 - Learning SQL: Generate, Manipulate, and Retrieve Data 3rd Edition
 - SQL Cookbook: Query Solutions and Techniques for All SQL Users 2nd Edition
@@ -188,8 +104,7 @@ SQL
 - SQL Server 2019 AlwaysOn: Supporting 24x7 Applications with Continuous Uptime 3rd ed. Edition
 - SQL Server 2019 Administrator's Guide: A definitive guide for DBAs to implement, monitor, and maintain enterprise database solutions, 2nd Edition
 
-Agile
-************************************
+# Agile
 
 - Agile Practice Guide
 - Scrum: The Art of Doing Twice the Work in Half the Time
@@ -199,22 +114,21 @@ Agile
 - Scrum Mastery (Geoff Watts' Agile Mastery Series) Paperback – April 5, 2021
 - Scrum Fieldbook Paperback
 
+# Linux
 
-Linux
-*******************
 - The Linux Command Line, 2nd Edition: A Complete Introduction Paperback – Illustrated, March 7, 2019
 - Linux Bible 10th Edition
 - Linux Pocket Guide: Essential Commands 3rd Edition
 - PowerShell Cookbook: Your Complete Guide to Scripting the Ubiquitous Object-Based Shell 4th Edition
 
-PowerShell
-*************************
+# PowerShell
+
 - Windows PowerShell in Action 3rd Edition
 - Learn PowerShell in a Month of Lunches, Fourth Edition: Covers Windows, Linux, and macOS
 - PowerShell Cookbook: Your Complete Guide to Scripting the Ubiquitous Object-Based Shell
 
-Azure
-****************************
+# Azure
+
 - Hands-On Azure for Developers: Implement rich Azure PaaS ecosystems using containers, serverless services, and storage solutions Packt Publishing (November 30, 2018)
 - Learn Microsoft Azure: Build, manage, and scale cloud applications using the Azure ecosystem Packt Publishing (December 26, 2018)
 - Hands-On Cloud Administration in Azure: Implement, monitor, and manage important Azure services and components including IaaS and PaaS  Packt Publishing (October 23, 2018)
@@ -228,15 +142,15 @@ Azure
 - Microsoft Azure Architect Technologies and Design Complete Study Guide: Exams AZ-303 and AZ-304 1st Edition Sybex; 1st edition (January 13, 2021)
 
 
-Blazor
-*******************************
+# Blazor
+- Blazor in Action
 - Web Development with Blazor: A hands-on guide for .NET developers to build interactive UIs with C#
 - Blazor WebAssembly by Example: A project-based guide to building web apps with .NET, Blazor WebAssembly, and C#
 - Microsoft Blazor: Building Web Applications in .NET 6 and Beyond 3rd ed. Edition Apress; 3rd ed. edition (December 8, 2021)
 
 
-Design Pattern, Clean Code
-**********************************
+# Design Pattern, Clean Code
+
 - Design Patterns: Elements of reusable object-oriented software (Bilingual Edition) Paperback – January 1, 2000
 - Head First Design Patterns: A Brain-Friendly Guide
 - Head First Design Patterns: Building Extensible and Maintainable Object-Oriented Software 2nd Edition 2nd Edition
@@ -253,21 +167,21 @@ Design Pattern, Clean Code
 - System Design Interview – An insider's guide
 
 
-Entity Framework Core
-************************************
+# Entity Framework Core
+
 - Practical Entity Framework Core 6: Database Access for Enterprise Applications 2nd ed. Edition
 - Entity Framework Core in Action, Second Edition 2nd Edition
 
-Kubernetes, Docker, Microservices
-**********************************************
+# Kubernetes, Docker, Microservices
+
 - Kubernetes IN ACTION
 - Mastering Kubernetes
 - Docker IN ACTION
 - Docker For Developers
 - Microservices in .NET Core
 
-Typescript, Node JS
-**********************************
+# Typescript, Node JS
+
 - Mastering TypeScript: Build enterprise-ready, modular web applications using TypeScript 4 and modern frameworks, 4th Edition 4th ed. Edition
 - Angular Development with TypeScript 2nd Edition
 - Node.js Web Development: Server-side web development made easy with Node 14 using practical examples, 5th Edition
@@ -275,8 +189,8 @@ Typescript, Node JS
 - Programming TypeScript: Making Your JavaScript Applications Scale 1st Edition O'Reilly Media; 1st edition (May 23, 2019)
 - Effective TypeScript: 62 Specific Ways to Improve Your TypeScript 1st Edition 'Reilly Media; 1st edition (November 12, 2019)
 
-Regular Expression, Dependency Injection, Unit Teasting
-**********************************************************
+# Regular Expression, Dependency Injection, Unit Teasting
+
 - O'Reilly Regular Expression 2nd ED.
 - Regular Expression Pocket Reference: Regular Expressions for Perl, Ruby, PHP, Python, C, Java and .NET (Pocket Reference (O'Reilly)) 2nd Edition
 - Dependency Injection By Manning
@@ -284,39 +198,42 @@ Regular Expression, Dependency Injection, Unit Teasting
 - Unit Testing Principles, Practices, and Patterns: Effective testing styles, patterns, and reliable automation for unit testing, mocking, and integration testing
 with examples in C# 1st Edition
 
+# Algorithm & Mathematics
 
-
-Algorithm & Mathematics
-****************************************
 - Introduction to Algorithms, 3rd Edition (The MIT Press) 3rd Edition 1,785 ratings
 - Discrete Mathematics and Its Applications 8th Edition
 - Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People 1st Edition
 - Algorithms (4th Edition) 4th Edition
 
+# Interview
 
-Interview
-************************
 - Cracking the Coding Interview: 189 Programming Questions and Solutions 6th Edition
 
-Security
-************************
+# Security
+
 - O'REILLY Web Application Security
 
-Web API
-*****************
+# Web API
+
 - O'REILLY Designing Web APIs
 - The Design of Web APIs 1st Edition
 - API Design Patterns
+- Designing Web APIs: Building APIs That Developers Love 1st Edition
+- Restful Web API Patterns and Practices Cookbook: Connecting and Orchestrating Microservices and Distributed Data 1st Edition
+- Hands-On RESTful API Design Patterns and Best Practices: Design, develop, and deploy highly adaptable, scalable, and secure RESTful web APIs
+- API Testing and Development with Postman: A practical guide to creating, testing, and managing APIs for automated software testing
 
 
-GraphQL, Domain-Driven Design
-********************
+# GraphQL, Domain-Driven Design
+
 - Learning GraphQL: Declarative Data Fetching for Modern Web Apps 1st Edition
 - Hands-On Domain-Driven Design with .NET Core: Tackling complexity in the heart of software by putting DDD principles into practice  Packt Publishing (April 30, 2019)
 
-Git
-************************
+# Git
+
 - Git for Programmers
+
+
 
 # Robust Large-Scale Projects
 (Minimum 3 Projects) for client / Company portfolio
@@ -522,3 +439,79 @@ Git
 - [Migrate your .NET web app or service to Azure App Service](https://docs.microsoft.com/en-us/dotnet/azure/migration/app-service?preserve-view=true&view=azure-dotnet)
 - [Key Azure Services for .NET developers](https://docs.microsoft.com/en-us/dotnet/azure/key-azure-services)
 - [Azure SDK for .NET overview](https://docs.microsoft.com/en-us/dotnet/azure/sdk/azure-sdk-for-dotnet)
+
+# Top Microsoft.Net Blog
+* [Jon skeet's Coding Blog](https://codeblog.jonskeet.uk/)
+* [Wake Up And Code!](https://wakeupandcode.com/aspnetcore/)
+* [Andrew Lock](https://andrewlock.net/)
+* [Rob](https://robrich.org/)
+* [Scott](https://www.hanselman.com/)
+* [Tim][(https://www.iamtimcorey.com/)
+* [Rico Suter](http://rsuter.com)
+* [devblog dotnet](https://devblogs.microsoft.com/)
+* [Stephanie](https://stephaniestimac.com/)
+* [James](https://montemagno.com/)
+* [Dody Gunawinata](https://silverkeytech.com/)
+* [Isidora Katanic ](https://www.isidorakatanic.com/)
+* [SOFTWARE ENGINEERING](https://damienbod.com/)
+* [Blazor School](https://blazorschool.com/)
+* http://www.binaryintellect.net/default.aspx
+
+
+# Microsoft.Net Book Publication House
+- ` https://www.oreilly.com/`
+- ` https://subscription.packtpub.com/`
+- ` https://www.manning.com/`
+- ` https://www.murach.com/`
+- ` https://www.microsoftpressstore.com/`
+- ` https://www.apress.com/gp`
+- ` https://www.pearson.com/`
+- ` https://mitpress.mit.edu/`
+- ` https://www.dummies.com/`
+-  `https://www.wiley.com/en-us/Sybex`
+-  `https://p2p.wrox.com/`
+
+# DocsLearnExamCertified
+- Microsoft technical documentation https://docs.microsoft.com/en-us/
+- WELCOME TO MICROSOFT LEARN, Discover your path https://docs.microsoft.com/en-us/learn/
+- Microsoft technical documentation https://docs.microsoft.com/en-us/learn/certifications/browse/
+- Microsoft Certified: Azure Fundamentals, https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/
+- Get started with Azure, https://azure.microsoft.com/en-us/get-started/#explore-azure
+
+# MicrosoftEvents
+https://www.microsoft.com/en-us/events/
+https://events.microsoft.com/en-us/Allevents/?language=English
+[Microsoft Inspire](https://myinspire.microsoft.com/home)
+SQLBits?
+We are the largest data platform conference in Europe probably the world! We run an annually and give you an extreme deep dive into all things data from Power BI to Postgres, AWS to Azure, Big Data and of course SQL Server.
+https://sqlbits.com/
+RED HAT SUMMIT
+https://www.redhat.com/en/summit
+
+### 2022 tech conferences and events to add to your calendar
+
+https://www.techrepublic.com/article/2022-tech-conferences-and-events-to-add-to-your-calendar/
+https://www.bizzabo.com/blog/technology-events
+https://www.alltechconferences.com/
+https://www.techradar.com/news/top-tech-conferences-the-ultimate-tech-events-and-show-guide
+https://www.bmc.com/blogs/tech-it-conferences/
+
+### Microsoft Azure + AI Conference
+
+*We invite you to join your favorite Microsoft leaders, including EVP Scott Guthrie, CVP Rohan Kumar, and CVP Charles Lamanna, as they share their excitement about the future of Microsoft technologies. Their keynotes set the stage for this great learning event. The Microsoft engineers presenting will take a deep dive with you into the many new technology releases, including .NET Maui, .NET 6, C# 10, Visual Studio 2022, Azure, and so much more.*
+```Link: https://www.azureaiconf.com/
+https://m365conf.com/#!/
+[SQL Server & Azure SQL Conference](https://www.devintersection.com/#!/?track=sql)
+https://www.devintersection.com/#!/?track=dev
+Live: https://vimeo.com/user127439836```
+
+# CodeMag
+* [2021 - Vol. 18 - Issue 1 - .NET 6.0](https://www.codemag.com/Magazine/Issue/DotNet6)
+* [2021 - November/December](https://www.codemag.com/Magazine/Issue/NovD)
+# Azure DevOps, Docker, and Angular
+* https://www.codemag.com/Article/1901021/Azure-DevOps-Docker-and-Angular
+* https://www.codemag.com/Article/2109051/Deploying-an-ASP.NET-5-App-to-Azure-Kubernetes-Service-with-Azure-DevOps-Starter 
+* https://www.codemag.com/Article/2103061/Introduction-to-Containerization-Using-Docker
+* https://www.codemag.com/Article/2010012/The-Journey-to-One-.NET
+
+
