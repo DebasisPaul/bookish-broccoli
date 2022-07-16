@@ -149,7 +149,7 @@
 - Microsoft Blazor: Building Web Applications in .NET 6 and Beyond 3rd ed. Edition Apress; 3rd ed. edition (December 8, 2021)
 
 
-# Design Pattern, Clean Code
+# Design Pattern, Clean Code, DRY
 
 - Design Patterns: Elements of reusable object-oriented software (Bilingual Edition) Paperback – January 1, 2000
 - Head First Design Patterns: A Brain-Friendly Guide
