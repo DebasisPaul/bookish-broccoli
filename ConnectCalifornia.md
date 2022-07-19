@@ -1,15 +1,25 @@
 # Microsoft .Net People To Contact
-Email Done
-- Bill gates https://www.gatesnotes.com/ https://www.gatesfoundation.org/ email done 4.28.2022
-- `Scott Hanselman .Net Community Partner Manager` - Email do to scott@hanselman.com @4.27.2022
-- Anders Hagelsberg Technical fellow & C#, Typescript Creator  andersh@microsoft.com email done
+
+
+# Reconnect .Net People
+- Beth Massi Director Product Marketing for .NET at Microsoft. Marketing Director for .NET Platform and Languages (C#, F#, VB). Long-time community champion. .NET Foundation board member. bethma@microsoft.com
+- `Scott Hanselman .Net Community Partner Manager` - Email do to scott@hanselman.com 
+- Anders Hagelsberg Technical fellow & C#, Typescript Creator  andersh@microsoft.com 
 - Jon Skeet .Net For Google Cloud Platform & Convenor ECMA C# Standard Committee skeet@pobox.com
-- Bill Wagner Microsoft Docs Manager For C#, F#, VB bill.w.wagner@outlook.com wiwagn@microsoft.com http://thebillwagner.com/Home/About https://www.oreilly.com/pub/au/1448 http://www.htbox.org/ Email Done
+- Bill Wagner Microsoft Docs Manager For C#, F#, VB 
+bill.w.wagner@outlook.com wiwagn@microsoft.com http://thebillwagner.com/Home/About https://www.oreilly.com/pub/au/1448 http://www.htbox.org/
+- Daniel Roth Principal Program Manager, ASP.NET  daroth@microsoft.com
+- Kathleen Dolard PM .Net Team Language & SDK
+-  CHRISTINA WARREN filmgirl@github.com
+-  Javier Lozano javier@lozanotek.com (.Net Foundation Director)
+-  Shawn Wildermuth shawn@wildermuth.com (.Net Foundation Director)
+
+
+*Email Done*
+
+- Bill gates https://www.gatesnotes.com/ https://www.gatesfoundation.org/ email done 4.28.2022
 - Jayme singleton Proud Business Operations Program Manager at Microsoft for the global Xamarin & .NET Developer communities. j.rosesingleton@gmail.com jayme.singleton@xamarin.com
 - Seth Juarez, Principal Cloud Advocate email done
-- Daniel Roth Principal Program Manager, ASP.NET  daroth@microsoft.com
-- Jon Galloway, Program manager .Net Community Team jogallow@microsoft.com
-- Kathleen Dolard PM .Net Team Language & SDK
 - Rich Lander PM .Net Team
 - Jan Kotas PM .Net Team Runtime
 - Immo Landwerth PM .Net Team
@@ -17,17 +27,14 @@ Email Done
 - Elahn Danee (@CodeThLightning) 	elahndaneecodes@gmail.com
 - Mika Dumont Program Manager .Net Team
 - Damian Edwards,Principal PM Architect, .NET Program Management damian@damianedwards.com
- `Tim Corey, Microsoft MVP `
+-  `Tim Corey, Microsoft MVP `
 -  Tim Laverty (@timlaverty),Senior Program Manager - .NET Data, .NET
 -  Jeremy Likness Senior Program Manager - .NET Data, .NET
 -  Ashley Rogers, https://www.linkedin.com/in/ashley-rogers-b4034970/ Email Done
 -  Shay Rozansky, Senior Program Manager - .NET Data, .NET
 - David Pine email done
-- Stephanie Stimac Developer Advocate & DevEx PM steph.stimac@gmail.com
 - Dona Sarkar Director of Tech https://donasarkar.com/contact-me
-- CHRISTINA WARREN filmgirl@github.com
 - Jacqueline Widdis Overcomer of a HUGE Full-time Employment Gap | Helping Others Do the Same, But Faster | PM @ Microsoft jacqueline@witfulthinking.com
-- `DeeDee Walsh VP Marketing and Business Development at Mobilize.Net, Former Director at Microsoft ddskier@msn.com`
 - Andrew Lock  andrewlock.net@gmail.com.
 - David Ortinau Principal Program Manager, .NET MAUI at Microsoft david.ortinau@microsoft.com dave@davidortinau.com
 - SAFIA ABDALLA build http://ASP.NET at @microsoft safia@safia.rocks
@@ -37,18 +44,15 @@ Email Done
 - Layla #WomenOfDotNet .NET Developer Advocate at VMware https://docs.google.com/forms/d/e/1FAIpQLScj9TuqRBOblAsp02B_r9uvNVSaUfKp5nX7hbV2RjYtqBjAkQ/viewform
 - David McCarter (Microsoft MVP) https://dotnettips.wordpress.com/about/
 - Cam Soper .NET content developer @docsmsft. cam.soper@microsoft.com
-- Beth Massi Director Product Marketing for .NET at Microsoft. Marketing Director for .NET Platform and Languages (C#, F#, VB). Long-time community champion. .NET Foundation board member. bethma@microsoft.com
-- Anjana Sofia Vakil Language technologist and software developer anjanavakil@gmail.com https://vakila.github.io/
-- Shruti Kapoor shruti.kapoor08@gmail.com Staff Engineer Paypal
 
-Not Email
+*Not Email*
 - Eilon Lipton Building cool things with .NET at Microsoft.
 - gillcleeren Microsoft Regional Director and MVP
 - Warren Buffett Chairman and CEO of Berkshire Hathaway
 - Dmitry Lyalin. Formerly PM at Microsoft | .NET/XAML 🔥 Hot Reload product owner & .NET MAUI.
 - Maria Naggaga #BlacklivesMatter Principal Product Manager at Microsoft .NET Interactive and Minimal APIs 
-- 
-Email Not found
+
+*Email Not found*
 - Scott Guthrie .Net & EVP Cloud & AI Twitter & Linkedin 
 - Scott Hunter .Net Director Twitter
 - David Fowler .Net Principal Architect twitter, github, linkedin
@@ -57,7 +61,6 @@ Email Not found
 - Kevin Scott Chief Technology Officer
 - James Montemagno Principal Lead Program Manager, .NET Community
 - Kendra Havens, Program Manager .Net Visual Studio Team 
-- Jeff Fritz, Program Manager .Net Community Team
 - Sébastien Ros (@sebastienros)  Program manager .Net Community Team
 - Dan Zhu, Program Manager .Net Website
 -  Mark Downie (@poppastring) Program Manager Asp.Net Team
@@ -71,16 +74,55 @@ Email Not found
 
 # https://dotnetfoundation.org/about/board-of-directors
 Frank Arkhurst Odoom
-Javier Lozano javier@lozanotek.com
 Mattias Karlsson NO EMAIL
 Rob Prouse
-Shawn Wildermuth shawn@wildermuth.com
 
-# .Net Conf 2021 Speakers List
+
 
 # Microsoft RD & MVP TO CONNECT
 
 # https://rd.microsoft.com/en-us/
+
+# RD & MVP Reconnect
+
+*Toi B. Wright
+United States
+TX Biography
+Toi B. Wright is an independent consultant who has been working as a software developer for over 25 years. She has a BS in Computer Science and Engineering from the Massachusetts Institute of Technology and an MBA from Carnegie Mellon University. She has been a Microsoft MVP in ASP/ASP.NET since 2005. She is also an ASPInsider.
+Ms. Wright is the author of 'Blazor WebAssembly by Example: A project-based guide to building web apps with .NET, Blazor WebAssembly, and C#'. She is also the author of the WROX book 'ASP.NET 4 24-Hour Trainer'. She wrote the MVC modules for Course 10264A - Developing Web Applications with Microsoft Visual Studio 2010 and all of the modules for Course 10553A - Fundamentals of XAML and Microsoft Expression Blend. 
+Ms Wright was the organizer of the original We Are Microsoft - Charity Challenge Weekend, www.wearemicrosoft.com. She is the Founder and President of the Dallas ASP.NET User Group, www.dallasasp.net. She has been involved with various user groups around Dallas since 1994 and has been running one or more user groups since 2000. She most recently helped organize the new Geeks in Pink group. This group supports women in technology.  toi@onestopdesigns.com *
+
+*Julie Lerman United States,VT
+.NET / Software Architecture / Domain-Driven Design https://about.me/julielerman http://thedatafarm.com/
+MVP, MS Regional Director, Docker Captain, Software Coach, DDD, Entity Framework Certifications
+MCP, Recognitions Microsoft Regional Director https://www.meetup.com/members/40380122/ about.me/julielerman thedatafarm.com/blog*
+
+*Elemar Rodrigues Severo Júnior
+.NET / Cloud Computing / Software Architecture contato@elemarjr.com elemarjr@gmail.com elemarjr.com https://eximia.co/elemarjr/*
+
+*Eduardo Pires 
+.NET / Architecture / Cloud falecom@eduardopires.net.br contato@eduardopires.net.br https://desenvolvedor.io/*
+
+*Jay Harris
+Web Applications / Consulting / GiveCamp jay@aranasoft.com https://jay.aranasoft.com/ https://www.aranasoft.com/ https://givecamp.org/*
+
+*Esteban Garcia
+DevOps / Azure / .NET esteban@outlook.com http://www.almguide.com/ https://www.meetup.com/onetug/?_cookie-check=xlHuhibaS8tlZof6*
+
+*Christian Buckley Recognitions
+Top 25 SharePoint Influencers 2018 (#1)
+Microsoft Regional Director
+Widest Reach - US West MVPs
+Top 1000 Tech Bloggers (#25)
+Top 25 SharePoint Influencers 2016 (#9)
+Collaboration / Blockchain / MarTech https://linktr.ee/buckleyplanet https://www.buckleyplanet.com/ https://www.avepoint.com/ https://mvp.microsoft.com/en-us/PublicProfile/4038259 	christianbuckley@gmail.com*
+
+
+
+
+
+
+
 
 - Todd Fine
 Azure Cloud / Data and AI / App Modernization toddf@wintellect.com toddf1234@outlook.com
@@ -118,14 +160,6 @@ Machine Learning / IoT / Synapse 	lino@thetrainingboss.com https://thetrainingbo
 Lynn Langit
 Cloud Computing / Bioinformatics / Technical Courses https://lynnlangit.com/
 
-Julie Lerman United States,VT
-.NET / Software Architecture / Domain-Driven Design https://about.me/julielerman http://thedatafarm.com/
-MVP, MS Regional Director, Docker Captain, Software Coach, DDD, Entity Framework Certifications
-MCP, Recognitions Microsoft Regional Director https://www.meetup.com/members/40380122/ about.me/julielerman thedatafarm.com/blog 
-
-Jay Harris
-Web Applications / Consulting / GiveCamp jay@aranasoft.com https://jay.aranasoft.com/ https://www.aranasoft.com/ https://givecamp.org/
-
 Joe Homnick
 Business Intelligence/ Data Science/ Business Processes joe@homnick.com https://www.homnick.com/ https://about.me/joehomnick
 
@@ -138,20 +172,12 @@ Business Intelligence / Microsoft 365 / Digital Transformation jasonhimmelstein@
 Greg Levenhagen email sent by web site & email idebasispaul@gmail.com
 Entrepreneurship / Innovation https://that.us/that-conference/ https://greglevenhagen.me/
 
-Esteban Garcia
-DevOps / Azure / .NET esteban@outlook.com http://www.almguide.com/ https://www.meetup.com/onetug/?_cookie-check=xlHuhibaS8tlZof6 
 
 Eric D. Boyd
 cloud / Coffee https://www.ericboyd.com/ github@ericdboyd.com http://responsivex.com/
 
 Eric Overfield
 Technology / Cloud / Innovation eoverfield@pixelmill.com  https://pixelmill.com/ https://blog.pixelmill.com/ericoverfield ericoverfield.com https://www.meetup.com/members/93562742/
-
-Elemar Rodrigues Severo Júnior
-.NET / Cloud Computing / Software Architecture contato@elemarjr.com elemarjr@gmail.com elemarjr.com https://eximia.co/elemarjr/
-
-Eduardo Pires 
-.NET / Architecture / Cloud falecom@eduardopires.net.br contato@eduardopires.net.br https://desenvolvedor.io/
 
 David Yack
 Business Solutions / Azure https://blog.davidyack.com/ http://www.thecrmbook.com/ email sent by web site & email idebasispaul@gmail.com
@@ -165,13 +191,6 @@ Azure / cloud https://www.prattmiller.com/markets/mobility https://danthyer.me/ 
 Chris Yates
 Big Data / Cloud / Data Platform https://chrisyatessql.com/ 
 
-Christian Buckley Recognitions
-Top 25 SharePoint Influencers 2018 (#1)
-Microsoft Regional Director
-Widest Reach - US West MVPs
-Top 1000 Tech Bloggers (#25)
-Top 25 SharePoint Influencers 2016 (#9)
-Collaboration / Blockchain / MarTech https://linktr.ee/buckleyplanet https://www.buckleyplanet.com/ https://www.avepoint.com/ https://mvp.microsoft.com/en-us/PublicProfile/4038259 	christianbuckley@gmail.com
 
 Chander Dhall
 Cloud Computing / Big Data & AI / Web Development https://cazton.com/  	info@cazton.com https://www.meetup.com/members/20234501/
@@ -182,19 +201,22 @@ Design / Music https://billyhollis.me/ http://www.nextver.com/site/ messeged by 
 Andrew J. Brust
 Analytics / Big Data / AI https://about.me/andrewbrust andrew.brust@bluebadgeinsights.com https://www.tallan.com/
 
-Andreas Erben
-AI / Mixed Reality / Cloud 
-andreaserben@hotmail.com andreaserben@yahoo.com andreas.erben@daenet.com daenet.com
-
 Adam Jorgensen
 Entrepreneurship / Photography https://3cloudsolutions.com/
 
 Adnan Masood
 AI & Machine Learning / Explainable & Interpretable AI / Strategy & Governance http://blog.adnanmasood.com/ adnan.masood@owasp.org adnanmasood@gmail.com
 
-# https://mvp.microsoft.com/MvpSearch
 
-# MVP TEAM
+
+
+
+
+
+
+
+# MVP TEAM   https://mvp.microsoft.com/MvpSearch
+
 1. Betsy Weber
 Community Program Manager – Manitoba and Ontario, Canada and Central US
 Based in East Lansing, MI Betsy.Weber@microsoft.com
@@ -214,6 +236,72 @@ Based in Rio De Janeiro, Brazil glauterj@microsoft.com
 5. Rochelle Sonnenberg
 Community Program Manager – Quebec, New Brunswick, Newfoundland and Labrador, Nova Scotia, Prince Edward Island, Canada and Eastern US
 Based in New York, NY Rochelle.Sonnenberg@microsoft.com
+
+
+
+
+
+
+
+
+# MVP RECONNECT
+*Chander Dhall
+United States
+CEO of Cazton, Microsoft Regional Director, Google Developer Expert, Microsoft MVP, Linkedin Learning Author, Azure Advisor, ASP.NET Insider, Speaker at International Tech Conferences.
+Biography
+Chander Dhall, CEO of Cazton, is an eleven-time awarded Microsoft MVP, Google Developer Expert and world-renowned technology leader in architecting and implementing solutions. He's not only rescued software development teams, but also implemented successful projects under tight deadlines and difficult business constraints. His company has a proven track record of not just saving the client millions of dollars, but also providing an expedited delivery time. His clients include Thomson Reuters, AT&T, Dell, Bank of America, Thomson Reuters, NBC Universal, American Express, Fandango, LinkedIn, VMware and many other Fortune 500, mid-size and startup companies.
+As an Azure Advisor, ASP.NET Insider, Web API Advisor, Cosmos DB Advisor, and an MVP for Visual Studio and Development Technologies, Chander has insight into new releases on technologies used by millions of developers. His critical advice, impeccable vision, futuristic strategy backed with creating and establishing best practices in the industry are some of the reasons for his unparalleled success. He has a breadth of experience in multiple different technologies: Cloud (Azure, AWS and GCP), Full-Stack Web Development (.NET Core, Java, Angular, Blazor, React and Node.js) and Big Data and AI (TensorFlow, Spark, Hadoop, Ignite etc.).
+At the same time, he's a voracious and highly-respected speaker. He has keynoted and delivered hands-on workshops at top conferences including Microsoft TechEd, Google DevFest, Azure Dev Days, NDC London, DevSum Sweden, BuildStuff, Lithuania, MVP Mix (Toronto, San Francisco and Dallas). He has been invited as a technical judge and mentor at top universities like MIT, Harvard and UT Austin. He is the author of two books: Scalability Patterns and Building Single Page Application Using ASP.NET Core & Angular. He has utilized his amazing business sense having started Cazton with zero funding and turned it into a multi-million-dollar company in less than two years. Award Categories
+Developer Technologies
+First year awarded:
+2011
+Number of MVP Awards:
+11
+https://www.meetup.com/members/20234501/ https://www.cazton.com/blogs/technical  info@cazton.com*
+
+*David McCarter ( David McCarter )
+United States
+San Diego, CA
+Microsoft MVP, C# Corner MVP, Software Architect, Speaker, Trainer, Inventor, Mentor davidmccarter@live.com
+Recognitions
+C# Corner MVP - Featured Writer
+National University Computer Advisory Board
+INETA Community Excellence Award
+Patented Inventor
+.NET Professional Certificate Review Board dotnetdave@live.com http://dotnettips.com https://dotnettips.wordpress.com/ https://dotnetconference.com/  https://sqlsaturday.com/ https://www.c-sharpcorner.com/live/rockin-the-code-world-with-dotnetdave https://www.amazon.com/David-McCarter/e/B001K7YCRO*
+
+*Chad Green
+United States
+Louisville, KY
+Director of IT Architecture at Glennis Solutions; Husband & Father; Microsoft MVP; Speaker; Organizer of @CodePaLOUsa, @LouDotNet, @LouTechLeaders, @LouTechLadies chadgreen@chadgreen.com https://www.chadgreen.com/ https://www.meetup.com/members/10054922/ https://tdevconf.com/ https://twitchtracker.com/talelearncode/streams/44495132413*
+
+*Jeffrey Palermo
+United States
+Spicewood, TX
+Chief Architect of Clear Measure, Inc. Gold Partner software architecture company. Empowering developers. Host of the Azure DevOps Podcast. Conference speaker. Latest book: .NET DevOps for Azure 
+Certifications
+MCSD.Net, MCAD.Net, Certified Scrummaster, Professional Scrum Developer
+Recognitions
+MS Ignite Community Reporter
+Inc. 5000 Award
+Austin Best CEOs Finalist
+Inc 5000 Award
+Austin Under 40 Winner - Technology 2017 	sales@clear-measure.com https://clearmeasure.com/ https://stackoverflow.com/users/233843/jeffrey-palermo jeffrey@clear-measure.com https://jeffreypalermo.com/ https://www.codemag.com/People/Bio/Jeffrey.Palermo https://www.meetup.com/members/98861682/*
+
+*Patrick Desjardins
+LA, United States
+Asp.Net MVC, Entity Framework, Web Development using Javascript, Jquery, Html5 and CSS. He was a Microsoft Most Valuable Professional (MVP) in Asp.Net for two consecutive years, 2013 and 2014.  mrdesjardins@gmail.com Certifications
+70-515, 70-513, 70-516, 70-519, 70-480
+Recognitions
+70-480 : MS Programming in Html5 with Javascript and CSS3 Specialist
+70-516 : MCTS .Net Framework 4, Accessing Data
+70-513 : MCTS .Net Framework 4, WCF
+MCPD Microsoft Certified Professional Developer
+70-515 : MCTS .Net Framework 4, Web Application https://patrickdesjardins.com/blog https://www.amazon.com/Holistic-TypeScript-Version-4-0/dp/B08DSSCLYW mrdesjardins@gmail.com*
+
+
+
+
 
 # MVP
 
@@ -292,24 +380,6 @@ United States
 NH
 Focus on Xamarin Technologies https://www.granitestatecodecamp.org/ https://www.dotnetconf.net/ https://mvp.microsoft.com/summit https://www.meetup.com/members/82361342/ https://www.yammer.com/microsoftcommunityinfluencers/
 
-Chad Green
-United States
-Louisville, KY
-Director of IT Architecture at Glennis Solutions; Husband & Father; Microsoft MVP; Speaker; Organizer of @CodePaLOUsa, @LouDotNet, @LouTechLeaders, @LouTechLadies chadgreen@chadgreen.com https://www.chadgreen.com/ https://www.meetup.com/members/10054922/ https://tdevconf.com/ https://twitchtracker.com/talelearncode/streams/44495132413
-
-Chander Dhall
-United States
-CEO of Cazton, Microsoft Regional Director, Google Developer Expert, Microsoft MVP, Linkedin Learning Author, Azure Advisor, ASP.NET Insider, Speaker at International Tech Conferences.
-Biography
-Chander Dhall, CEO of Cazton, is an eleven-time awarded Microsoft MVP, Google Developer Expert and world-renowned technology leader in architecting and implementing solutions. He's not only rescued software development teams, but also implemented successful projects under tight deadlines and difficult business constraints. His company has a proven track record of not just saving the client millions of dollars, but also providing an expedited delivery time. His clients include Thomson Reuters, AT&T, Dell, Bank of America, Thomson Reuters, NBC Universal, American Express, Fandango, LinkedIn, VMware and many other Fortune 500, mid-size and startup companies.
-As an Azure Advisor, ASP.NET Insider, Web API Advisor, Cosmos DB Advisor, and an MVP for Visual Studio and Development Technologies, Chander has insight into new releases on technologies used by millions of developers. His critical advice, impeccable vision, futuristic strategy backed with creating and establishing best practices in the industry are some of the reasons for his unparalleled success. He has a breadth of experience in multiple different technologies: Cloud (Azure, AWS and GCP), Full-Stack Web Development (.NET Core, Java, Angular, Blazor, React and Node.js) and Big Data and AI (TensorFlow, Spark, Hadoop, Ignite etc.).
-At the same time, he's a voracious and highly-respected speaker. He has keynoted and delivered hands-on workshops at top conferences including Microsoft TechEd, Google DevFest, Azure Dev Days, NDC London, DevSum Sweden, BuildStuff, Lithuania, MVP Mix (Toronto, San Francisco and Dallas). He has been invited as a technical judge and mentor at top universities like MIT, Harvard and UT Austin. He is the author of two books: Scalability Patterns and Building Single Page Application Using ASP.NET Core & Angular. He has utilized his amazing business sense having started Cazton with zero funding and turned it into a multi-million-dollar company in less than two years. Award Categories
-Developer Technologies
-First year awarded:
-2011
-Number of MVP Awards:
-11
-https://www.meetup.com/members/20234501/ https://www.cazton.com/blogs/technical  info@cazton.com
 
 Chris DeMars
 United States
@@ -369,16 +439,6 @@ United States
 NC
 Mvp working on OmniSharp & ASP.NET 5 david.driscoll@gmail.com david.driscoll@gmail.com http://david-driscoll.github.io https://www.daviddriscoll.me/ http://www.omnisharp.net/ https://www.meetup.com/members/36639592/ https://codecamp.org/ 
 
-David McCarter ( David McCarter )
-United States
-San Diego, CA
-Microsoft MVP, C# Corner MVP, Software Architect, Speaker, Trainer, Inventor, Mentor davidmccarter@live.com
-Recognitions
-C# Corner MVP - Featured Writer
-National University Computer Advisory Board
-INETA Community Excellence Award
-Patented Inventor
-.NET Professional Certificate Review Board dotnetdave@live.com http://dotnettips.com https://dotnettips.wordpress.com/ https://dotnetconference.com/  https://sqlsaturday.com/ https://www.c-sharpcorner.com/live/rockin-the-code-world-with-dotnetdave https://www.amazon.com/David-McCarter/e/B001K7YCRO
 
 David Neal
 United States
@@ -437,11 +497,6 @@ Eric Potter
 United States
 I am a Microsoft MVP for Developer Tools and Technologies. and a Principal Architect for Core BTS, working primarily in the .Net platform. I have been developing high quality custom software solutions since 2001. Core BTS http://humbletoolsmith.com/  https://www.devspaceconf.com/speakers.html https://link.springer.com/book/10.1007/978-1-4842-5352-6
 
-Esteban Garcia
-United States
-Winter Park, FL
-Focused on DevOps and Azure  Certifications
-MCSD:ALM, ScrumMaster esteban@outlook.com  http://www.almguide.com/ 
 
 Frank Krueger
 United States
@@ -479,18 +534,6 @@ United States
 Town and Country, MO
 Community Advocate. Technical Advisor. Problem Solver. https://www.slideshare.net/jeffreystrauss  https://speakerdeck.com/jeffreystrauss https://headspring.com/  jeffrey.s.strauss@gmail.com
 
-Jeffrey Palermo
-United States
-Spicewood, TX
-Chief Architect of Clear Measure, Inc. Gold Partner software architecture company. Empowering developers. Host of the Azure DevOps Podcast. Conference speaker. Latest book: .NET DevOps for Azure 
-Certifications
-MCSD.Net, MCAD.Net, Certified Scrummaster, Professional Scrum Developer
-Recognitions
-MS Ignite Community Reporter
-Inc. 5000 Award
-Austin Best CEOs Finalist
-Inc 5000 Award
-Austin Under 40 Winner - Technology 2017 	sales@clear-measure.com https://clearmeasure.com/ https://stackoverflow.com/users/233843/jeffrey-palermo jeffrey@clear-measure.com https://jeffreypalermo.com/ https://www.codemag.com/People/Bio/Jeffrey.Palermo https://www.meetup.com/members/98861682/
 
 Jeremy Clark
 United States
@@ -670,17 +713,6 @@ MCPS: Microsoft Certified Professional
 MCSD1: Microsoft .NET
 MCAD: Microsoft .NET https://www.og-bit.com/ https://www.meetup.com/members/199153833/ https://www.ozkary.com/ services@og-bit.com
 
-Patrick Desjardins
-LA, United States
-Asp.Net MVC, Entity Framework, Web Development using Javascript, Jquery, Html5 and CSS. He was a Microsoft Most Valuable Professional (MVP) in Asp.Net for two consecutive years, 2013 and 2014.  mrdesjardins@gmail.com Certifications
-70-515, 70-513, 70-516, 70-519, 70-480
-Recognitions
-70-480 : MS Programming in Html5 with Javascript and CSS3 Specialist
-70-516 : MCTS .Net Framework 4, Accessing Data
-70-513 : MCTS .Net Framework 4, WCF
-MCPD Microsoft Certified Professional Developer
-70-515 : MCTS .Net Framework 4, Web Application https://patrickdesjardins.com/blog https://www.amazon.com/Holistic-TypeScript-Version-4-0/dp/B08DSSCLYW mrdesjardins@gmail.com
-
 Phil Haack
 United States
 Bellevue, WA
@@ -798,12 +830,6 @@ A software developer who learned the hard way and now teaches others the easy wa
 I started programming professionally before I graduated high school. I immediately loved it. The only problem was that no one really taught me how to grow my skills. I spent years going down blind alleys and taking the wrong fork in the road in my quest to become a better software developer. Over time I finally figured it out, but even then I had gaps in my knowledge. When I finally started to get a good grasp on what software development was all about, I began to help others avoid my mistakes. From that came my YouTube channel (https://youtube.com/IAmTimCorey) and my training site (https://IAmTimCorey.com). I primarily teach C# but I also cover SQL and the web technologies (HTML/CSS/JavaScript).  tim@iamtimcorey.com Certifications
 PMP,Intel Software Innovator  https://www.csharpmastercourse.com/ https://stackoverflow.com/users/733798/iamtimcorey 
 
-Toi B. Wright
-United States
-TX Biography
-Toi B. Wright is an independent consultant who has been working as a software developer for over 25 years. She has a BS in Computer Science and Engineering from the Massachusetts Institute of Technology and an MBA from Carnegie Mellon University. She has been a Microsoft MVP in ASP/ASP.NET since 2005. She is also an ASPInsider.
-Ms. Wright is the author of 'Blazor WebAssembly by Example: A project-based guide to building web apps with .NET, Blazor WebAssembly, and C#'. She is also the author of the WROX book 'ASP.NET 4 24-Hour Trainer'. She wrote the MVC modules for Course 10264A - Developing Web Applications with Microsoft Visual Studio 2010 and all of the modules for Course 10553A - Fundamentals of XAML and Microsoft Expression Blend. 
-Ms Wright was the organizer of the original We Are Microsoft - Charity Challenge Weekend, www.wearemicrosoft.com. She is the Founder and President of the Dallas ASP.NET User Group, www.dallasasp.net. She has been involved with various user groups around Dallas since 1994 and has been running one or more user groups since 2000. She most recently helped organize the new Geeks in Pink group. This group supports women in technology.  toi@onestopdesigns.com 
 
 Vincent Maverick Sanchez Durano
 United States
@@ -817,6 +843,28 @@ Software Engineer, Microsoft MVP, C# Corner MVP, CodeProject MVP, MVA, MVE, DZon
 Vladimir Khorikov
 United States
 Oakton, VA vladimir.khorikov@gmail.com https://enterprisecraftsmanship.com/ 
+
+
+
+# Toxic People
+
+*Esteban Garcia
+United States
+Winter Park, FL
+Focused on DevOps and Azure  Certifications
+MCSD:ALM, ScrumMaster esteban@outlook.com  http://www.almguide.com/ *
+
+*`DeeDee Walsh VP Marketing and Business Development at Mobilize.Net, Former Director at Microsoft ddskier@msn.com`*
+
+*Andreas Erben
+AI / Mixed Reality / Cloud 
+andreaserben@hotmail.com andreaserben@yahoo.com andreas.erben@daenet.com daenet.com*
+
+* Stephanie Stimac Developer Advocate & DevEx PM steph.stimac@gmail.com
+* Jeff Fritz, Program Manager .Net Community Team
+* Jon Galloway, Program manager .Net Community Team jogallow@microsoft.com
+
+
 
 
 # Venture Capital
@@ -837,24 +885,36 @@ Oakton, VA vladimir.khorikov@gmail.com https://enterprisecraftsmanship.com/
 
 
 
+
+
 # Richest People
 https://www.forbes.com/billionaires/
+
+
 
 
 # Charity Foundation
 https://en.wikipedia.org/wiki/List_of_wealthiest_charitable_foundations
 
 
+
+
 # Bellevue & Redmond, Washington, United States "Regions Greater Seattle Area, West Coast, Western US" based Technology Companies
 https://www.indeed.com/?from=gnav-homepage
+
+
 
 
 # Silicon valley Based Technology Company
 https://www.indeed.com/?from=gnav-homepage
 
 
+
+
 # Manhattan Beach, California based IT Company
 https://www.indeed.com/?from=gnav-homepage
+
+
 
 
 # .Net MeetUP & Speakers
@@ -862,6 +922,10 @@ https://dotnetfoundation.org/community/meetups
 https://dotnetfoundation.org/community/speakers
 
 
+# .Net Conf 2021 Speakers List
+
 # twitter, linkedin, facebook, github, Instagram
+
+
 
 # MSTeams & MS365 Community 
