@@ -1,7 +1,7 @@
 # Microsoft .Net People To Contact
 
 
-# Reconnect .Net People
+# Reconnect .Net People [email done]
 - Beth Massi Director Product Marketing for .NET at Microsoft. Marketing Director for .NET Platform and Languages (C#, F#, VB). Long-time community champion. .NET Foundation board member. bethma@microsoft.com
 - `Scott Hanselman .Net Community Partner Manager` - Email do to scott@hanselman.com 
 - Anders Hagelsberg Technical fellow & C#, Typescript Creator  andersh@microsoft.com 
@@ -9,7 +9,6 @@
 - Bill Wagner Microsoft Docs Manager For C#, F#, VB 
 bill.w.wagner@outlook.com wiwagn@microsoft.com http://thebillwagner.com/Home/About https://www.oreilly.com/pub/au/1448 http://www.htbox.org/
 - Daniel Roth Principal Program Manager, ASP.NET  daroth@microsoft.com
-- Kathleen Dolard PM .Net Team Language & SDK
 -  CHRISTINA WARREN filmgirl@github.com
 -  Javier Lozano javier@lozanotek.com (.Net Foundation Director)
 -  Shawn Wildermuth shawn@wildermuth.com (.Net Foundation Director)
@@ -70,6 +69,7 @@ bill.w.wagner@outlook.com wiwagn@microsoft.com http://thebillwagner.com/Home/Abo
 -  Diego Vega (@divega) Senior Program Manager - .NET Data, .NET
 -  Julie Lerman Senior Program Manager - .NET Data, .NET
 -  Jeffrey Snover Technical Fellow at Microsoft & the inventor of Windows PowerShell, an object-based distributed automation engine, scripting language, and CLI. jsnover15@hotmail.com
+-  - Kathleen Dolard PM .Net Team Language & SDK
 
 
 # https://dotnetfoundation.org/about/board-of-directors
@@ -83,11 +83,11 @@ Rob Prouse
 
 # https://rd.microsoft.com/en-us/
 
-# RD & MVP Reconnect
+# RD & MVP Reconnect [Email Done]
 
 *Toi B. Wright
-United States
-TX Biography
+United States, TX 
+Biography
 Toi B. Wright is an independent consultant who has been working as a software developer for over 25 years. She has a BS in Computer Science and Engineering from the Massachusetts Institute of Technology and an MBA from Carnegie Mellon University. She has been a Microsoft MVP in ASP/ASP.NET since 2005. She is also an ASPInsider.
 Ms. Wright is the author of 'Blazor WebAssembly by Example: A project-based guide to building web apps with .NET, Blazor WebAssembly, and C#'. She is also the author of the WROX book 'ASP.NET 4 24-Hour Trainer'. She wrote the MVC modules for Course 10264A - Developing Web Applications with Microsoft Visual Studio 2010 and all of the modules for Course 10553A - Fundamentals of XAML and Microsoft Expression Blend. 
 Ms Wright was the organizer of the original We Are Microsoft - Charity Challenge Weekend, www.wearemicrosoft.com. She is the Founder and President of the Dallas ASP.NET User Group, www.dallasasp.net. She has been involved with various user groups around Dallas since 1994 and has been running one or more user groups since 2000. She most recently helped organize the new Geeks in Pink group. This group supports women in technology.  toi@onestopdesigns.com *
@@ -109,7 +109,8 @@ Web Applications / Consulting / GiveCamp jay@aranasoft.com https://jay.aranasoft
 *Esteban Garcia
 DevOps / Azure / .NET esteban@outlook.com http://www.almguide.com/ https://www.meetup.com/onetug/?_cookie-check=xlHuhibaS8tlZof6*
 
-*Christian Buckley Recognitions
+*Christian Buckley 
+Recognitions
 Top 25 SharePoint Influencers 2018 (#1)
 Microsoft Regional Director
 Widest Reach - US West MVPs
@@ -119,10 +120,7 @@ Collaboration / Blockchain / MarTech https://linktr.ee/buckleyplanet https://www
 
 
 
-
-
-
-
+---
 
 - Todd Fine
 Azure Cloud / Data and AI / App Modernization toddf@wintellect.com toddf1234@outlook.com
@@ -210,7 +208,7 @@ AI & Machine Learning / Explainable & Interpretable AI / Strategy & Governance h
 
 
 
-
+---
 
 
 
@@ -299,8 +297,62 @@ Recognitions
 MCPD Microsoft Certified Professional Developer
 70-515 : MCTS .Net Framework 4, Web Application https://patrickdesjardins.com/blog https://www.amazon.com/Holistic-TypeScript-Version-4-0/dp/B08DSSCLYW mrdesjardins@gmail.com*
 
+*Tim Corey
+United States, TX
+A software developer who learned the hard way and now teaches others the easy way.Biography
+I started programming professionally before I graduated high school. I immediately loved it. The only problem was that no one really taught me how to grow my skills. I spent years going down blind alleys and taking the wrong fork in the road in my quest to become a better software developer. Over time I finally figured it out, but even then I had gaps in my knowledge. When I finally started to get a good grasp on what software development was all about, I began to help others avoid my mistakes. From that came my YouTube channel (https://youtube.com/IAmTimCorey) and my training site (https://IAmTimCorey.com). I primarily teach C# but I also cover SQL and the web technologies (HTML/CSS/JavaScript).  tim@iamtimcorey.com Certifications
+PMP,Intel Software Innovator  https://www.csharpmastercourse.com/ https://stackoverflow.com/users/733798/iamtimcorey *
+
+*Brian Noyes ( Brian Noyes )
+United States
+Vista, CA  brian.noyes@gmail.com http://briannoyes.com/ brian.noyes@solliance.net https://www.meetup.com/members/74664412/ http://www.softinsight.com/ https://www.solliance.net/*
 
 
+*Heather Downing ( Heather Downing )
+United States
+SMITHVILLE, Missouri 
+Heather encourages those with nontraditional backgrounds to enter the world of software development, as she changed careers at 27 and does not have a degree - yet has built a reputation as an early adapter of new tech. She is an advocate of women in tech, and part of Kansas City Women in Technology.  quorralyne@gmail.com https://www.quorralyne.com/ *
+
+*Jesse Liberty
+United States
+Xamarin MVP, Microsoft MVP, Certified Xamarin Developer, Author, Pluralsight, LinkedIn Learning, Udemy & Packt, Novelist  JesseLiberty@gmail.com https://JesseLiberty.com Certifications
+Xamarin Certified Mobile Developer (3rd year)
+Recognitions
+Xamarin MVP
+Telerik MVP
+Xamarin Certified Mobile Developer
+Microsoft MVP*
+
+*Michael Washington
+United States
+CA
+Michael Washington is a ASP.NET, C# programmer. He is the founder of BlazorHelpWebsite.com and AiHelpWebsite.com Certifications
+Microsoft Certified Technology Specialist,Microsoft Certified Professional  blazorhelpwebsite.com *
+
+*Mitchel Wyndham Sellers
+United States
+Ankeny, IA
+Microsoft .NET Software Architect, Performance, Security and Compliance Expert, Public Speaker, Open Source Supporter, Pilot, Father   https://mitchelsellers.com  msellers@iowacomputergurus.co  Certifications
+MCITP, MCPD, MCTS
+Recognitions
+DNN MVP (2020)
+DNN MVP 2014
+DNN MVP 2013
+DotNetNuke MVP
+DMACC Outstanding Alumni  https://www.iowacomputergurus.com/ https://www.mitchelsellers.com/blogs.aspx msellers@Iowacomputergurus.com*
+
+*Philip F Japikse ( Phil Japikse )
+United States
+West Chester, OH
+CTO, Architect, Speaker, Father, Husband japikse@outlook.com 
+Certifications
+ASPInsider, MCSD, MCDBA, PSM II, PSD, CSM http://www.skimedic.com/  http://hallwayconversations.com/ http://www.cinnug.org/ https://www.pinnsg.com/ comments@hallwayconversations.com pinnsg@pinnsg.com*
+
+
+
+
+
+---
 
 
 # MVP
@@ -356,9 +408,6 @@ United States https://brianlagunas.com/ 	blagunas@infragistics.com
 Brian Minisi
 United States https://www.meetup.com/members/119066052/ 
 
-Brian Noyes ( Brian Noyes )
-United States
-Vista, CA  brian.noyes@gmail.com http://briannoyes.com/ brian.noyes@solliance.net https://www.meetup.com/members/74664412/ http://www.softinsight.com/ https://www.solliance.net/
 
 Bryan Hogan
 United States
@@ -509,10 +558,6 @@ Greg Shackles
 West Hollywood, Las Angeles
 United States Olo greg@gregshackles.com https://www.gregshackles.com/ https://stackoverflow.com/users/170333/greg-shackles  https://www.meetup.com/members/8667764/
 
-Heather Downing ( Heather Downing )
-United States
-SMITHVILLE, Missouri 
-Heather encourages those with nontraditional backgrounds to enter the world of software development, as she changed careers at 27 and does not have a degree - yet has built a reputation as an early adapter of new tech. She is an advocate of women in tech, and part of Kansas City Women in Technology.  quorralyne@gmail.com https://www.quorralyne.com/ 
 
 Jamie
 United States
@@ -539,15 +584,6 @@ Jeremy Clark
 United States
 Developer Betterer https://jeremybytes.blogspot.com/ http://www.jeremybytes.com/Default.aspx
 
-Jesse Liberty
-United States
-Xamarin MVP, Microsoft MVP, Certified Xamarin Developer, Author, Pluralsight, LinkedIn Learning, Udemy & Packt, Novelist  JesseLiberty@gmail.com https://JesseLiberty.com Certifications
-Xamarin Certified Mobile Developer (3rd year)
-Recognitions
-Xamarin MVP
-Telerik MVP
-Xamarin Certified Mobile Developer
-Microsoft MVP
 
 Jim Wilcox ( Jim Wilcox, The Granite State Hacker )
 United States
@@ -662,11 +698,6 @@ United States
 AL
 I work every day to build better builders; better developers, better teammates, and better humans. 	mike@baldbeardedbuilder.com mike@sparcapp.io https://baldbeardedbuilder.com/ 
 
-Michael Washington
-United States
-CA
-Michael Washington is a ASP.NET, C# programmer. He is the founder of BlazorHelpWebsite.com and AiHelpWebsite.com Certifications
-Microsoft Certified Technology Specialist,Microsoft Certified Professional  blazorhelpwebsite.com 
 
 Miguel A. Castro
 United States
@@ -688,17 +719,6 @@ Mitch Muenster
 United States  mitchmuenster@gmail.com Certifications
 Xamarin Certified Developer https://mitchmuenster.wordpress.com/ 
 
-Mitchel Wyndham Sellers
-United States
-Ankeny, IA
-Microsoft .NET Software Architect, Performance, Security and Compliance Expert, Public Speaker, Open Source Supporter, Pilot, Father   https://mitchelsellers.com  msellers@iowacomputergurus.co  Certifications
-MCITP, MCPD, MCTS
-Recognitions
-DNN MVP (2020)
-DNN MVP 2014
-DNN MVP 2013
-DotNetNuke MVP
-DMACC Outstanding Alumni  https://www.iowacomputergurus.com/ https://www.mitchelsellers.com/blogs.aspx msellers@Iowacomputergurus.com
 
 Ondrej Balas
 United States
@@ -706,7 +726,8 @@ Bloomfield Hills owner of UseTech Design, a Michigan-based development company
 
 Oscar D Garcia ( ozkary )
 United States
-I am a principal software architect who enjoys sharing my experience about software development with the goal to help the technology communities around the world. Recognitions
+I am a principal software architect who enjoys sharing my experience about software development with the goal to help the technology communities around the world. 
+Recognitions
 Power Platform Functional Consultant Associate
 MS: Programming in HTML5 with JavaScript and CSS3 Specialist
 MCPS: Microsoft Certified Professional
@@ -719,11 +740,7 @@ Bellevue, WA
 Someone who loves to help folks get better at building software Certifications
 MCSD https://haacked.com/ https://stackoverflow.com/users/598/haacked https://github.com/dotnet/roslyn/issues/51132 https://github.com/MicrosoftDocs/bot-docs/pull/1711 
 
-Philip F Japikse ( Phil Japikse )
-United States
-West Chester, OH
-CTO, Architect, Speaker, Father, Husband japikse@outlook.com Certifications
-ASPInsider, MCSD, MCDBA, PSM II, PSD, CSM http://www.skimedic.com/  http://hallwayconversations.com/ http://www.cinnug.org/ https://www.pinnsg.com/ comments@hallwayconversations.com pinnsg@pinnsg.com
+
 
 Rick Strahl ( Rick Strahl )
 United States
@@ -735,7 +752,8 @@ Lake Charles, Louisiana United States  https://rion.io/ https://social.msdn.micr
 
 Rob Keiser
 United States
-Schwenksville, PA Rob's company, Row 5 Information System Certifications
+Schwenksville, PA Rob's company, Row 5 Information System 
+Certifications
 MCP https://www.meetup.com/Philly-NET/members/185606021/ rob@row-5.com
 
 Rob Wolfs Irving
@@ -822,13 +840,6 @@ Software Team Coach, Trainer, Mentor, Force Multiplier devbetter.com for develop
 MCSD, MCSE+Internet
 Recognitions
 Xamarin Certified Mobile Developer https://ardalis.com/ https://weeklydevtips.com/ steve@kentsmiths.com http://ardalis.com https://stackoverflow.com/users/13729/ssmith https://weeklydevtips.com/
-
-Tim Corey
-United States
-TX
-A software developer who learned the hard way and now teaches others the easy way.Biography
-I started programming professionally before I graduated high school. I immediately loved it. The only problem was that no one really taught me how to grow my skills. I spent years going down blind alleys and taking the wrong fork in the road in my quest to become a better software developer. Over time I finally figured it out, but even then I had gaps in my knowledge. When I finally started to get a good grasp on what software development was all about, I began to help others avoid my mistakes. From that came my YouTube channel (https://youtube.com/IAmTimCorey) and my training site (https://IAmTimCorey.com). I primarily teach C# but I also cover SQL and the web technologies (HTML/CSS/JavaScript).  tim@iamtimcorey.com Certifications
-PMP,Intel Software Innovator  https://www.csharpmastercourse.com/ https://stackoverflow.com/users/733798/iamtimcorey 
 
 
 Vincent Maverick Sanchez Durano
