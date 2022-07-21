@@ -213,7 +213,7 @@ AI & Machine Learning / Explainable & Interpretable AI / Strategy & Governance h
 
 
 
-# MVP TEAM   https://mvp.microsoft.com/MvpSearch
+# MVP TEAM   https://mvp.microsoft.com/MvpSearch Email Done
 
 1. Betsy Weber
 Community Program Manager – Manitoba and Ontario, Canada and Central US
@@ -240,9 +240,8 @@ Based in New York, NY Rochelle.Sonnenberg@microsoft.com
 
 
 
-
-
 # MVP RECONNECT
+
 *Chander Dhall
 United States
 CEO of Cazton, Microsoft Regional Director, Google Developer Expert, Microsoft MVP, Linkedin Learning Author, Azure Advisor, ASP.NET Insider, Speaker at International Tech Conferences.
@@ -348,6 +347,33 @@ CTO, Architect, Speaker, Father, Husband japikse@outlook.com
 Certifications
 ASPInsider, MCSD, MCDBA, PSM II, PSD, CSM http://www.skimedic.com/  http://hallwayconversations.com/ http://www.cinnug.org/ https://www.pinnsg.com/ comments@hallwayconversations.com pinnsg@pinnsg.com*
 
+*Shawn Wildermuth
+United States
+Atlanta, GA
+Author, Speaker and Trainer Biography
+Shawn Wildermuth has been tinkering with computers and software since he got a Vic-20 back in the early ‘80s. As a Microsoft MVP since 2003, he’s also involved with Microsoft as an ASP.NET Insider and ClientDev Insider. You may have taken one of his more than twenty courses on Pluralsight (http://shawnw.me/psauthor) including his latest: “Building a Web App with ASP.NET Core, MVC, EF and Angular”. He’s authored eight books and innumerable articles on software development. You can also see him at one of the local and international conferences he’s spoken at including TechEd, Oredev, SDC, NDC, VSLive, DevIntersection, MIX, Devteach, DevConnections and Dev Reach. He is one of the Wilder Minds. You can reach him at his blog at http://wildermuth.com. shawn@wildermuth.com https://wildermuth.com/ https://wilderminds.com/ https://www.pluralsight.com/authors/shawn-wildermuth https://stackoverflow.com/users/40125/shawn-wildermuth *
+
+
+*Rockford Lhotka ( Rockford )
+United States
+Eden Prairie, MN
+Open source architect, author, speaker Biography
+Rockford Lhotka is the creator of the widely used open source CSLA .NET development framework. He is the author of numerous books, and regularly speaks at major conferences around the world. Rockford is a member of the Microsoft Regional Director program and an MVP. For more information go to https://lhotka.net. rocky@lhotka.net +1.952.715.7791 (Mobile) https://blog.lhotka.net/ https://cslanet.com/ https://about.me/rockfordlhotka https://stackoverflow.com/users/438576/rockford-lhotka https://www.meetup.com/members/101339692/ *
+
+*Miguel A. Castro
+United States
+Principal Consultant at Melvicorp LLC - Microsoft MVP, Regional Director, & Conference Speaker miguelcastro67@gmail.com Certifications
+Regional Director http://www.dotnetdude.com/ http://www.melvicorp.com/ *
+
+*Oscar D Garcia ( ozkary )
+United States
+I am a principal software architect who enjoys sharing my experience about software development with the goal to help the technology communities around the world. 
+Recognitions
+Power Platform Functional Consultant Associate
+MS: Programming in HTML5 with JavaScript and CSS3 Specialist
+MCPS: Microsoft Certified Professional
+MCSD1: Microsoft .NET
+MCAD: Microsoft .NET https://www.og-bit.com/ https://www.meetup.com/members/199153833/ https://www.ozkary.com/ services@og-bit.com*
 
 
 
@@ -699,11 +725,6 @@ AL
 I work every day to build better builders; better developers, better teammates, and better humans. 	mike@baldbeardedbuilder.com mike@sparcapp.io https://baldbeardedbuilder.com/ 
 
 
-Miguel A. Castro
-United States
-Principal Consultant at Melvicorp LLC - Microsoft MVP, Regional Director, & Conference Speaker miguelcastro67@gmail.com Certifications
-Regional Director http://www.dotnetdude.com/ http://www.melvicorp.com/ 
-
 Mike Douglas
 United States
 Elkhorn, NE Certifications
@@ -724,15 +745,7 @@ Ondrej Balas
 United States
 Bloomfield Hills owner of UseTech Design, a Michigan-based development company  
 
-Oscar D Garcia ( ozkary )
-United States
-I am a principal software architect who enjoys sharing my experience about software development with the goal to help the technology communities around the world. 
-Recognitions
-Power Platform Functional Consultant Associate
-MS: Programming in HTML5 with JavaScript and CSS3 Specialist
-MCPS: Microsoft Certified Professional
-MCSD1: Microsoft .NET
-MCAD: Microsoft .NET https://www.og-bit.com/ https://www.meetup.com/members/199153833/ https://www.ozkary.com/ services@og-bit.com
+
 
 Phil Haack
 United States
@@ -779,11 +792,6 @@ Principal Application Security Architect, developer, and trainer Certifications
 * Amherst Security Group (https://www.meetup.com/AmherstSec/) - leader for over 5 years
 * Application Security Podcast (https://www.appsecpodcast.org/) - co-host for over 5 years (8+ seasons) https://roberthurlbut.com/ 
 
-Rockford Lhotka ( Rockford )
-United States
-Eden Prairie, MN
-Open source architect, author, speaker Biography
-Rockford Lhotka is the creator of the widely used open source CSLA .NET development framework. He is the author of numerous books, and regularly speaks at major conferences around the world. Rockford is a member of the Microsoft Regional Director program and an MVP. For more information go to https://lhotka.net. rocky@lhotka.net +1.952.715.7791 (Mobile) https://blog.lhotka.net/ https://cslanet.com/ https://about.me/rockfordlhotka https://stackoverflow.com/users/438576/rockford-lhotka https://www.meetup.com/members/101339692/ 
 
 Rodney Littles, II
 United States
@@ -813,11 +821,6 @@ Sean Whitesell
 United States
 OK  https://www.seanwhitesell.com/ 
 
-Shawn Wildermuth
-United States
-Atlanta, GA
-Author, Speaker and Trainer Biography
-Shawn Wildermuth has been tinkering with computers and software since he got a Vic-20 back in the early ‘80s. As a Microsoft MVP since 2003, he’s also involved with Microsoft as an ASP.NET Insider and ClientDev Insider. You may have taken one of his more than twenty courses on Pluralsight (http://shawnw.me/psauthor) including his latest: “Building a Web App with ASP.NET Core, MVC, EF and Angular”. He’s authored eight books and innumerable articles on software development. You can also see him at one of the local and international conferences he’s spoken at including TechEd, Oredev, SDC, NDC, VSLive, DevIntersection, MIX, Devteach, DevConnections and Dev Reach. He is one of the Wilder Minds. You can reach him at his blog at http://wildermuth.com. shawn@wildermuth.com https://wildermuth.com/ https://wilderminds.com/ https://www.pluralsight.com/authors/shawn-wildermuth https://stackoverflow.com/users/40125/shawn-wildermuth 
 
 Spencer Schneidenbach
 United States
