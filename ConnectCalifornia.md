@@ -240,7 +240,7 @@ Based in New York, NY Rochelle.Sonnenberg@microsoft.com
 
 
 
-# MVP RECONNECT
+# MVP RECONNECT [email done]
 
 *Chander Dhall
 United States
@@ -287,7 +287,8 @@ Austin Under 40 Winner - Technology 2017 	sales@clear-measure.com https://clearm
 
 *Patrick Desjardins
 LA, United States
-Asp.Net MVC, Entity Framework, Web Development using Javascript, Jquery, Html5 and CSS. He was a Microsoft Most Valuable Professional (MVP) in Asp.Net for two consecutive years, 2013 and 2014.  mrdesjardins@gmail.com Certifications
+Asp.Net MVC, Entity Framework, Web Development using Javascript, Jquery, Html5 and CSS. He was a Microsoft Most Valuable Professional (MVP) in Asp.Net for two consecutive years, 2013 and 2014.  mrdesjardins@gmail.com 
+Certifications
 70-515, 70-513, 70-516, 70-519, 70-480
 Recognitions
 70-480 : MS Programming in Html5 with Javascript and CSS3 Specialist
@@ -299,7 +300,8 @@ MCPD Microsoft Certified Professional Developer
 *Tim Corey
 United States, TX
 A software developer who learned the hard way and now teaches others the easy way.Biography
-I started programming professionally before I graduated high school. I immediately loved it. The only problem was that no one really taught me how to grow my skills. I spent years going down blind alleys and taking the wrong fork in the road in my quest to become a better software developer. Over time I finally figured it out, but even then I had gaps in my knowledge. When I finally started to get a good grasp on what software development was all about, I began to help others avoid my mistakes. From that came my YouTube channel (https://youtube.com/IAmTimCorey) and my training site (https://IAmTimCorey.com). I primarily teach C# but I also cover SQL and the web technologies (HTML/CSS/JavaScript).  tim@iamtimcorey.com Certifications
+I started programming professionally before I graduated high school. I immediately loved it. The only problem was that no one really taught me how to grow my skills. I spent years going down blind alleys and taking the wrong fork in the road in my quest to become a better software developer. Over time I finally figured it out, but even then I had gaps in my knowledge. When I finally started to get a good grasp on what software development was all about, I began to help others avoid my mistakes. From that came my YouTube channel (https://youtube.com/IAmTimCorey) and my training site (https://IAmTimCorey.com). I primarily teach C# but I also cover SQL and the web technologies (HTML/CSS/JavaScript).  tim@iamtimcorey.com 
+Certifications
 PMP,Intel Software Innovator  https://www.csharpmastercourse.com/ https://stackoverflow.com/users/733798/iamtimcorey *
 
 *Brian Noyes ( Brian Noyes )
@@ -325,7 +327,8 @@ Microsoft MVP*
 *Michael Washington
 United States
 CA
-Michael Washington is a ASP.NET, C# programmer. He is the founder of BlazorHelpWebsite.com and AiHelpWebsite.com Certifications
+Michael Washington is a ASP.NET, C# programmer. He is the founder of BlazorHelpWebsite.com and AiHelpWebsite.com 
+Certifications
 Microsoft Certified Technology Specialist,Microsoft Certified Professional  blazorhelpwebsite.com *
 
 *Mitchel Wyndham Sellers
@@ -350,7 +353,8 @@ ASPInsider, MCSD, MCDBA, PSM II, PSD, CSM http://www.skimedic.com/  http://hallw
 *Shawn Wildermuth
 United States
 Atlanta, GA
-Author, Speaker and Trainer Biography
+Author, Speaker and Trainer 
+Biography
 Shawn Wildermuth has been tinkering with computers and software since he got a Vic-20 back in the early ‘80s. As a Microsoft MVP since 2003, he’s also involved with Microsoft as an ASP.NET Insider and ClientDev Insider. You may have taken one of his more than twenty courses on Pluralsight (http://shawnw.me/psauthor) including his latest: “Building a Web App with ASP.NET Core, MVC, EF and Angular”. He’s authored eight books and innumerable articles on software development. You can also see him at one of the local and international conferences he’s spoken at including TechEd, Oredev, SDC, NDC, VSLive, DevIntersection, MIX, Devteach, DevConnections and Dev Reach. He is one of the Wilder Minds. You can reach him at his blog at http://wildermuth.com. shawn@wildermuth.com https://wildermuth.com/ https://wilderminds.com/ https://www.pluralsight.com/authors/shawn-wildermuth https://stackoverflow.com/users/40125/shawn-wildermuth *
 
 
