@@ -1,6 +1,7 @@
 Human Resource Management System (HR SOFTWARE)
 http://datasoft-bd.com/smart-hrm/
 https://www.workspaceit.com/hr-software/
+https://www.bdtask.com/hrms-software.php
 
 Payroll Management System
 http://datasoft-bd.com/smart-payroll/
@@ -51,12 +52,14 @@ https://staritltd.com/accounting-management-software-in-bangladesh/
 INVENTORY MANAGEMENT SYSTEM
 https://www.workspaceit.com/inventory-management/
 https://staritltd.com/inventory-management-software/
+https://www.bdtask.com/inventory-management-system.php
 
 Retail
 https://genweb2.com/pages/retail
 
 Garments ERP
 http://soft-code.net/
+https://thezoomit.com/best-erp-software-company-in-bangladesh
 
 Freight management software or shipping management software
 https://www.zaman-it.com/freight-software/
@@ -65,6 +68,7 @@ POS SOFTWARE
 https://www.zaman-it.com/pos/
 https://www.workspaceit.com/pos-software/
 https://staritltd.com/pos-software-in-bangladesh%ef%bf%bc/
+https://thezoomit.com/pos-software-company-in-bangladesh
 
 Prescription Management Software 
 https://www.zaman-it.com/prescription-management-software/
@@ -80,6 +84,7 @@ School Management Software
 https://www.zaman-it.com/school-management/
 https://www.workspaceit.com/school-management/
 https://staritltd.com/school-management-software/
+https://pathshalasoft.com/
 
 Travel Agency Software 
 https://www.zaman-it.com/travel-agency-software/
@@ -105,6 +110,15 @@ https://staritltd.com/warehouse-management-software-in-bangladesh/
 Tax management software in Bangladesh
 https://staritltd.com/tax-management-software-in-bangladesh/
 
+
+Sales ERP Software
+https://www.bdtask.com/sales-erp-software.php
+
+Multi Store Management
+https://multistorelease.bdtask.com/multistore_demo/login
+
+Banking ERP Solution
+https://www.bdtask.com/banking-solutions.php
 
 
 
