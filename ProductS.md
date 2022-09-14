@@ -26,12 +26,19 @@ https://www.zaman-it.com/hr-software/
  https://www.workspaceit.com/ecommerce/
  https://www.bdtask.com/multi-store-ecommerce-shopping-cart-software/
  
+ eCommerce marketplace with multiple vendors
+ https://www.bdtask.com/multivendor-marketplace-platform.php
+ 
+  e-commerce web portal that facilitates MFI beneficiaries
+  http://datasoft-bd.com/e-micromela/
+ 
  HOSPITAL MANAGEMENT SOLUTION
 https://egeneration.co/hospital-management-solution/
 https://www.zaman-it.com/hospital-management-system/
 https://www.workspaceit.com/hospital-management/
 https://staritltd.com/hospital-management-software/
 https://www.bdtask.com/hospital-management-software.php
+https://multihospitalnew.bdtask.com/
 
 e-library management solution
 https://www.dream71.com/portfolio_page/bangladesh-institute-of-information-and-strategic-studies-biiss/
@@ -73,8 +80,10 @@ https://www.workspaceit.com/pos-software/
 https://staritltd.com/pos-software-in-bangladesh%ef%bf%bc/
 https://thezoomit.com/pos-software-company-in-bangladesh
 
-Prescription Management Software 
+Doctors Appointment & Prescription Management Software 
 https://www.zaman-it.com/prescription-management-software/
+https://gprescription.bdtask.com/login
+https://doctorssnew.bdtask.com/login
 
 Restaurant Management System
 https://www.zaman-it.com/restaurant-management-system/
@@ -133,5 +142,15 @@ https://www.bdtask.com/cloud-kitchen.php
 Flight Booking Software
 https://www.bdtask.com/flight-booking-software.php
 
+Garage management software
+https://www.bdtask.com/garage-management-software.php
 
+Learning management system
+https://www.bdtask.com/learning-management-system.php
 
+Bus Reservation System | bus ticket reservation system
+https://www.bdtask.com/bus-reservation-system.php
+
+vehicle-management-system
+https://www.bdtask.com/vehicle-management-system.php
+http://datasoft-bd.com/smart-vehicle/
