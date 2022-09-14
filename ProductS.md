@@ -28,6 +28,7 @@ https://www.zaman-it.com/hr-software/
 https://egeneration.co/hospital-management-solution/
 https://www.zaman-it.com/hospital-management-system/
 https://www.workspaceit.com/hospital-management/
+https://staritltd.com/hospital-management-software/
 
 e-library management solution
 https://www.dream71.com/portfolio_page/bangladesh-institute-of-information-and-strategic-studies-biiss/
@@ -45,9 +46,11 @@ http://datasoft-bd.com/smart-accounts/
 https://www.zaman-it.com/accounting-software/
 https://www.zaman-it.com/accounting/
 https://www.workspaceit.com/accounting-software/
+https://staritltd.com/accounting-management-software-in-bangladesh/
 
 INVENTORY MANAGEMENT SYSTEM
 https://www.workspaceit.com/inventory-management/
+https://staritltd.com/inventory-management-software/
 
 Retail
 https://genweb2.com/pages/retail
@@ -61,6 +64,7 @@ https://www.zaman-it.com/freight-software/
 POS SOFTWARE
 https://www.zaman-it.com/pos/
 https://www.workspaceit.com/pos-software/
+https://staritltd.com/pos-software-in-bangladesh%ef%bf%bc/
 
 Prescription Management Software 
 https://www.zaman-it.com/prescription-management-software/
@@ -70,10 +74,12 @@ https://www.zaman-it.com/restaurant-management-system/
 
 HOTEL & RESTAURANT MANAGEMENT MOBILE APP
 https://www.workspaceit.com/hotel-restaurent/
+https://staritltd.com/restaurant-management-software-bangladesh/
 
 School Management Software
 https://www.zaman-it.com/school-management/
 https://www.workspaceit.com/school-management/
+https://staritltd.com/school-management-software/
 
 Travel Agency Software 
 https://www.zaman-it.com/travel-agency-software/
@@ -86,5 +92,19 @@ https://www.workspaceit.com/travel-agency-management/
 
 SPECIALIZED ERP SYSTEM
 https://www.workspaceit.com/erp-system/
+
+Courier Management Software
+https://staritltd.com/courier-management-software-in-bd/
+
+Doctor Appointment Booking Software
+https://staritltd.com/best-doctor-appointment-booking-software/
+
+Warehouse management software in Bangladesh
+https://staritltd.com/warehouse-management-software-in-bangladesh/
+
+Tax management software in Bangladesh
+https://staritltd.com/tax-management-software-in-bangladesh/
+
+
 
 
