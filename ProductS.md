@@ -1,12 +1,14 @@
-Human Resource Management System
+Human Resource Management System (HR SOFTWARE)
 http://datasoft-bd.com/smart-hrm/
+https://www.workspaceit.com/hr-software/
 
 Payroll Management System
 http://datasoft-bd.com/smart-payroll/
 
-SYSTECH HR & PAYROLL SOFTWARE
+HR & PAYROLL SOFTWARE
 http://systechpayroll.com/
 http://www.hrmsoftwarebd.com/
+https://www.zaman-it.com/hr-software/
 
  Employees benefit package Management System
  http://datasoft-bd.com/smart-benefit/
@@ -16,18 +18,23 @@ http://www.hrmsoftwarebd.com/
  
  Customer relationship management (CRM) System
  https://systechdigital.com/services/index/crm
+ https://www.zaman-it.com/lead-management-software/
  
  E-Commerce Management System
  https://systechdigital.com/services/index/e-commerce
+ https://www.workspaceit.com/ecommerce/
  
  HOSPITAL MANAGEMENT SOLUTION
 https://egeneration.co/hospital-management-solution/
+https://www.zaman-it.com/hospital-management-system/
+https://www.workspaceit.com/hospital-management/
 
 e-library management solution
 https://www.dream71.com/portfolio_page/bangladesh-institute-of-information-and-strategic-studies-biiss/
 
 pharmacy management system
 http://hrsoftbd.com/services/pharmacy-management-software
+https://www.zaman-it.com/pharmacy/
 
 Real Estate Management System
 http://hrsoftbd.com/services/real-estate-management-system
@@ -35,6 +42,49 @@ http://hrsoftbd.com/services/real-estate-management-system
 Accounting Software
 http://hrsoftbd.com/services/best-accounting-software-in-bangladesh
 http://datasoft-bd.com/smart-accounts/
+https://www.zaman-it.com/accounting-software/
+https://www.zaman-it.com/accounting/
+https://www.workspaceit.com/accounting-software/
+
+INVENTORY MANAGEMENT SYSTEM
+https://www.workspaceit.com/inventory-management/
 
 Retail
 https://genweb2.com/pages/retail
+
+Garments ERP
+http://soft-code.net/
+
+Freight management software or shipping management software
+https://www.zaman-it.com/freight-software/
+
+POS SOFTWARE
+https://www.zaman-it.com/pos/
+https://www.workspaceit.com/pos-software/
+
+Prescription Management Software 
+https://www.zaman-it.com/prescription-management-software/
+
+Restaurant Management System
+https://www.zaman-it.com/restaurant-management-system/
+
+HOTEL & RESTAURANT MANAGEMENT MOBILE APP
+https://www.workspaceit.com/hotel-restaurent/
+
+School Management Software
+https://www.zaman-it.com/school-management/
+https://www.workspaceit.com/school-management/
+
+Travel Agency Software 
+https://www.zaman-it.com/travel-agency-software/
+
+STOCK MANAGEMENT SYSTEM
+https://www.workspaceit.com/stock-management-system/
+
+TRAVEL AGENCY MANAGEMENT SOFTWARE
+https://www.workspaceit.com/travel-agency-management/
+
+SPECIALIZED ERP SYSTEM
+https://www.workspaceit.com/erp-system/
+
+
