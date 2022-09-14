@@ -24,12 +24,14 @@ https://www.zaman-it.com/hr-software/
  E-Commerce Management System
  https://systechdigital.com/services/index/e-commerce
  https://www.workspaceit.com/ecommerce/
+ https://www.bdtask.com/multi-store-ecommerce-shopping-cart-software/
  
  HOSPITAL MANAGEMENT SOLUTION
 https://egeneration.co/hospital-management-solution/
 https://www.zaman-it.com/hospital-management-system/
 https://www.workspaceit.com/hospital-management/
 https://staritltd.com/hospital-management-software/
+https://www.bdtask.com/hospital-management-software.php
 
 e-library management solution
 https://www.dream71.com/portfolio_page/bangladesh-institute-of-information-and-strategic-studies-biiss/
@@ -37,6 +39,7 @@ https://www.dream71.com/portfolio_page/bangladesh-institute-of-information-and-s
 pharmacy management system
 http://hrsoftbd.com/services/pharmacy-management-software
 https://www.zaman-it.com/pharmacy/
+https://www.bdtask.com/pharmacy-management-system.php
 
 Real Estate Management System
 http://hrsoftbd.com/services/real-estate-management-system
@@ -75,10 +78,14 @@ https://www.zaman-it.com/prescription-management-software/
 
 Restaurant Management System
 https://www.zaman-it.com/restaurant-management-system/
+https://www.bdtask.com/restaurant-management-system.php
 
 HOTEL & RESTAURANT MANAGEMENT MOBILE APP
 https://www.workspaceit.com/hotel-restaurent/
 https://staritltd.com/restaurant-management-software-bangladesh/
+
+Hotel Management System & Booking Software
+https://www.bdtask.com/hotel-management-system.php
 
 School Management Software
 https://www.zaman-it.com/school-management/
@@ -119,6 +126,12 @@ https://multistorelease.bdtask.com/multistore_demo/login
 
 Banking ERP Solution
 https://www.bdtask.com/banking-solutions.php
+
+Cloud Kitchen Management Software
+https://www.bdtask.com/cloud-kitchen.php
+
+Flight Booking Software
+https://www.bdtask.com/flight-booking-software.php
 
 
 
