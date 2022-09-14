@@ -2,6 +2,7 @@ Human Resource Management System (HR SOFTWARE)
 http://datasoft-bd.com/smart-hrm/
 https://www.workspaceit.com/hr-software/
 https://www.bdtask.com/hrms-software.php
+https://www.southtechgroup.com/hr-software-in-bangladesh/
 
 Payroll Management System
 http://datasoft-bd.com/smart-payroll/
@@ -10,6 +11,7 @@ HR & PAYROLL SOFTWARE
 http://systechpayroll.com/
 http://www.hrmsoftwarebd.com/
 https://www.zaman-it.com/hr-software/
+https://www.linespay.com/
 
  Employees benefit package Management System
  http://datasoft-bd.com/smart-benefit/
@@ -25,6 +27,7 @@ https://www.zaman-it.com/hr-software/
  https://systechdigital.com/services/index/e-commerce
  https://www.workspaceit.com/ecommerce/
  https://www.bdtask.com/multi-store-ecommerce-shopping-cart-software/
+ https://www.southtechgroup.com/e-commerce-solution-in-bangladesh/
  
  eCommerce marketplace with multiple vendors
  https://www.bdtask.com/multivendor-marketplace-platform.php
@@ -70,6 +73,16 @@ https://genweb2.com/pages/retail
 Garments ERP
 http://soft-code.net/
 https://thezoomit.com/best-erp-software-company-in-bangladesh
+https://pridesys.com/erp-solution/
+https://pridesys.com/industry/garments-industries/
+https://pridesys.com/industry/textile-industries/
+https://pridesys.com/industry/footwear-industries/
+https://pridesys.com/industry/chemicals-and-fertilizers/
+https://pridesys.com/industry/embroidery-and-printing/
+https://pridesys.com/industry/public-organizations/
+https://pridesys.com/industry/apparel-industries/
+https://pridesys.com/industry/healthcare-services/
+
 
 Freight management software or shipping management software
 https://www.zaman-it.com/freight-software/
@@ -154,3 +167,18 @@ https://www.bdtask.com/bus-reservation-system.php
 vehicle-management-system
 https://www.bdtask.com/vehicle-management-system.php
 http://datasoft-bd.com/smart-vehicle/
+
+Microfinance Software
+https://www.southtechgroup.com/microfinance-software/
+
+
+Loan Origination Software
+https://www.southtechgroup.com/loan-origination-software/
+
+VAT Software
+https://www.southtechgroup.com/vat-software-bangladesh/
+
+Insurance Management Software
+https://www.southtechgroup.com/insurance-management-software/
+
+
