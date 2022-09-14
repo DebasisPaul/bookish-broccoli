@@ -12,6 +12,7 @@ http://systechpayroll.com/
 http://www.hrmsoftwarebd.com/
 https://www.zaman-it.com/hr-software/
 https://www.linespay.com/
+https://www.linespay.com/
 
  Employees benefit package Management System
  http://datasoft-bd.com/smart-benefit/
@@ -45,6 +46,7 @@ https://multihospitalnew.bdtask.com/
 
 e-library management solution
 https://www.dream71.com/portfolio_page/bangladesh-institute-of-information-and-strategic-studies-biiss/
+https://www.divineit.net/products/prism-library-management-system/
 
 pharmacy management system
 http://hrsoftbd.com/services/pharmacy-management-software
@@ -83,6 +85,10 @@ https://pridesys.com/industry/public-organizations/
 https://pridesys.com/industry/apparel-industries/
 https://pridesys.com/industry/healthcare-services/
 
+ERP solution
+https://www.prismerp.net/
+https://bd.onebookcloud.com/
+
 
 Freight management software or shipping management software
 https://www.zaman-it.com/freight-software/
@@ -92,6 +98,7 @@ https://www.zaman-it.com/pos/
 https://www.workspaceit.com/pos-software/
 https://staritltd.com/pos-software-in-bangladesh%ef%bf%bc/
 https://thezoomit.com/pos-software-company-in-bangladesh
+https://www.divineit.net/products/prismpos/
 
 Doctors Appointment & Prescription Management Software 
 https://www.zaman-it.com/prescription-management-software/
@@ -177,8 +184,26 @@ https://www.southtechgroup.com/loan-origination-software/
 
 VAT Software
 https://www.southtechgroup.com/vat-software-bangladesh/
+https://www.prismvat.net/
 
 Insurance Management Software
 https://www.southtechgroup.com/insurance-management-software/
 
+Production Planning & Control
+https://www.divineit.net/products/centroid/
+
+Applicant Tracking System
+https://www.divineit.net/products/prism-ats/
+
+Merchandise solution for Buying House
+https://www.divineit.net/products/mms/
+
+Visitor Management System
+https://www.divineit.net/products/prism-visitor-management-system/
+
+Operate utility billing through your self defined policy
+https://www.divineit.net/products/utility-billing/
+
+Document Management System
+https://www.divineit.net/products/prism-document-management-system/
 
