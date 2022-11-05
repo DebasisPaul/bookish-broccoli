@@ -1,15 +1,12 @@
 # Best Hospital In the World
-- Mayo Clinic – The United States Rochester, Minnesota.
-- Massachusetts General Hospital – The United States
-- Johns Hopkins Hospital – The United States
-- Cleveland Clinic – The United States
--  Toronto General Hospital – Canada
--  Charité (Charity-University Medicine Berlin) – Germany
--  Ronald Reagan UCLA Medical Center Los Angeles.
--  Massachusetts General Hospital
--  Toronto General (University Health Network)
--  Cedars-Sinai Medical Center, Los Angeles.
--  Cedars-Sinai Medical Center, Los Angeles.
+1. Mayo Clinic – The United States Rochester, Minnesota.
+2. Cleveland Clinic – The United States
+3. Massachusetts General Hospital – The United States
+4. Johns Hopkins Hospital – The United States
+5. Toronto General Hospital – Canada
+6.  Charité (Charity-University Medicine Berlin) – Germany
+7.  Ronald Reagan UCLA Medical Center Los Angeles.
+8.  Cedars-Sinai Medical Center, Los Angeles.
 7. New York-Presbyterian Hospital-Columbia and Cornell, New York.
 8. NYU Langone Hospitals, New York.
 9. UCSF Medical Center, San Francisco.
